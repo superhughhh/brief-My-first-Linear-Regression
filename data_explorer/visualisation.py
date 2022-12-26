@@ -19,8 +19,6 @@ def hist_distributions(dataframe, figsize:tuple=(20,10), rows:int=3, cols:int=4)
         plt.subplot(rows,cols,index+1)
         plt.hist(dataframe[column])
         plt.title(f"Distribution by : {column}", fontsize=15)
-        if rows[0] == str(""):
-            plt.tick_params(axis=x, bottom='False')
     plt.show()
 
 
