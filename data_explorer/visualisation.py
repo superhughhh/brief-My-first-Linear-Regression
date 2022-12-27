@@ -97,3 +97,24 @@ def view_values_frequency(serie:list, graphic_mode:bool=False):
         return None
     else:
         return (serie.value_counts()/serie.value_counts().sum())*100
+
+def calc_outliers_std(data, sigma_mul=3):
+    mean = np.mean(data)
+    std = np.std(data)
+    outliers = data[np.abs(data - mean) > sigma_mul * std]
+    return outliers
+
+def calc_outliers(data, q1=0.25, q3=0.75):
+    # Calculate the first and third quartiles and the IQR
+    Q1 = data.quantile(q1)
+    Q3 = data.quantile(q3)
+    IQR = Q3 - Q1
+
+    # Define the range of acceptable values
+    lower_bound = Q1 - 1.5 * IQR
+    upper_bound = Q3 + 1.5 * IQR
+
+    # Identify outliers
+    outliers = data[(data < lower_bound) | (data > upper_bound)]
+
+    return outliers
