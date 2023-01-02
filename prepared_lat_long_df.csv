@@ -1,0 +1,1806 @@
+,winery,wine,year,rating,num_reviews,region,price,latitude,longitude
+0,Teso La Monja,Tinto,2013.0,4.9,58,Toro,995.0,41.5216963,-5.3939824
+1,Artadi,Vina El Pison,2018.0,4.9,31,Vino de Espana,313.5,42.1771554,-8.4341104
+2,Vega Sicilia,Unico,2009.0,4.8,1793,Ribera del Duero,324.95,41.66575665,-3.686329463971761
+3,Vega Sicilia,Unico,1999.0,4.8,1705,Ribera del Duero,692.96,41.66575665,-3.686329463971761
+5,Vega Sicilia,Unico,1998.0,4.8,1209,Ribera del Duero,490.0,41.66575665,-3.686329463971761
+6,Vega Sicilia,Unico,2010.0,4.8,1201,Ribera del Duero,349.0,41.66575665,-3.686329463971761
+8,Vega Sicilia,Unico Reserva Especial Edicion,2015.0,4.8,643,Ribera del Duero,345.0,41.66575665,-3.686329463971761
+9,Vega Sicilia,Unico,2011.0,4.8,630,Ribera del Duero,315.0,41.66575665,-3.686329463971761
+10,Vega Sicilia,Unico Reserva Especial Edicion,2016.0,4.8,591,Ribera del Duero,514.85,41.66575665,-3.686329463971761
+11,Pago de Carraovejas,El Anejon,2016.0,4.8,454,Ribera del Duero,105.15,41.66575665,-3.686329463971761
+12,Vega Sicilia,Unico Reserva Especial Edicion,2018.0,4.8,438,Ribera del Duero,430.0,41.66575665,-3.686329463971761
+15,Pago de Carraovejas,Cuesta de Las Liebres,2015.0,4.8,372,Ribera del Duero,166.18,41.66575665,-3.686329463971761
+17,Vega Sicilia,Unico Reserva Especial Edicion,2019.0,4.8,250,Ribera del Duero,431.36,41.66575665,-3.686329463971761
+18,Bodegas El Nido,El Nido,2018.0,4.8,217,Jumilla,195.627379550654,38.4735408,-1.3285417
+19,Vega Sicilia,Unico Reserva Especial Edicion,2004.0,4.8,211,Ribera del Duero,824.43,41.66575665,-3.686329463971761
+21,Vega Sicilia,Unico Reserva Especial Edicion,2013.0,4.8,172,Ribera del Duero,570.51,41.66575665,-3.686329463971761
+22,Dominio de Pingus,Pingus,2016.0,4.8,145,Ribera del Duero,1280.0,41.66575665,-3.686329463971761
+24,Vega Sicilia,Unico Reserva Especial Edicion,2010.0,4.8,125,Ribera del Duero,719.34,41.66575665,-3.686329463971761
+27,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2004.0,4.8,87,Priorato,1410.26,44.8741121,10.1628956
+28,Vega Sicilia,Unico Reserva Especial Edicion,2005.0,4.8,87,Ribera del Duero,813.96,41.66575665,-3.686329463971761
+29,Vega Sicilia,Unico Reserva Especial Edicion,2020.0,4.8,84,Ribera del Duero,435.75,41.66575665,-3.686329463971761
+30,Ordonez,Vatan Arena Tinta de Toro,2014.0,4.8,79,Toro,369.05,41.5216963,-5.3939824
+33,Bodegas Valduero,Ribera Del Duero Gran Reserva 12 Anos,1999.0,4.8,68,Ribera del Duero,999.0,41.66575665,-3.686329463971761
+34,Vina Sastre,Pesus Ribera del Duero,2007.0,4.8,68,Ribera del Duero,360.0,41.66575665,-3.686329463971761
+35,Teso La Monja,Tinto,2012.0,4.8,56,Toro,1190.0,41.5216963,-5.3939824
+36,Dominio de Pingus,Pingus,2017.0,4.8,52,Ribera del Duero,1150.0,41.66575665,-3.686329463971761
+37,Teso La Monja,Tinto,2009.0,4.8,50,Toro,950.0,41.5216963,-5.3939824
+38,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2008.0,4.8,40,Priorato,1021.21,44.8741121,10.1628956
+39,Sierra Cantabria,Magico,2016.0,4.8,40,Rioja,544.5,42.2814642,-2.482804975070473
+40,Teso La Monja,Tinto,2011.0,4.8,32,Toro,1295.0,41.5216963,-5.3939824
+41,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2017.0,4.8,31,Priorato,992.2,44.8741121,10.1628956
+42,Teso La Monja,Tinto,2015.0,4.8,28,Toro,1289.44,41.5216963,-5.3939824
+43,Descendientes de J. Palacios,La Faraona Bierzo (Corullon),2017.0,4.8,26,Bierzo,1098.9,42.65265025,-6.62318404217132
+45,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2018.0,4.8,26,Priorato,1094.9,44.8741121,10.1628956
+47,Vega Sicilia,Valbuena 5o,2010.0,4.7,5266,Ribera del Duero,239.5,41.66575665,-3.686329463971761
+48,Vega Sicilia,Valbuena 5o,2014.0,4.7,4350,Ribera del Duero,175.5,41.66575665,-3.686329463971761
+49,Vega Sicilia,Valbuena 5o,2006.0,4.7,3929,Ribera del Duero,194.0,41.66575665,-3.686329463971761
+50,Vega Sicilia,Unico,2005.0,4.7,3437,Ribera del Duero,381.15,41.66575665,-3.686329463971761
+51,Vega Sicilia,Unico,2004.0,4.7,3164,Ribera del Duero,584.43,41.66575665,-3.686329463971761
+52,Vega Sicilia,Unico,2000.0,4.7,3127,Ribera del Duero,555.2,41.66575665,-3.686329463971761
+53,Vega Sicilia,Unico,2007.0,4.7,2935,Ribera del Duero,445.28,41.66575665,-3.686329463971761
+54,Vega Sicilia,Valbuena 5o,2015.0,4.7,2826,Ribera del Duero,189.0,41.66575665,-3.686329463971761
+55,Vega Sicilia,Unico,2006.0,4.7,2765,Ribera del Duero,362.25,41.66575665,-3.686329463971761
+56,Vega Sicilia,Unico,2008.0,4.7,2480,Ribera del Duero,289.0,41.66575665,-3.686329463971761
+57,Vega Sicilia,Unico,2003.0,4.7,2419,Ribera del Duero,325.0,41.66575665,-3.686329463971761
+58,Vega Sicilia,Valbuena 5o,2016.0,4.7,2177,Ribera del Duero,107.57,41.66575665,-3.686329463971761
+59,Vega Sicilia,Valbuena 5o,2005.0,4.7,1892,Ribera del Duero,234.0,41.66575665,-3.686329463971761
+60,Vega Sicilia,Unico,2002.0,4.7,1199,Ribera del Duero,500.94,41.66575665,-3.686329463971761
+63,Vega Sicilia,Unico Reserva Especial Edicion,2000.0,4.7,935,Ribera del Duero,877.85,41.66575665,-3.686329463971761
+65,Pago de Carraovejas,Cuesta de Las Liebres,2014.0,4.7,685,Ribera del Duero,113.18,41.66575665,-3.686329463971761
+68,Vega Sicilia,Unico Reserva Especial Edicion,2017.0,4.7,560,Ribera del Duero,480.06,41.66575665,-3.686329463971761
+69,Pago de Carraovejas,El Anejon,2015.0,4.7,543,Ribera del Duero,75.1,41.66575665,-3.686329463971761
+70,Bodegas El Nido,El Nido,2014.0,4.7,511,Jumilla,154.9,38.4735408,-1.3285417
+71,Bodegas El Nido,El Nido,2013.0,4.7,476,Jumilla,145.0,38.4735408,-1.3285417
+74,Bodegas El Nido,El Nido,2016.0,4.7,393,Jumilla,371.78009750522,38.4735408,-1.3285417
+75,Bodegas El Nido,El Nido,2008.0,4.7,347,Jumilla,134.19,38.4735408,-1.3285417
+76,Vinedos de Paganos,La Nieta,2015.0,4.7,312,Rioja,82.58,42.2814642,-2.482804975070473
+78,Vega Sicilia,Unico Reserva Especial Edicion,2007.0,4.7,303,Ribera del Duero,774.4,41.66575665,-3.686329463971761
+79,Emilio Moro,Malleolus de Valderramiro,2016.0,4.7,300,Ribera del Duero,84.95,41.66575665,-3.686329463971761
+80,Dominio de Pingus,Pingus,2001.0,4.7,295,Ribera del Duero,940.0,41.66575665,-3.686329463971761
+82,Emilio Moro,Malleolus de Sanchomartin,2016.0,4.7,291,Ribera del Duero,116.54,41.66575665,-3.686329463971761
+84,Dominio de Pingus,Pingus,2006.0,4.7,280,Ribera del Duero,1190.0,41.66575665,-3.686329463971761
+85,Bodegas El Nido,El Nido,2017.0,4.7,268,Jumilla,154.85,38.4735408,-1.3285417
+86,Teso La Monja,Alabaster,2016.0,4.7,264,Toro,135.0,41.5216963,-5.3939824
+87,Quinta de la Quietud,La Mula de la Quietud,2015.0,4.7,256,Toro,63.75,41.5216963,-5.3939824
+89,Bodegas Mauro,Terreus Paraje de Cueva Baja,2017.0,4.7,251,Castilla y Leon,66.07,41.8037172,-4.7471726
+90,Bodega Contador (Benjamin Romeo),Contador Rioja,2012.0,4.7,243,Rioja,213.9,42.2814642,-2.482804975070473
+91,Remirez de Ganuza,Maria Remirez de Ganuza,2006.0,4.7,240,Rioja,234.9,42.2814642,-2.482804975070473
+93,Vinedos de Paganos,La Nieta,2018.0,4.7,220,Rioja,89.9,42.2814642,-2.482804975070473
+96,Dominio de Pingus,Pingus,2015.0,4.7,203,Ribera del Duero,1250.0,41.66575665,-3.686329463971761
+100,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,1998.0,4.7,171,Priorato,1372.14,44.8741121,10.1628956
+101,Bodegas San Roman,Cartago Paraje de Pozo,2015.0,4.7,137,Toro,78.9,41.5216963,-5.3939824
+102,Vega Sicilia,Unico Reserva Especial Edicion,2012.0,4.7,136,Ribera del Duero,660.96,41.66575665,-3.686329463971761
+103,Pago de Los Capellanes,Parcela El Picon Tinto,2009.0,4.7,134,Ribera del Duero,154.0,41.66575665,-3.686329463971761
+104,Vega Sicilia,Valbuena 5o,2017.0,4.7,133,Ribera del Duero,134.89,41.66575665,-3.686329463971761
+105,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2000.0,4.7,132,Priorato,1422.96,44.8741121,10.1628956
+106,Bodega Numanthia,Termanthia,2005.0,4.7,131,Toro,207.11,41.5216963,-5.3939824
+107,Vega Sicilia,Unico Reserva Especial Edicion,2011.0,4.7,131,Ribera del Duero,340.49,41.66575665,-3.686329463971761
+108,Emilio Moro,Clon De La Familia,2010.0,4.7,127,Ribera del Duero,317.63,41.66575665,-3.686329463971761
+109,Alto Moncayo,Aquilon Garnacha,2011.0,4.7,123,Campo de Borja,108.9,41.78654145,-1.5058322706803928
+113,Bodega Contador (Benjamin Romeo),Contador Rioja,2005.0,4.7,112,Rioja,1150.0,42.2814642,-2.482804975070473
+116,Teso La Monja,Tinto,2010.0,4.7,102,Toro,1325.0,41.5216963,-5.3939824
+117,Alvaro Palacios,Quinon de Valmira,2015.0,4.7,102,Rioja,527.26,42.2814642,-2.482804975070473
+119,Mas Doix,1902 Centenary Carignan Priorat,2015.0,4.7,94,Priorato,299.0,44.8741121,10.1628956
+120,Finca Moncloa,Tintilla de Rota,2016.0,4.7,92,Cadiz,43.13,36.5297438,-6.2928976
+122,Bodegas Roda,Cirsion Rioja,2000.0,4.7,87,Rioja,175.0,42.2814642,-2.482804975070473
+123,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2015.0,4.7,82,Priorato,1252.35,44.8741121,10.1628956
+124,Bodegas El Nido,El Nido,2019.0,4.7,80,Jumilla,145.9,38.4735408,-1.3285417
+125,Mas Doix,1902 Centenary Carignan Priorat,2013.0,4.7,74,Priorato,447.95,44.8741121,10.1628956
+126,Vega Sicilia,Unico Reserva Especial Edicion,2006.0,4.7,72,Ribera del Duero,813.96,41.66575665,-3.686329463971761
+127,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2005.0,4.7,67,Priorato,1410.26,44.8741121,10.1628956
+128,Martinet,Cami Pesseroles,2006.0,4.7,65,Priorato,182.9,44.8741121,10.1628956
+129,Recaredo,Turo d'en Mota,2007.0,4.7,64,Cava,99.0,42.31658175,1.6111496867672197
+131,Clos Erasmus,Priorat,2007.0,4.7,60,Priorato,654.31,44.8741121,10.1628956
+132,Pago de Los Capellanes,Parcela El Picon Tinto,2016.0,4.7,59,Ribera del Duero,134.26,41.66575665,-3.686329463971761
+136,Clos Erasmus,Daphne Glorian Red,2007.0,4.7,51,Priorato,202.01,44.8741121,10.1628956
+138,Vinedos de Paganos,La Nieta,2019.0,4.7,49,Rioja,88.9,42.2814642,-2.482804975070473
+139,Bodegas Amaren,El Regollar,2016.0,4.7,49,Rioja,77.9,42.2814642,-2.482804975070473
+141,Teso La Monja,Alabaster,2018.0,4.7,45,Toro,123.89,41.5216963,-5.3939824
+144,Morca,Touran,2018.0,4.7,41,Campo de Borja,93.95,41.78654145,-1.5058322706803928
+145,Territorio Luthier,Luthier Gran Reserva,2012.0,4.7,40,Ribera del Duero,248.0,41.66575665,-3.686329463971761
+147,Rafael Palacios,Sorte O Soro Val do Bibei,2019.0,4.7,37,Valdeorras,194.86,42.34834155,-6.9659982204038755
+148,Recaredo,Reserva Particular de Recaredo Brut Nature,2011.0,4.7,35,Cava,65.05,42.31658175,1.6111496867672197
+149,Bodegas Mauro,Terreus Paraje de Cueva Baja,2019.0,4.7,33,Castilla y Leon,86.9,41.8037172,-4.7471726
+150,Vina Sastre,Pesus Ribera del Duero,2004.0,4.7,32,Ribera del Duero,472.5,41.66575665,-3.686329463971761
+151,Terra Remota,Usted,2010.0,4.7,31,Emporda,379.0,42.1893929,3.077661284375413
+152,Dehesa de Los Canonigos,Gran Reserva,2001.0,4.7,31,Ribera del Duero,185.15,41.66575665,-3.686329463971761
+153,Vina Sastre,Regina Vides Ribera del Duero,1998.0,4.7,30,Ribera del Duero,94.2,41.66575665,-3.686329463971761
+154,Miguel Merino,La Loma,2018.0,4.7,29,Rioja Alta,46.0,42.4157318,-2.87947386168831
+155,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2016.0,4.7,28,Priorato,919.6,44.8741121,10.1628956
+159,Vega Sicilia,Valbuena 5o,2012.0,4.6,5938,Ribera del Duero,177.0,41.66575665,-3.686329463971761
+160,Vega Sicilia,Valbuena 5o,2008.0,4.6,5545,Ribera del Duero,187.3,41.66575665,-3.686329463971761
+161,Vega Sicilia,Valbuena 5o,2007.0,4.6,5116,Ribera del Duero,195.59,41.66575665,-3.686329463971761
+162,Vega Sicilia,Valbuena 5o,2013.0,4.6,4747,Ribera del Duero,135.0,41.66575665,-3.686329463971761
+163,Vega Sicilia,Valbuena 5o,2009.0,4.6,4685,Ribera del Duero,225.2,41.66575665,-3.686329463971761
+164,Alion,Ribera del Duero,2016.0,4.6,4516,Ribera del Duero,79.8,41.66575665,-3.686329463971761
+165,Aalto,PS (Pagos Seleccionados) Ribera del Duero,2017.0,4.6,3383,Ribera del Duero,116.187943627787,41.66575665,-3.686329463971761
+166,Aalto,PS (Pagos Seleccionados) Ribera del Duero,2018.0,4.6,3239,Ribera del Duero,89.3,41.66575665,-3.686329463971761
+167,Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,2010.0,4.6,2416,Rioja,438.9,42.2814642,-2.482804975070473
+168,Alion,Ribera del Duero,2017.0,4.6,2208,Ribera del Duero,79.9,41.66575665,-3.686329463971761
+169,Vega Sicilia,Valbuena 5o,2004.0,4.6,1608,Ribera del Duero,249.0,41.66575665,-3.686329463971761
+170,Dominio de Pingus,Flor de Pingus,2018.0,4.6,1363,Ribera del Duero,129.95,41.66575665,-3.686329463971761
+171,Aalto,PS (Pagos Seleccionados) Ribera del Duero,2019.0,4.6,1108,Ribera del Duero,76.95,41.66575665,-3.686329463971761
+172,Vega Sicilia,Valbuena 5o,2000.0,4.6,1015,Ribera del Duero,252.0,41.66575665,-3.686329463971761
+173,Vega Sicilia,Valbuena 5o,2002.0,4.6,936,Ribera del Duero,232.0,41.66575665,-3.686329463971761
+174,Bodega Numanthia,Termanthia,2012.0,4.6,840,Toro,214.0,41.5216963,-5.3939824
+175,Bodega Numanthia,Termanthia,2011.0,4.6,790,Toro,205.0,41.5216963,-5.3939824
+176,Carmelo Rodero,Pago De Valtarrena,2015.0,4.6,700,Ribera del Duero,49.95,41.66575665,-3.686329463971761
+177,Emilio Moro,Malleolus de Sanchomartin,2011.0,4.6,693,Ribera del Duero,125.0,41.66575665,-3.686329463971761
+178,Vega Sicilia,Valbuena 5o,1999.0,4.6,595,Ribera del Duero,276.8,41.66575665,-3.686329463971761
+179,Emilio Moro,Malleolus de Valderramiro,2015.0,4.6,516,Ribera del Duero,75.0,41.66575665,-3.686329463971761
+180,Dominio de Pingus,Pingus,2010.0,4.6,410,Ribera del Duero,1359.75,41.66575665,-3.686329463971761
+181,Pago de Carraovejas,Cuesta de Las Liebres,2010.0,4.6,405,Ribera del Duero,81.5,41.66575665,-3.686329463971761
+182,Dominio de Pingus,Pingus,2012.0,4.6,400,Ribera del Duero,890.0,41.66575665,-3.686329463971761
+183,Dominio del Bendito,El Titan del Bendito,2015.0,4.6,388,Toro,43.5,41.5216963,-5.3939824
+184,Emilio Moro,Malleolus de Sanchomartin,2015.0,4.6,369,Ribera del Duero,99.0,41.66575665,-3.686329463971761
+185,Dominio de Pingus,Pingus,2013.0,4.6,323,Ribera del Duero,1198.72,41.66575665,-3.686329463971761
+186,Bodegas Mauro,Terreus Paraje de Cueva Baja,2015.0,4.6,313,Castilla y Leon,94.95,41.8037172,-4.7471726
+187,Bodegas Mauro,Terreus Paraje de Cueva Baja,2016.0,4.6,304,Castilla y Leon,89.0,41.8037172,-4.7471726
+189,Vinedos de Paganos,La Nieta,2017.0,4.6,286,Rioja,108.21,42.2814642,-2.482804975070473
+190,Artadi,Vina El Pison,2006.0,4.6,274,Vino de Espana,391.5,42.1771554,-8.4341104
+191,Dominio de Pingus,Pingus,1998.0,4.6,244,Ribera del Duero,1350.0,41.66575665,-3.686329463971761
+192,Bodegas Roda,Cirsion Rioja,2007.0,4.6,242,Rioja,145.0,42.2814642,-2.482804975070473
+193,Bodegas Roda,Cirsion Rioja,2012.0,4.6,231,Rioja,173.38,42.2814642,-2.482804975070473
+194,Bodega Contador (Benjamin Romeo),Contador Rioja,2011.0,4.6,225,Rioja,220.0,42.2814642,-2.482804975070473
+195,Marques de Murrieta,Dalmau Rioja,2017.0,4.6,222,Rioja,85.7,42.2814642,-2.482804975070473
+197,Sierra Cantabria,Finca el Bosque,2015.0,4.6,214,Rioja,79.9,42.2814642,-2.482804975070473
+198,Vina Sastre,Pago de Santa Cruz,2018.0,4.6,211,Ribera del Duero,68.7,41.66575665,-3.686329463971761
+200,Mas d'en Gil,Clos Fonta Priorat,2004.0,4.6,202,Priorato,150.0,44.8741121,10.1628956
+201,Carmelo Rodero,Pago De Valtarrena,2016.0,4.6,200,Ribera del Duero,48.95,41.66575665,-3.686329463971761
+202,Pago de Los Capellanes,Parcela El Picon Tinto,2014.0,4.6,197,Ribera del Duero,109.41,41.66575665,-3.686329463971761
+203,Emilio Moro,Malleolus de Sanchomartin,2014.0,4.6,186,Ribera del Duero,119.0,41.66575665,-3.686329463971761
+206,Artadi,Vina El Pison,2010.0,4.6,169,Vino de Espana,519.55,42.1771554,-8.4341104
+207,Pago de Los Capellanes,Parcela El Picon Tinto,2012.0,4.6,165,Ribera del Duero,89.0,41.66575665,-3.686329463971761
+208,Artadi,Vina El Pison,2011.0,4.6,165,Vino de Espana,511.9,42.1771554,-8.4341104
+209,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,1999.0,4.6,164,Priorato,980.0,44.8741121,10.1628956
+210,Casa Castillo,Cuvee N Vinas Viejas,2015.0,4.6,160,Jumilla,73.0,38.4735408,-1.3285417
+211,Artadi,Vina El Pison,2012.0,4.6,159,Vino de Espana,280.0,42.1771554,-8.4341104
+213,Bodega Contador (Benjamin Romeo),Contador Rioja,2014.0,4.6,157,Rioja,251.99,42.2814642,-2.482804975070473
+214,Bodegas San Roman,Cartago Paraje de Pozo,2014.0,4.6,153,Toro,61.69,41.5216963,-5.3939824
+216,Bodega Numanthia,Termanthia,2014.0,4.6,147,Toro,210.5,41.5216963,-5.3939824
+218,Matarromera,Ribera del Duero Prestigio Pago de las Solanas,2001.0,4.6,145,Ribera del Duero,245.75,41.66575665,-3.686329463971761
+220,Bodega Contador (Benjamin Romeo),Contador Rioja,2015.0,4.6,143,Rioja,319.9,42.2814642,-2.482804975070473
+221,Artadi,Vina El Pison,2005.0,4.6,142,Vino de Espana,325.0,42.1771554,-8.4341104
+222,Nin-Ortiz,Nit de Nin Mas d'en Cacador,2011.0,4.6,139,Priorato,345.0,44.8741121,10.1628956
+223,Bodegas Mauro,VS,2018.0,4.6,136,Castilla y Leon,58.9,41.8037172,-4.7471726
+224,Remirez de Ganuza,Maria Remirez de Ganuza,2005.0,4.6,136,Rioja,159.0,42.2814642,-2.482804975070473
+225,Vinas del Vero,Blecua Somontano,2013.0,4.6,135,Somontano,69.9,42.0883878,0.09940412890672314
+227,Teso La Monja,Alabaster,2017.0,4.6,131,Toro,147.85,41.5216963,-5.3939824
+228,Bodegas Mauro,Terreus Paraje de Cueva Baja,2018.0,4.6,128,Castilla y Leon,88.05,41.8037172,-4.7471726
+229,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,1997.0,4.6,127,Priorato,1080.0,44.8741121,10.1628956
+230,Marques de Riscal,Frank Gehry Selection,2001.0,4.6,124,Rioja,301.0,42.2814642,-2.482804975070473
+231,Artadi,Vina El Pison,2014.0,4.6,124,Vino de Espana,275.0,42.1771554,-8.4341104
+233,Arzuaga,Amaya Arzuaga (Coleccion),2016.0,4.6,123,Ribera del Duero,64.9,41.66575665,-3.686329463971761
+236,Artadi,Vina El Pison,2015.0,4.6,122,Vino de Espana,241.55,42.1771554,-8.4341104
+237,Bodegas Mas Alta,La Creu Alta,2013.0,4.6,116,Priorato,89.17,44.8741121,10.1628956
+239,Dominio de Calogia,Tinto,2019.0,4.6,114,Ribera del Duero,67.94,41.66575665,-3.686329463971761
+240,Tomas Postigo,5o Ano Ribera del Duero Tinto,2016.0,4.6,113,Ribera del Duero,44.0,41.66575665,-3.686329463971761
+241,Artadi,Vina El Pison,2009.0,4.6,113,Vino de Espana,445.0,42.1771554,-8.4341104
+242,Cal Pla,Planots Priorat,2010.0,4.6,112,Priorato,87.02,44.8741121,10.1628956
+243,Vega Sicilia,Unico Reserva Especial Edicion,2009.0,4.6,111,Ribera del Duero,747.17,41.66575665,-3.686329463971761
+244,Dominio del Bendito,El Titan del Bendito,2018.0,4.6,111,Toro,49.95,41.5216963,-5.3939824
+245,Ossian,Capitel,2018.0,4.6,107,Castilla y Leon,50.51,41.8037172,-4.7471726
+246,Arzuaga,Gran Arzuaga Ribera del Duero,2004.0,4.6,105,Ribera del Duero,157.4,41.66575665,-3.686329463971761
+247,Alto Moncayo,Aquilon Garnacha,2015.0,4.6,105,Campo de Borja,120.9,41.78654145,-1.5058322706803928
+249,Cepa 21,Horcajo,2015.0,4.6,100,Ribera del Duero,75.3,41.66575665,-3.686329463971761
+250,Carmelo Rodero,Pago De Valtarrena,2018.0,4.6,99,Ribera del Duero,47.5,41.66575665,-3.686329463971761
+251,Vega Sicilia,Unico,2012.0,4.6,98,Ribera del Duero,359.9,41.66575665,-3.686329463971761
+252,Bodegas Vilano,Tinto,2019.0,4.6,97,Ribera del Duero,43.5,41.66575665,-3.686329463971761
+253,Allende,Aurus,2005.0,4.6,95,Rioja,136.0,42.2814642,-2.482804975070473
+254,Costers del Siurana,Dolc de L'Obac,2006.0,4.6,94,Priorato,117.239420060872,44.8741121,10.1628956
+255,Pago de Los Capellanes,Parcela El Picon Tinto,2011.0,4.6,93,Ribera del Duero,135.0,41.66575665,-3.686329463971761
+256,Remirez de Ganuza,Trasnocho,2013.0,4.6,91,Rioja,82.5,42.2814642,-2.482804975070473
+257,Bodegas Roda,Cirsion Rioja,2017.0,4.6,90,Rioja,149.9,42.2814642,-2.482804975070473
+258,Teso La Monja,Tinto,2008.0,4.6,87,Toro,1260.0,41.5216963,-5.3939824
+259,Pago de Los Capellanes,Doroteo Edicion Especial 25 Aniversario,2015.0,4.6,86,Ribera del Duero,59.0,41.66575665,-3.686329463971761
+260,Bodegas Valduero,Tierra Alta de 2 Racimos Gran Reserva,2011.0,4.6,85,Ribera del Duero,82.5,41.66575665,-3.686329463971761
+261,Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,2011.0,4.6,85,Rioja,195.0,42.2814642,-2.482804975070473
+263,Arzuaga,Reserva Especial Ribera del Duero,2016.0,4.6,83,Ribera del Duero,54.5,41.66575665,-3.686329463971761
+264,Hacienda Monasterio,Reserva Especial,2015.0,4.6,80,Ribera del Duero,79.1,41.66575665,-3.686329463971761
+265,Mas d'en Gil,Gran Buig Priorat,2004.0,4.6,79,Priorato,272.0,44.8741121,10.1628956
+266,Castillo Perelada,Finca Garbet,2014.0,4.6,75,Emporda,99.0,42.1893929,3.077661284375413
+268,Emilio Moro,Clon De La Familia,2011.0,4.6,72,Ribera del Duero,317.63,41.66575665,-3.686329463971761
+269,Sierra Cantabria,Amancio,2007.0,4.6,70,Rioja,399.6,42.2814642,-2.482804975070473
+271,Recaredo,Reserva Particular de Recaredo Brut Nature,2008.0,4.6,69,Cava,74.9,42.31658175,1.6111496867672197
+272,Clos Erasmus,Priorat,2008.0,4.6,66,Priorato,654.31,44.8741121,10.1628956
+275,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2001.0,4.6,65,Priorato,945.0,44.8741121,10.1628956
+276,Hacienda Monasterio,Reserva,2017.0,4.6,64,Ribera del Duero,50.0,41.66575665,-3.686329463971761
+277,Ysios,Finca Las Naves,2016.0,4.6,63,Rioja,126.64,42.2814642,-2.482804975070473
+279,Contino,Vina del Olivo,2001.0,4.6,60,Rioja,81.0,42.2814642,-2.482804975070473
+281,Marques de Murrieta,Dalmau Rioja,2001.0,4.6,59,Rioja,121.0,42.2814642,-2.482804975070473
+282,Alvaro Palacios,Les Aubaguetes Priorat,2016.0,4.6,59,Priorato,355.95,44.8741121,10.1628956
+283,Gramona,Cava Enoteca Finca La Plana Brut Nature,2001.0,4.6,58,Cava,164.66,42.31658175,1.6111496867672197
+284,Alto Moncayo,Aquilon Garnacha,2016.0,4.6,58,Campo de Borja,120.9,41.78654145,-1.5058322706803928
+285,Dominio del Aguila,Gran Reserva Penas Aladas,2014.0,4.6,58,Ribera del Duero,218.9,41.66575665,-3.686329463971761
+286,Hacienda Solano,Pena Lobera,2016.0,4.6,57,Ribera del Duero,65.95,41.66575665,-3.686329463971761
+287,Bodegas Mas Alta,La Creu Alta,2014.0,4.6,53,Priorato,86.0,44.8741121,10.1628956
+288,Francisco Garcia Perez,Adega do Moucho Treixadura,2017.0,4.6,53,Ribeiro,34.5,42.31990645,-8.152266856014716
+289,Anima Negra,Son Negre,2007.0,4.6,51,Mallorca,282.65,39.613432,2.880353635614984
+290,Mas Doix,1902 Centenary Carignan Priorat,2017.0,4.6,51,Priorato,259.9,44.8741121,10.1628956
+292,Castano,Casa Cisca Monastrell,2016.0,4.6,49,Yecla,35.0,38.613652,-1.1157373
+293,Descendientes de J. Palacios,Moncerbal Bierzo (Corullon),2016.0,4.6,48,Bierzo,269.95,42.65265025,-6.62318404217132
+294,La Legua,Capricho,2014.0,4.6,47,Cigales,27.2693427,41.7582863,-4.6989785
+295,Dominio de Pingus,Pingus,2018.0,4.6,47,Ribera del Duero,1250.0,41.66575665,-3.686329463971761
+296,Castillo de Cuzcurrita,Cerrado del Castillo Rioja,2016.0,4.6,47,Rioja,52.95,42.2814642,-2.482804975070473
+297,Oxer Wines,Kalamity Rioja,2018.0,4.6,46,Rioja,114.95,42.2814642,-2.482804975070473
+300,Bodegas 6o Elemento - Vino Sexto Elemento,Respeto,2015.0,4.6,45,Utiel-Requena,29.35,39.4880777,-1.1001643
+301,Proyecto Garnachas de Espana,El Garnacho Viejo de la Familia Acha,2014.0,4.6,45,Rioja,79.9,42.2814642,-2.482804975070473
+302,Matarromera,Ribera del Duero Prestigio,2016.0,4.6,45,Ribera del Duero,53.95,41.66575665,-3.686329463971761
+303,Casal de Arman,Finca Misenhora Edicion Limitada,2018.0,4.6,44,Ribeiro,26.2,42.31990645,-8.152266856014716
+304,Mas Doix,1902 Centenary Carignan Priorat,2016.0,4.6,43,Priorato,270.44,44.8741121,10.1628956
+305,Artadi,La Poza de Ballesteros,2009.0,4.6,42,Vino de Espana,187.5,42.1771554,-8.4341104
+307,Hacienda Monasterio,Reserva Especial,2016.0,4.6,41,Ribera del Duero,85.63,41.66575665,-3.686329463971761
+308,Artadi,Vina El Pison,2017.0,4.6,41,Vino de Espana,304.54,42.1771554,-8.4341104
+309,Vall Llach,Idus,2020.0,4.6,41,Priorato,34.3,44.8741121,10.1628956
+310,Clos Erasmus,Priorat,2003.0,4.6,41,Priorato,993.28,44.8741121,10.1628956
+311,Sierra Cantabria,Amancio,2017.0,4.6,40,Rioja,85.95,42.2814642,-2.482804975070473
+312,Pago de Larrainzar,Rosado de Larrainzar,2020.0,4.6,39,Navarra,12.0,42.61254875,-1.830787673361753
+313,Emilio Moro,Clon De La Familia,2015.0,4.6,39,Ribera del Duero,249.9,41.66575665,-3.686329463971761
+315,Sierra Cantabria,Finca el Bosque,2002.0,4.6,38,Rioja,128.0,42.2814642,-2.482804975070473
+316,Descendientes de J. Palacios,Valdafoz Bierzo (Corullon),2011.0,4.6,38,Bierzo,135.5,42.65265025,-6.62318404217132
+317,Ukan Winery,Tinto,2019.0,4.6,38,Rioja Alavesa,40.5,42.54415095,-2.5454223587321856
+318,Finca Moncloa,Tintilla de Rota,2017.0,4.6,37,Cadiz,43.1,36.5297438,-6.2928976
+319,Bodegas Mas Alta,La Creu Alta,2017.0,4.6,36,Priorato,85.0,44.8741121,10.1628956
+321,Dominio de Atauta,Valdegatiles Ribera del Duero,2012.0,4.6,34,Ribera del Duero,106.35,41.66575665,-3.686329463971761
+323,Micro Bio (MicroBio),Respublica Verdejo,2016.0,4.6,33,Vino de Espana,75.95,42.1771554,-8.4341104
+324,Dominio del Aguila,Gran Reserva Penas Aladas,2015.0,4.6,33,Ribera del Duero,185.3,41.66575665,-3.686329463971761
+325,Terroir Al Limit Soc. Lda,Les Tosses,2016.0,4.6,33,Priorato,205.95,44.8741121,10.1628956
+326,Finca Torremilanos,Torremilanos Coleccion Ribera del Duero,2016.0,4.6,32,Ribera del Duero,40.45,41.66575665,-3.686329463971761
+327,Artadi,El Carretil,2017.0,4.6,32,Vino de Espana,176.89,42.1771554,-8.4341104
+328,Huerta de Albala,Taberner No. 1,2013.0,4.6,32,Cadiz,79.9,36.5297438,-6.2928976
+329,Gomez Cruzado,Vina Motulleri,2011.0,4.6,30,Rioja,79.0,42.2814642,-2.482804975070473
+330,Castell d'Encus,Saktih,2013.0,4.6,30,Costers del Segre,195.27,41.502298249999996,0.8273990115524253
+331,Abadia Retuerta,Cuvee Palomar,2017.0,4.6,30,Sardon de Duero,58.9,41.6085193,-4.4339323
+333,Dominio de Atauta,Valdegatiles Ribera del Duero,2013.0,4.6,29,Ribera del Duero,111.9,41.66575665,-3.686329463971761
+334,Bodegas 6o Elemento - Vino Sexto Elemento,Respeto,2017.0,4.6,29,Utiel-Requena,29.95,39.4880777,-1.1001643
+335,Enate,Uno Tinto,2010.0,4.6,28,Somontano,129.9,42.0883878,0.09940412890672314
+336,Benjamin de Rothschild - Vega Sicilia,Macan,2017.0,4.6,28,Rioja,69.95,42.2814642,-2.482804975070473
+337,Mas Doix,1903 Centenary Grenache,2016.0,4.6,28,Priorato,299.0,44.8741121,10.1628956
+339,Bodegas Aragonesas,Galiano Seleccion Especial,2013.0,4.6,28,Campo de Borja,99.95,41.78654145,-1.5058322706803928
+340,Telmo Rodriguez,Molino Real,2016.0,4.6,28,Malaga,41.69,36.7213028,-4.4216366
+341,Anima Negra,Son Negre,2004.0,4.6,27,Mallorca,374.35,39.613432,2.880353635614984
+342,Tomas Postigo,5o Ano Ribera del Duero Tinto,2017.0,4.6,27,Ribera del Duero,46.45,41.66575665,-3.686329463971761
+344,Acustic Celler,Etern Vinyes Molt Velles,2016.0,4.6,26,Priorato,42.5,44.8741121,10.1628956
+345,Vina Pedrosa,40 Aniversario Gran Reserva,2012.0,4.6,25,Ribera del Duero,95.0,41.66575665,-3.686329463971761
+347,Recaredo,Corpinnat Enoteca Reserva Particular de Recaredo,2004.0,4.6,25,Cataluna,130.0,41.8523094,1.5745043
+352,Pintia,Toro,2014.0,4.5,5863,Toro,69.0,41.5216963,-5.3939824
+353,Pago de Carraovejas,Tinto,2018.0,4.5,5372,Ribera del Duero,45.0,41.66575665,-3.686329463971761
+354,Alion,Ribera del Duero,2015.0,4.5,5365,Ribera del Duero,75.0,41.66575665,-3.686329463971761
+355,Pintia,Toro,2015.0,4.5,4979,Toro,69.8,41.5216963,-5.3939824
+356,Pago de Carraovejas,Tinto,2017.0,4.5,4935,Ribera del Duero,121.936825872994,41.66575665,-3.686329463971761
+357,Aalto,PS (Pagos Seleccionados) Ribera del Duero,2016.0,4.5,4411,Ribera del Duero,78.65,41.66575665,-3.686329463971761
+358,Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,2005.0,4.5,3521,Rioja,400.0,42.2814642,-2.482804975070473
+359,La Rioja Alta,Gran Reserva 890,2005.0,4.5,3443,Rioja,125.0,42.2814642,-2.482804975070473
+360,Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,2009.0,4.5,3148,Rioja,229.0,42.2814642,-2.482804975070473
+361,Pintia,Toro,2016.0,4.5,3118,Toro,40.41,41.5216963,-5.3939824
+362,Dominio de Pingus,Flor de Pingus,2016.0,4.5,2887,Ribera del Duero,101.94,41.66575665,-3.686329463971761
+363,Aalto,PS (Pagos Seleccionados) Ribera del Duero,2015.0,4.5,2858,Ribera del Duero,172.5,41.66575665,-3.686329463971761
+364,Bodegas El Nido,Clio,2015.0,4.5,2712,Jumilla,33.2,38.4735408,-1.3285417
+365,Dominio de Pingus,Flor de Pingus,2014.0,4.5,2710,Ribera del Duero,125.0,41.66575665,-3.686329463971761
+366,Dominio de Pingus,Flor de Pingus,2010.0,4.5,2551,Ribera del Duero,125.0,41.66575665,-3.686329463971761
+367,Dominio de Pingus,Flor de Pingus,2015.0,4.5,2530,Ribera del Duero,125.0,41.66575665,-3.686329463971761
+368,Bodegas El Nido,Clio,2016.0,4.5,2228,Jumilla,31.75,38.4735408,-1.3285417
+369,Bodegas El Nido,Clio,2017.0,4.5,2220,Jumilla,39.5,38.4735408,-1.3285417
+370,Aalto,PS (Pagos Seleccionados) Ribera del Duero,2011.0,4.5,2207,Ribera del Duero,64.0,41.66575665,-3.686329463971761
+371,Pago de Carraovejas,Tinto,2019.0,4.5,2144,Ribera del Duero,33.8,41.66575665,-3.686329463971761
+372,Benjamin de Rothschild - Vega Sicilia,Macan,2014.0,4.5,1910,Rioja,58.95,42.2814642,-2.482804975070473
+373,Aalto,Tinto,2018.0,4.5,1864,Ribera del Duero,33.25,41.66575665,-3.686329463971761
+374,Bodegas El Nido,Clio,2018.0,4.5,1520,Jumilla,61.8491765262698,38.4735408,-1.3285417
+375,Alto Moncayo,Garnacha,2017.0,4.5,1503,Campo de Borja,44.27,41.78654145,-1.5058322706803928
+376,Pago de Los Capellanes,Parcela El Nogal Tinto,2015.0,4.5,1393,Ribera del Duero,45.9,41.66575665,-3.686329463971761
+377,Vega Sicilia,Valbuena 5o,2003.0,4.5,1346,Ribera del Duero,239.2,41.66575665,-3.686329463971761
+378,Benjamin de Rothschild - Vega Sicilia,Macan,2015.0,4.5,1345,Rioja,68.9,42.2814642,-2.482804975070473
+379,Alion,Ribera del Duero,2003.0,4.5,1236,Ribera del Duero,164.0,41.66575665,-3.686329463971761
+380,Belondrade,Belondrade y Lurton,2018.0,4.5,1192,Rueda,32.85,41.4129785,-4.9597533
+381,Pago de Los Capellanes,Parcela El Nogal Tinto,2014.0,4.5,1163,Ribera del Duero,40.95,41.66575665,-3.686329463971761
+382,Pago de Carraovejas,Reserva,2014.0,4.5,1148,Ribera del Duero,69.5803235920536,41.66575665,-3.686329463971761
+383,Dominio de Pingus,Flor de Pingus,2017.0,4.5,1094,Ribera del Duero,110.0,41.66575665,-3.686329463971761
+384,Remirez de Ganuza,Rioja Reserva,2012.0,4.5,1089,Rioja,49.75,42.2814642,-2.482804975070473
+385,Muga,Prado Enea Gran Reserva,2014.0,4.5,1014,Rioja,51.0,42.2814642,-2.482804975070473
+386,Remirez de Ganuza,Rioja Reserva,2011.0,4.5,1012,Rioja,59.9,42.2814642,-2.482804975070473
+387,La Rioja Alta,Gran Reserva 890,2004.0,4.5,990,Rioja,290.7,42.2814642,-2.482804975070473
+388,Belondrade,Belondrade y Lurton,2019.0,4.5,961,Rueda,37.7,41.4129785,-4.9597533
+389,Clos Mogador,Priorat,2015.0,4.5,955,Priorato,146.95,44.8741121,10.1628956
+391,Muga,Torre Muga,2016.0,4.5,838,Rioja,70.5,42.2814642,-2.482804975070473
+392,Benjamin de Rothschild - Vega Sicilia,Macan,2016.0,4.5,813,Rioja,64.0,42.2814642,-2.482804975070473
+393,Bodega Numanthia,Termanthia,2010.0,4.5,729,Toro,168.0,41.5216963,-5.3939824
+394,Emilio Moro,Malleolus de Valderramiro,2011.0,4.5,719,Ribera del Duero,173.95,41.66575665,-3.686329463971761
+395,Clos Mogador,Priorat,2017.0,4.5,666,Priorato,65.0,44.8741121,10.1628956
+396,Marques de Murrieta,Dalmau Rioja,2014.0,4.5,642,Rioja,67.6,42.2814642,-2.482804975070473
+397,Hacienda Monasterio,Reserva,2015.0,4.5,629,Ribera del Duero,53.95,41.66575665,-3.686329463971761
+398,Pago de Los Capellanes,Parcela El Nogal Tinto,2016.0,4.5,595,Ribera del Duero,42.95,41.66575665,-3.686329463971761
+400,Bodegas El Nido,Clio,2019.0,4.5,550,Jumilla,47.3,38.4735408,-1.3285417
+401,Muga,Aro,2015.0,4.5,529,Rioja,169.4,42.2814642,-2.482804975070473
+402,Remirez de Ganuza,Gran Reserva,2007.0,4.5,529,Rioja,121.838963251908,42.2814642,-2.482804975070473
+403,Senorio de San Vicente,San Vicente Rioja,2017.0,4.5,505,Rioja,34.8,42.2814642,-2.482804975070473
+404,Carmelo Rodero,Ribera del Duero TSM,2017.0,4.5,503,Ribera del Duero,55.35,41.66575665,-3.686329463971761
+405,Vina Sastre,Pago de Santa Cruz,2016.0,4.5,501,Ribera del Duero,75.95,41.66575665,-3.686329463971761
+406,Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos,2011.0,4.5,500,Ribera del Duero,48.7,41.66575665,-3.686329463971761
+407,Remirez de Ganuza,Trasnocho,2012.0,4.5,499,Rioja,118.89,42.2814642,-2.482804975070473
+408,Costers del Siurana,Clos de L'Obac,2005.0,4.5,493,Priorato,92.8716274104906,44.8741121,10.1628956
+410,Arzuaga,Reserva Ribera del Duero,2017.0,4.5,477,Ribera del Duero,31.8,41.66575665,-3.686329463971761
+411,La Rioja Alta,Gran Reserva 890,2010.0,4.5,469,Rioja,149.5,42.2814642,-2.482804975070473
+412,Francisco Barona,Ribera Del Duero,2018.0,4.5,462,Ribera del Duero,35.85,41.66575665,-3.686329463971761
+413,Vina Sastre,Pago de Santa Cruz,2015.0,4.5,420,Ribera del Duero,82.95,41.66575665,-3.686329463971761
+414,Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos,2012.0,4.5,406,Ribera del Duero,59.0,41.66575665,-3.686329463971761
+415,Juan Gil,Bruto,2018.0,4.5,384,Jumilla,37.7,38.4735408,-1.3285417
+416,Lan,Culmen Reserva Rioja,2015.0,4.5,365,Rioja,42.75,42.2814642,-2.482804975070473
+417,Bodegas Roda,Cirsion Rioja,2016.0,4.5,353,Rioja,175.57,42.2814642,-2.482804975070473
+418,Clos Mogador,Priorat,2018.0,4.5,336,Priorato,61.64,44.8741121,10.1628956
+419,Juan Gil,Bruto,2017.0,4.5,322,Jumilla,30.7,38.4735408,-1.3285417
+420,Bodegas Mauro,VS,2017.0,4.5,318,Castilla y Leon,56.5,41.8037172,-4.7471726
+421,Bodega Numanthia,Termanthia,2013.0,4.5,316,Toro,207.11,41.5216963,-5.3939824
+422,Remirez de Ganuza,Trasnocho,2011.0,4.5,301,Rioja,110.5,42.2814642,-2.482804975070473
+423,Hacienda Monasterio,Reserva,2016.0,4.5,297,Ribera del Duero,55.95,41.66575665,-3.686329463971761
+425,Abadia Retuerta,Petit Verdot,2015.0,4.5,286,Sardon de Duero,107.9,41.6085193,-4.4339323
+426,Tomas Postigo,5o Ano Ribera del Duero Tinto,2011.0,4.5,264,Ribera del Duero,69.9,41.66575665,-3.686329463971761
+427,Dominio del Bendito,El Titan del Bendito,2017.0,4.5,261,Toro,49.5,41.5216963,-5.3939824
+428,Abadia Retuerta,Petit Verdot,2014.0,4.5,249,Sardon de Duero,176.98,41.6085193,-4.4339323
+429,Sierra Cantabria,Amancio,2012.0,4.5,246,Rioja,90.0,42.2814642,-2.482804975070473
+430,Martinet,Clos Martinet,2014.0,4.5,230,Priorato,65.0,44.8741121,10.1628956
+431,Remirez de Ganuza,Trasnocho,2006.0,4.5,229,Rioja,95.0,42.2814642,-2.482804975070473
+432,Adama Wines,Tinto,2009.0,4.5,229,Ribera del Duero,39.0,41.66575665,-3.686329463971761
+434,Muga,Aro,2016.0,4.5,222,Rioja,174.91,42.2814642,-2.482804975070473
+436,Milsetentayseis,Tinto,2018.0,4.5,218,Ribera del Duero,52.9,41.66575665,-3.686329463971761
+437,Vina Sastre,Pago de Santa Cruz,2017.0,4.5,217,Ribera del Duero,40.9,41.66575665,-3.686329463971761
+438,Espectacle del Montsant,Tinto,2013.0,4.5,214,Montsant,157.95,41.1171253,1.211005
+439,Tinto Pesquera,Millenium Gran Reserva,2015.0,4.5,213,Ribera del Duero,77.5,41.66575665,-3.686329463971761
+440,Vina Sastre,Regina Vides Ribera del Duero,2011.0,4.5,213,Ribera del Duero,116.0,41.66575665,-3.686329463971761
+441,Alvaro Palacios,Finca Dofi,2006.0,4.5,207,Priorato,75.0,44.8741121,10.1628956
+442,Arzuaga,Gran Reserva Ribera del Duero,2015.0,4.5,205,Ribera del Duero,80.98,41.66575665,-3.686329463971761
+443,Contino,Vina del Olivo,2017.0,4.5,203,Rioja,64.5,42.2814642,-2.482804975070473
+444,Dominio de Pingus,Flor de Pingus,2019.0,4.5,201,Ribera del Duero,118.5,41.66575665,-3.686329463971761
+445,Ferrer Bobet,Seleccio Especial Vinyes Velles,2015.0,4.5,197,Priorato,64.0,44.8741121,10.1628956
+446,Clos Mogador,Priorat,2003.0,4.5,196,Priorato,95.0,44.8741121,10.1628956
+447,Allende,Calvario Rioja,2009.0,4.5,194,Rioja,125.97,42.2814642,-2.482804975070473
+448,Bodegas Valduero,Ribera del Duero Una Cepa I,2017.0,4.5,194,Ribera del Duero,26.5,41.66575665,-3.686329463971761
+449,Matarromera,Ribera del Duero Prestigio,2015.0,4.5,190,Ribera del Duero,54.01,41.66575665,-3.686329463971761
+450,Vina Sastre,Regina Vides Ribera del Duero,2014.0,4.5,189,Ribera del Duero,104.9,41.66575665,-3.686329463971761
+451,Familia Torres,Grans Muralles,2015.0,4.5,189,Conca de Barbera,170.5,41.44389565,1.1885113323042593
+452,Vina Sastre,Pesus Ribera del Duero,2014.0,4.5,189,Ribera del Duero,315.0,41.66575665,-3.686329463971761
+453,Pazo Barrantes,Gran Vino Albarino,2019.0,4.5,188,Rias Baixas,34.9,42.3533841,-7.8778072
+454,Arzuaga,Reserva Especial Ribera del Duero,2015.0,4.5,187,Ribera del Duero,51.5,41.66575665,-3.686329463971761
+456,Abadia Retuerta,Pago Garduna,2016.0,4.5,186,Castilla y Leon,71.85,41.8037172,-4.7471726
+457,Belondrade,Belondrade y Lurton,2020.0,4.5,184,Rueda,38.9,41.4129785,-4.9597533
+458,Pintia,Toro,2017.0,4.5,178,Toro,54.09,41.5216963,-5.3939824
+459,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2017.0,4.5,174,Rioja,67.9,42.2814642,-2.482804975070473
+460,Sierra Cantabria,Finca el Bosque,2016.0,4.5,173,Rioja,80.95,42.2814642,-2.482804975070473
+462,Bodega Contador (Benjamin Romeo),Que Bonito Cacareaba Blanco,2018.0,4.5,170,Rioja,50.34,42.2814642,-2.482804975070473
+463,Tomas Postigo,5o Ano Ribera del Duero Tinto,2014.0,4.5,165,Ribera del Duero,57.96,41.66575665,-3.686329463971761
+464,Marques de Riscal,Baron de Chirel Rioja Reserva,2016.0,4.5,163,Rioja,73.62,42.2814642,-2.482804975070473
+465,Ossian,Capitel,2016.0,4.5,162,Castilla y Leon,144.78,41.8037172,-4.7471726
+466,Recaredo,Turo d'en Mota,2005.0,4.5,161,Cava,90.0,42.31658175,1.6111496867672197
+467,Sierra Cantabria,Amancio,2015.0,4.5,156,Rioja,89.95,42.2814642,-2.482804975070473
+468,Vina Sastre,Regina Vides Ribera del Duero,2015.0,4.5,154,Ribera del Duero,92.8,41.66575665,-3.686329463971761
+470,Vina Sastre,Regina Vides Ribera del Duero,2016.0,4.5,144,Ribera del Duero,70.55,41.66575665,-3.686329463971761
+471,Recaredo,Turo d'en Mota,2006.0,4.5,142,Cava,110.0,42.31658175,1.6111496867672197
+472,Martinet,Cami Pesseroles,2009.0,4.5,141,Priorato,139.3,44.8741121,10.1628956
+473,Dominio del Aguila,Reserva,2018.0,4.5,141,Ribera del Duero,59.8,41.66575665,-3.686329463971761
+474,Sierra Cantabria,Amancio,2014.0,4.5,140,Rioja,75.0,42.2814642,-2.482804975070473
+475,Cruz de Alba,Finca Los Hoyales Ribera del Duero,2015.0,4.5,140,Ribera del Duero,57.0,41.66575665,-3.686329463971761
+476,Artadi,Vina El Pison,2013.0,4.5,137,Vino de Espana,253.47,42.1771554,-8.4341104
+477,Emilio Rojo,Blanco,2017.0,4.5,134,Ribeiro,49.95,42.31990645,-8.152266856014716
+478,Vina Sastre,Pesus Ribera del Duero,2015.0,4.5,134,Ribera del Duero,298.0,41.66575665,-3.686329463971761
+479,Abadia Retuerta,Pago Garduna,2009.0,4.5,132,Castilla y Leon,73.6,41.8037172,-4.7471726
+480,Bodegas Mas Alta,La Basseta,2013.0,4.5,132,Priorato,58.0,44.8741121,10.1628956
+481,Territorio Luthier,Territorio Luthier Reserva,2016.0,4.5,128,Ribera del Duero,54.0,41.66575665,-3.686329463971761
+482,Alion,Ribera del Duero,2018.0,4.5,128,Ribera del Duero,78.38,41.66575665,-3.686329463971761
+484,Anima Negra,Son Negre,2011.0,4.5,121,Mallorca,228.9,39.613432,2.880353635614984
+485,Costers del Siurana,Clos de L'Obac,2010.0,4.5,121,Priorato,81.3,44.8741121,10.1628956
+486,Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2018.0,4.5,117,Ribera del Duero,165.0,41.66575665,-3.686329463971761
+487,Vina Sastre,Pago de Santa Cruz Gran Reserva Ribera del Duero,2014.0,4.5,115,Ribera del Duero,54.9,41.66575665,-3.686329463971761
+488,Rafael Palacios,As Sortes Val do Bibei Godello,2020.0,4.5,115,Valdeorras,55.0,42.34834155,-6.9659982204038755
+489,Martinet,Cami Pesseroles,2010.0,4.5,113,Priorato,131.85,44.8741121,10.1628956
+490,Pago de Los Capellanes,Parcela El Picon Tinto,2015.0,4.5,113,Ribera del Duero,148.39,41.66575665,-3.686329463971761
+491,Adama Wines,Tinto,2011.0,4.5,110,Ribera del Duero,39.0,41.66575665,-3.686329463971761
+492,Jesus Madrazo,Seleccion Rioja,2015.0,4.5,107,Rioja,67.1,42.2814642,-2.482804975070473
+494,Bodegas Naluar & Acediano,Acediano,2015.0,4.5,104,Ribera del Duero,52.0,41.66575665,-3.686329463971761
+495,Marques de Caceres,Gaudium,2016.0,4.5,104,Rioja,34.9,42.2814642,-2.482804975070473
+496,Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2017.0,4.5,103,Ribera del Duero,75.81,41.66575665,-3.686329463971761
+497,Sierra Cantabria,Finca el Bosque,2017.0,4.5,103,Rioja,84.36,42.2814642,-2.482804975070473
+498,Trus,Pico de Luyas,2016.0,4.5,103,Ribera del Duero,47.95,41.66575665,-3.686329463971761
+499,Artadi,Grandes Anadas Rioja,2001.0,4.5,103,Rioja,391.65,42.2814642,-2.482804975070473
+500,Juan Gil,Bruto,2019.0,4.5,104,Jumilla,32.5,38.4735408,-1.3285417
+501,Muga,Aro,2004.0,4.5,102,Rioja,198.0,42.2814642,-2.482804975070473
+502,Mestres,Mas Via Gran Reserva Brut,2004.0,4.5,102,Cava,40.33,42.31658175,1.6111496867672197
+503,Alvaro Palacios,Les Aubaguetes Priorat,2015.0,4.5,99,Priorato,302.5,44.8741121,10.1628956
+504,Quinta de la Quietud,La Mula de la Quietud,2016.0,4.5,99,Toro,62.0,41.5216963,-5.3939824
+505,Chivite,Navarra Coleccion 125 Blanco,2018.0,4.5,97,Navarra,49.1,42.61254875,-1.830787673361753
+506,Marques de Murrieta,Dalmau Rioja,2015.0,4.5,97,Rioja,75.0,42.2814642,-2.482804975070473
+507,Enate,Chardonnay Uno,2011.0,4.5,96,Somontano,200.13,42.0883878,0.09940412890672314
+509,Bodega Ribas,Ribas de Cabrera,2018.0,4.5,94,Mallorca,68.4059721390231,39.613432,2.880353635614984
+510,Vinas del Cenit,Cenit,2012.0,4.5,92,Tierra del Vino de Zamora,37.5,41.3601378,-5.726771
+511,Artadi,El Carretil,2012.0,4.5,88,Vino de Espana,165.0,42.1771554,-8.4341104
+512,Alvaro Palacios,Quinon de Valmira,2016.0,4.5,88,Rioja,415.0,42.2814642,-2.482804975070473
+513,Bodegas Naluar & Acediano,Acediano,2014.0,4.5,87,Ribera del Duero,74.0,41.66575665,-3.686329463971761
+514,Mas del Serral,Mas del Serral,2007.0,4.5,82,Penedes,192.16,33.4742351,-117.627579
+515,Cervoles,Estrats,2009.0,4.5,81,Costers del Segre,59.82,41.502298249999996,0.8273990115524253
+516,Anima Negra,Son Negre,2016.0,4.5,81,Mallorca,164.9,39.613432,2.880353635614984
+519,Sierra Cantabria,Finca el Bosque,2018.0,4.5,81,Rioja,85.95,42.2814642,-2.482804975070473
+520,Familia Torres,Grans Muralles,2000.0,4.5,81,Conca de Barbera,125.05,41.44389565,1.1885113323042593
+521,Emilio Moro,Malleolus de Valderramiro,2018.0,4.5,82,Ribera del Duero,85.55,41.66575665,-3.686329463971761
+522,Bodega Contador (Benjamin Romeo),Contador Rioja,2016.0,4.5,80,Rioja,317.75,42.2814642,-2.482804975070473
+523,Adama Wines,Tinto,2010.0,4.5,79,Ribera del Duero,35.0,41.66575665,-3.686329463971761
+525,Martinet,Cami Pesseroles,2014.0,4.5,78,Priorato,82.55,44.8741121,10.1628956
+526,Clos Mogador,Priorat,2019.0,4.5,76,Priorato,63.9,44.8741121,10.1628956
+527,Marques de Burgos,8000,2017.0,4.5,75,Ribera del Duero,29.95,41.66575665,-3.686329463971761
+528,Vina Sastre,Pesus Ribera del Duero,2009.0,4.5,75,Ribera del Duero,312.6,41.66575665,-3.686329463971761
+529,Bodegas Mas Alta,La Basseta,2017.0,4.5,75,Priorato,58.95,44.8741121,10.1628956
+530,Artadi,La Poza de Ballesteros,2010.0,4.5,74,Vino de Espana,99.35,42.1771554,-8.4341104
+531,Penafiel,Mironia Black Edition Tempranillo,2015.0,4.5,73,Ribera del Duero,49.5,41.66575665,-3.686329463971761
+532,Bodegas Mas Alta,La Creu Alta,2015.0,4.5,73,Priorato,234.98,44.8741121,10.1628956
+533,Costers del Siurana,Miserere,2010.0,4.5,74,Priorato,78.5,44.8741121,10.1628956
+534,Muga,Prado Enea Gran Reserva,2015.0,4.5,72,Rioja,56.95,42.2814642,-2.482804975070473
+535,Tobia,Alma Tobia Rioja,2015.0,4.5,72,Rioja,40.0,42.2814642,-2.482804975070473
+536,Tresmano - Tr3smano,Tm,2016.0,4.5,71,Ribera del Duero,100.0,41.66575665,-3.686329463971761
+537,Mas Doix,Doix,2017.0,4.5,71,Priorato,79.9,44.8741121,10.1628956
+538,Sei Solo,Tinto,2012.0,4.5,70,Ribera del Duero,63.5,41.66575665,-3.686329463971761
+539,Miguel Merino,La Loma,2017.0,4.5,69,Rioja Alta,38.9,42.4157318,-2.87947386168831
+540,Finca Villacreces,Nebro Ribera del Duero,2011.0,4.5,69,Ribera del Duero,154.5,41.66575665,-3.686329463971761
+541,Clos Erasmus,Priorat,2012.0,4.5,69,Priorato,374.66,44.8741121,10.1628956
+542,Artadi,El Carretil,2015.0,4.5,66,Vino de Espana,143.51,42.1771554,-8.4341104
+543,Virgen de la Asuncion,El Canto del Angel,2014.0,4.5,66,Ribera del Duero,59.95,41.66575665,-3.686329463971761
+544,Artadi,Grandes Anadas Rioja,1998.0,4.5,66,Rioja,467.65,42.2814642,-2.482804975070473
+545,Remirez de Ganuza,Rioja Blanco Reserva,2012.0,4.5,66,Rioja,65.5,42.2814642,-2.482804975070473
+546,Remirez de Ganuza,Gran Reserva,2011.0,4.5,65,Rioja,88.5,42.2814642,-2.482804975070473
+548,Allende,Calvario Rioja,2002.0,4.5,61,Rioja,95.0,42.2814642,-2.482804975070473
+549,Dominio del Aguila,Gran Reserva Penas Aladas,2012.0,4.5,61,Ribera del Duero,559.02,41.66575665,-3.686329463971761
+550,Martinet,Cami Pesseroles,2012.0,4.5,60,Priorato,115.85,44.8741121,10.1628956
+552,Sara Perez y Rene Barbier,Gratallops Partida Bellvisos,2005.0,4.5,59,Priorato,266.81,44.8741121,10.1628956
+553,Dehesa del Carrizal,Coleccion Privada,2017.0,4.5,59,Dehesa del Carrizal,26.9,39.8296209,-5.1788648
+554,Tarsus,Finca El Canto,2015.0,4.5,58,Ribera del Duero,89.66,41.66575665,-3.686329463971761
+555,Hacienda Solano,Finca Cascorrales,2016.0,4.5,57,Ribera del Duero,64.3,41.66575665,-3.686329463971761
+558,Adama Wines,Tinto,2007.0,4.5,55,Ribera del Duero,32.0,41.66575665,-3.686329463971761
+562,Bodegas Valduero,Ribera Del Duero Reserva Premium 6 Anos,2014.0,4.5,53,Ribera del Duero,49.9,41.66575665,-3.686329463971761
+563,Enate,Reserva Especial,2006.0,4.5,53,Somontano,65.9,42.0883878,0.09940412890672314
+564,Divina Proporcion,Platon Tinto,2019.0,4.5,52,Toro,25.9,41.5216963,-5.3939824
+565,Vina al Lado de la Casa,Altos de Las Gateras Monastrell,2013.0,4.5,51,Vino de Espana,58.19,42.1771554,-8.4341104
+566,Dominio del Aguila,Canta la Perdiz,2013.0,4.5,51,Ribera del Duero,295.0,41.66575665,-3.686329463971761
+567,Marques de la Concordia,Marques de la Concordia VSG Premium (formerly Hacienda de Susar Rioja),2016.0,4.5,50,Rioja,35.5,42.2814642,-2.482804975070473
+568,Agusti Torello Mata,Cava Kripta Gran Reserva Brut Nature,2013.0,4.5,49,Cava,53.7,42.31658175,1.6111496867672197
+569,Penafiel,Alba de Miros Rueda Verdejo,2019.0,4.5,49,Rueda,9.9,41.4129785,-4.9597533
+570,Carmelo Rodero,Ribera del Duero TSM,2006.0,4.5,48,Ribera del Duero,40.8333333333333,41.66575665,-3.686329463971761
+571,Dominio de Cair,Pendon De La Aguilera,2010.0,4.5,47,Ribera del Duero,299.286840932831,41.66575665,-3.686329463971761
+572,Valquejigoso,V2 Tinto,2009.0,4.5,49,Madrid,43.6838985,40.4167047,-3.7035825
+573,Alvaro Palacios,L'Ermita Velles Vinyes Priorat,2003.0,4.5,46,Priorato,1372.14,44.8741121,10.1628956
+574,Martinet,Cami Pesseroles,2016.0,4.5,46,Priorato,79.55,44.8741121,10.1628956
+575,Cal Pla,Planots Priorat,2013.0,4.5,46,Priorato,57.0,44.8741121,10.1628956
+576,Veigamoura,Blanco,2013.0,4.5,45,Rias Baixas,14.96,42.3533841,-7.8778072
+577,Vizcarra,Celia,2011.0,4.5,44,Ribera del Duero,60.06,41.66575665,-3.686329463971761
+578,Matarromera,Ribera del Duero Prestigio Pago de las Solanas,2010.0,4.5,44,Ribera del Duero,237.0,41.66575665,-3.686329463971761
+579,Clos Erasmus,Priorat,1998.0,4.5,43,Priorato,993.28,44.8741121,10.1628956
+580,Legaris,Calmo,2014.0,4.5,43,Ribera del Duero,71.9,41.66575665,-3.686329463971761
+582,Marques de Murrieta,Dalmau Rioja,2000.0,4.5,42,Rioja,48.5,42.2814642,-2.482804975070473
+583,Anima Negra,Son Negre,2005.0,4.5,42,Mallorca,200.0,39.613432,2.880353635614984
+584,Vinicola Real,Confesor Rioja,2004.0,4.5,42,Rioja,107.5,42.2814642,-2.482804975070473
+585,Bodegas San Roman,Cartago Paraje de Pozo,2016.0,4.5,42,Toro,77.5,41.5216963,-5.3939824
+586,Losada,La Bienquerida,2019.0,4.5,41,Bierzo,32.9,42.65265025,-6.62318404217132
+587,Clos d'Agon,Seleccion Especial,2015.0,4.5,40,Cataluna,93.51,41.8523094,1.5745043
+589,Huerta de Albala,Taberner No. 1,2011.0,4.5,38,Cadiz,75.0,36.5297438,-6.2928976
+590,Uvaguilera Aguilera,Palomero,2010.0,4.5,38,Ribera del Duero,44.95,41.66575665,-3.686329463971761
+591,Ysios,Grano a Grano,2017.0,4.5,37,Rioja,75.0,42.2814642,-2.482804975070473
+592,Finca Villacreces,Nebro Ribera del Duero,2015.0,4.5,37,Ribera del Duero,143.38,41.66575665,-3.686329463971761
+594,Dehesa del Carrizal,Petit Verdot,2018.0,4.5,36,Dehesa del Carrizal,20.15,39.8296209,-5.1788648
+595,Descendientes de J. Palacios,La Faraona Bierzo (Corullon),2015.0,4.5,36,Bierzo,1373.66,42.65265025,-6.62318404217132
+597,Altos del Terral,Cuvee Julia Ribera del Duero,2011.0,4.5,35,Ribera del Duero,157.0,41.66575665,-3.686329463971761
+599,Morca,Garnacha,2019.0,4.5,33,Campo de Borja,29.95,41.78654145,-1.5058322706803928
+600,R. Lopez de Heredia,Vina Tondonia Gran Reserva,2001.0,4.5,33,Rioja,187.91,42.2814642,-2.482804975070473
+601,Martinet,Cami Pesseroles,2013.0,4.5,32,Priorato,113.2,44.8741121,10.1628956
+602,Descendientes de J. Palacios,Las Lamas Bierzo (Corullon),2018.0,4.5,32,Bierzo,120.0,42.65265025,-6.62318404217132
+603,Castillo Perelada,Finca Garbet,2015.0,4.5,32,Emporda,89.9,42.1893929,3.077661284375413
+604,Vinicola Real,200 Monges Rioja Reserva Seleccion Especial,2006.0,4.5,32,Rioja,59.25,42.2814642,-2.482804975070473
+605,El Regajal,Galia Clos Santuy,2016.0,4.5,32,Castilla y Leon,89.0,41.8037172,-4.7471726
+606,Valderiz,Tomas Esteban,2011.0,4.5,32,Ribera del Duero,71.3,41.66575665,-3.686329463971761
+607,Jose Pariente,Finca Las Comas Verdejo,2018.0,4.5,32,Rueda,34.5,41.4129785,-4.9597533
+609,Abadia Retuerta,Petit Verdot,2004.0,4.5,31,Sardon de Duero,160.81,41.6085193,-4.4339323
+610,Amos Baneres,Diables,2018.0,4.5,31,Penedes,38.75,33.4742351,-117.627579
+611,Scala Dei,St Antoni de Scala Dei Priorat,2017.0,4.5,30,Priorato,75.04,44.8741121,10.1628956
+613,Artadi,Valdegines,2019.0,4.5,30,Vino de Espana,40.0,42.1771554,-8.4341104
+614,Clos Erasmus,Priorat,2018.0,4.5,30,Priorato,225.0,44.8741121,10.1628956
+615,Bodegas Valdelana,Seda de Oro Reserva,2016.0,4.5,29,Rioja,69.0,42.2814642,-2.482804975070473
+616,Abel Mendoza Monge,Grano a Grano Graciano - Garnacha,2016.0,4.5,29,Rioja,55.14,42.2814642,-2.482804975070473
+618,Bodegas Amaren,Carraquintana de Amaren,2017.0,4.5,29,Rioja Alavesa,56.5,42.54415095,-2.5454223587321856
+619,Anayon,Garnacha Parcela 81 Vinas Viejas,2017.0,4.5,28,Carinena,54.9,41.3382122,-1.2263149
+620,Castell d'Encus,Saktih,2016.0,4.5,28,Costers del Segre,132.95,41.502298249999996,0.8273990115524253
+621,Gramona,Cava Enoteca Finca de L'Origen Brut Nature,2002.0,4.5,28,Cava,142.0,42.31658175,1.6111496867672197
+622,Sierra Salinas,Salinas 1237,2014.0,4.5,28,Alicante,53.25,38.3436365,-0.4881708
+623,Dehesa del Carrizal,Cabernet Sauvignon,2019.0,4.5,27,Dehesa del Carrizal,16.9,39.8296209,-5.1788648
+624,Vinos Sanz,Finca La Colina Sauvignon Blanc,2021.0,4.5,27,Rueda,13.45,41.4129785,-4.9597533
+625,Cerro San Cristobal,Dominio del Verso Red Blend,2018.0,4.5,27,Condado de Huelva,29.5,37.3382055,-6.5384658
+626,Altos de Rioja,Altos R Pigeage Nacido en Barrica Blanco,2019.0,4.4,27,Rioja,29.9168517,42.2814642,-2.482804975070473
+627,Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera,2007.0,4.5,26,Priorato,69.0,44.8741121,10.1628956
+628,La Vinya del Vuit,La Vinya del Vuit (8),2015.0,4.5,26,Priorato,73.0,44.8741121,10.1628956
+629,Venus la Universal,Venus de la Figuera,2017.0,4.5,26,Montsant,51.5,41.1171253,1.211005
+630,Pedralonga,Vendetta,2013.0,4.5,25,Rias Baixas,38.0,42.3533841,-7.8778072
+631,Alion,Ribera del Duero,2009.0,4.4,6395,Ribera del Duero,189.0,41.66575665,-3.686329463971761
+632,Pintia,Toro,2011.0,4.4,5732,Toro,39.5,41.5216963,-5.3939824
+633,Pintia,Toro,2012.0,4.4,5614,Toro,89.9,41.5216963,-5.3939824
+634,Pintia,Toro,2013.0,4.4,5204,Toro,76.8,41.5216963,-5.3939824
+635,La Rioja Alta,Rioja Gran Reserva 904,2009.0,4.4,5109,Rioja,47.5,42.2814642,-2.482804975070473
+636,Matarromera,Ribera del Duero Reserva,2016.0,4.4,4851,Ribera del Duero,31.5,41.66575665,-3.686329463971761
+637,La Rioja Alta,Rioja Gran Reserva 904,2011.0,4.4,4625,Rioja,47.95,42.2814642,-2.482804975070473
+638,La Rioja Alta,Rioja Gran Reserva 904,2007.0,4.4,4357,Rioja,47.95,42.2814642,-2.482804975070473
+639,Emilio Moro,Malleolus,2018.0,4.4,4121,Ribera del Duero,38.61,41.66575665,-3.686329463971761
+640,Muga,Seleccion Especial (Reserva),2016.0,4.4,3589,Rioja,27.9,42.2814642,-2.482804975070473
+641,Matarromera,Ribera del Duero Reserva,2017.0,4.4,3456,Ribera del Duero,37.25,41.66575665,-3.686329463971761
+642,Hacienda Monasterio,Cosecha,2016.0,4.4,3406,Ribera del Duero,37.8,41.66575665,-3.686329463971761
+643,La Rioja Alta,Rioja Gran Reserva 904,2010.0,4.4,3327,Rioja,61.55,42.2814642,-2.482804975070473
+644,Muga,Prado Enea Gran Reserva,2011.0,4.4,3197,Rioja,43.95,42.2814642,-2.482804975070473
+645,Bodegas Mauro,Red,2018.0,4.4,3095,Castilla y Leon,31.95,41.8037172,-4.7471726
+646,Abadia Retuerta,Seleccion Especial,2017.0,4.4,3093,Sardon de Duero,25.5,41.6085193,-4.4339323
+647,Bodegas El Nido,Clio,2014.0,4.4,3089,Jumilla,35.65,38.4735408,-1.3285417
+648,Dominio de Pingus,Flor de Pingus,2012.0,4.4,2546,Ribera del Duero,125.0,41.66575665,-3.686329463971761
+649,Dominio de Pingus,Flor de Pingus,2013.0,4.4,2418,Ribera del Duero,125.0,41.66575665,-3.686329463971761
+650,La Rioja Alta,Vina Ardanza Reserva,2015.0,4.4,2370,Rioja,23.0,42.2814642,-2.482804975070473
+651,Bodegas Roda,Roda I Reserva Rioja,2009.0,4.4,2228,Rioja,43.5,42.2814642,-2.482804975070473
+652,Bodegas Roda,Roda I Reserva Rioja,2010.0,4.4,2133,Rioja,24.7,42.2814642,-2.482804975070473
+653,Tomas Postigo,3er Ano Ribera del Duero Tinto,2017.0,4.4,2080,Ribera del Duero,27.4,41.66575665,-3.686329463971761
+654,Alion,Ribera del Duero,2007.0,4.4,2053,Ribera del Duero,96.0,41.66575665,-3.686329463971761
+655,Benjamin de Rothschild - Vega Sicilia,Macan Clasico,2016.0,4.4,1993,Rioja,37.52,42.2814642,-2.482804975070473
+656,Bodegas Roda,Roda I Reserva Rioja,2011.0,4.4,1949,Rioja,43.95,42.2814642,-2.482804975070473
+657,Atalaya,Alaya Tierra (Old Vines Vieilles Vignes),2017.0,4.4,1948,Almansa,19.6,38.8682065,-1.0978627
+658,Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,2004.0,4.4,1943,Rioja,160.0,42.2814642,-2.482804975070473
+659,Bodegas Roda,Roda I Reserva Rioja,2012.0,4.4,1853,Rioja,43.5,42.2814642,-2.482804975070473
+660,Tomas Postigo,3er Ano Ribera del Duero Tinto,2018.0,4.4,1842,Ribera del Duero,27.75,41.66575665,-3.686329463971761
+661,Hacienda Monasterio,Cosecha,2018.0,4.4,1777,Ribera del Duero,32.5,41.66575665,-3.686329463971761
+662,Bodegas Mauro,Red,2019.0,4.4,1701,Castilla y Leon,29.45,41.8037172,-4.7471726
+663,Aalto,Tinto,2017.0,4.4,1561,Ribera del Duero,51.526827174062,41.66575665,-3.686329463971761
+664,Benjamin de Rothschild - Vega Sicilia,Macan,2010.0,4.4,1519,Rioja,216.0,42.2814642,-2.482804975070473
+665,Alion,Ribera del Duero,2006.0,4.4,1514,Ribera del Duero,119.7,41.66575665,-3.686329463971761
+666,Muga,Torre Muga,2006.0,4.4,1475,Rioja,66.73,42.2814642,-2.482804975070473
+667,Bodegas Roda,Roda I Reserva Rioja,2015.0,4.4,1463,Rioja,39.95,42.2814642,-2.482804975070473
+668,Matsu,El Viejo,2018.0,4.4,1438,Toro,32.01,41.5216963,-5.3939824
+669,Bodegas Valduero,Ribera del Duero Una Cepa I,2016.0,4.4,1372,Ribera del Duero,28.9,41.66575665,-3.686329463971761
+670,Bodegas San Roman,Tinto,2017.0,4.4,1339,Toro,36.0,41.5216963,-5.3939824
+671,Marques de Vargas,Hacienda Pradolagar,2015.0,4.4,1326,Rioja,105.12,42.2814642,-2.482804975070473
+672,Agusti Torello Mata,Cava Kripta Gran Reserva Brut Nature,2008.0,4.4,1269,Cava,52.5,42.31658175,1.6111496867672197
+673,Hacienda Monasterio,Cosecha,2017.0,4.4,1266,Ribera del Duero,33.31,41.66575665,-3.686329463971761
+674,Remirez de Ganuza,Rioja Reserva,2010.0,4.4,1255,Rioja,73.65,42.2814642,-2.482804975070473
+675,Alto Moncayo,Garnacha,2016.0,4.4,1226,Campo de Borja,33.95,41.78654145,-1.5058322706803928
+676,Remirez de Ganuza,Rioja Reserva,2009.0,4.4,1172,Rioja,74.0,42.2814642,-2.482804975070473
+677,Alion,Ribera del Duero,2005.0,4.4,1166,Ribera del Duero,169.0,41.66575665,-3.686329463971761
+678,Atalaya,Alaya Tierra (Old Vines Vieilles Vignes),2018.0,4.4,1158,Almansa,24.8,38.8682065,-1.0978627
+679,Alion,Ribera del Duero,2004.0,4.4,1121,Ribera del Duero,140.840866321332,41.66575665,-3.686329463971761
+680,Clos Mogador,Priorat,2014.0,4.4,1104,Priorato,175.5,44.8741121,10.1628956
+681,Vinicola Real,200 Monges Rioja Reserva,2011.0,4.4,1098,Rioja,37.57,42.2814642,-2.482804975070473
+682,Arzuaga,Reserva Ribera del Duero,2016.0,4.4,1087,Ribera del Duero,26.24,41.66575665,-3.686329463971761
+683,Emilio Moro,Malleolus,2019.0,4.4,1069,Ribera del Duero,28.5,41.66575665,-3.686329463971761
+684,Bodegas Mauro,VS,2014.0,4.4,1064,Castilla y Leon,178.0,41.8037172,-4.7471726
+685,Hacienda Monasterio,Reserva,2011.0,4.4,1048,Ribera del Duero,78.65,41.66575665,-3.686329463971761
+686,Dominio de Pingus,Flor de Pingus,2008.0,4.4,1047,Ribera del Duero,125.0,41.66575665,-3.686329463971761
+687,Bodegas Roda,Roda I Reserva Rioja,2016.0,4.4,1039,Rioja,35.9,42.2814642,-2.482804975070473
+688,Pago de Los Capellanes,Reserva Tinto,2017.0,4.4,1040,Ribera del Duero,35.7,41.66575665,-3.686329463971761
+689,Aalto,Tinto,2019.0,4.4,1018,Ribera del Duero,33.0,41.66575665,-3.686329463971761
+690,Bodegas Mauro,VS,2015.0,4.4,995,Castilla y Leon,60.95,41.8037172,-4.7471726
+691,Juan Gil,Jumilla Blue Label,2019.0,4.4,966,Jumilla,21.95,38.4735408,-1.3285417
+693,Hacienda Monasterio,Reserva,2014.0,4.4,927,Ribera del Duero,109.9,41.66575665,-3.686329463971761
+694,Senorio de San Vicente,San Vicente Rioja,2011.0,4.4,925,Rioja,33.5,42.2814642,-2.482804975070473
+695,Alto Moncayo,Garnacha,2018.0,4.4,915,Campo de Borja,38.95,41.78654145,-1.5058322706803928
+696,Volver,Triga,2016.0,4.4,852,Alicante,34.9,38.3436365,-0.4881708
+697,Marques de Caceres,Gaudium,2014.0,4.4,827,Rioja,37.8,42.2814642,-2.482804975070473
+699,Teso La Monja,Victorino,2016.0,4.4,812,Toro,38.7,41.5216963,-5.3939824
+700,Clos Mogador,Priorat,2011.0,4.4,809,Priorato,90.0,44.8741121,10.1628956
+701,Clos Mogador,Priorat,2010.0,4.4,799,Priorato,69.79,44.8741121,10.1628956
+702,Lan,Culmen Reserva Rioja,2011.0,4.4,798,Rioja,59.9,42.2814642,-2.482804975070473
+703,Atalaya,Alaya Tierra (Old Vines Vieilles Vignes),2019.0,4.4,787,Almansa,27.39,38.8682065,-1.0978627
+704,Bodegas Roda,Roda I Reserva Rioja,2005.0,4.4,783,Rioja,93.0,42.2814642,-2.482804975070473
+705,Dominio del Aguila,Reserva,2016.0,4.4,778,Ribera del Duero,73.57,41.66575665,-3.686329463971761
+706,Marques de Vargas,Reserva Privada Rioja,2015.0,4.4,746,Rioja,49.67,42.2814642,-2.482804975070473
+707,Abadia Retuerta,Pago Negralada,2014.0,4.4,726,Sardon de Duero,91.57,41.6085193,-4.4339323
+708,Clos Mogador,Priorat,2012.0,4.4,695,Priorato,90.0,44.8741121,10.1628956
+709,Marques de Riscal,Baron de Chirel Rioja Reserva,2015.0,4.4,683,Rioja,69.95,42.2814642,-2.482804975070473
+710,Alion,Ribera del Duero,2001.0,4.4,681,Ribera del Duero,190.0,41.66575665,-3.686329463971761
+711,Marques de Riscal,Baron de Chirel Rioja Reserva,2005.0,4.4,667,Rioja,140.0,42.2814642,-2.482804975070473
+712,Tridente,Rejon Tempranillo,2015.0,4.4,664,Castilla y Leon,35.75,41.8037172,-4.7471726
+713,Alvaro Palacios,Finca Dofi,2016.0,4.4,639,Priorato,52.5,44.8741121,10.1628956
+714,Clos Mogador,Priorat,2007.0,4.4,624,Priorato,95.0,44.8741121,10.1628956
+715,Ausas,Interpretacion,2016.0,4.4,618,Ribera del Duero,45.15,41.66575665,-3.686329463971761
+716,Muga,Torre Muga,2015.0,4.4,617,Rioja,58.2142247461506,42.2814642,-2.482804975070473
+717,Senorio de San Vicente,San Vicente Rioja,2016.0,4.4,609,Rioja,42.7,42.2814642,-2.482804975070473
+718,Tresmano - Tr3smano,Vendimia,2017.0,4.4,581,Ribera del Duero,28.7315367295517,41.66575665,-3.686329463971761
+719,Ferrer Bobet,Priorat Vinyes Velles,2017.0,4.4,575,Priorato,32.65,44.8741121,10.1628956
+720,Marques de Caceres,Gaudium,2015.0,4.4,561,Rioja,43.86,42.2814642,-2.482804975070473
+721,Benjamin de Rothschild - Vega Sicilia,Macan Clasico,2017.0,4.4,560,Rioja,36.9,42.2814642,-2.482804975070473
+722,Remirez de Ganuza,Rioja Reserva,2013.0,4.4,550,Rioja,54.83,42.2814642,-2.482804975070473
+723,Marques de Murrieta,Dalmau Rioja,2016.0,4.4,550,Rioja,55.33,42.2814642,-2.482804975070473
+724,Bodegas Amaren,Tempranillo Reserva,2010.0,4.4,542,Rioja,26.9,42.2814642,-2.482804975070473
+726,Tinto Pesquera,Millenium Reserva,2008.0,4.4,527,Ribera del Duero,74.0,41.66575665,-3.686329463971761
+727,Hacienda Monasterio,Cosecha,2019.0,4.4,523,Ribera del Duero,34.35,41.66575665,-3.686329463971761
+728,Arzuaga,Gran Reserva Ribera del Duero,2009.0,4.4,516,Ribera del Duero,76.3,41.66575665,-3.686329463971761
+729,Ausas,Interpretacion,2017.0,4.4,514,Ribera del Duero,45.3,41.66575665,-3.686329463971761
+731,Bodegas Mauro,VS,2016.0,4.4,506,Castilla y Leon,56.5,41.8037172,-4.7471726
+732,Vina Sastre,Pago de Santa Cruz,2014.0,4.4,499,Ribera del Duero,54.9,41.66575665,-3.686329463971761
+733,Ordonez,Vatan Tinta de Toro,2017.0,4.4,498,Toro,55.31,41.5216963,-5.3939824
+734,Cillar de Silos,Dominio del Pidio,2016.0,4.4,495,Ribera del Duero,53.91,41.66575665,-3.686329463971761
+735,Marques de Riscal,Rioja Gran Reserva,2015.0,4.4,485,Rioja,35.1,42.2814642,-2.482804975070473
+736,Teso La Monja,Victorino,2017.0,4.4,481,Toro,38.5,41.5216963,-5.3939824
+737,Imperial,Rioja Gran Reserva,2015.0,4.4,471,Rioja,49.97,42.2814642,-2.482804975070473
+738,Carmelo Rodero,Reserva,2016.0,4.4,450,Ribera del Duero,32.9,41.66575665,-3.686329463971761
+739,Ramos-Paul,Tinto,2006.0,4.4,443,Malaga,34.0,36.7213028,-4.4216366
+740,Artadi,Pagos Viejos,2006.0,4.4,442,Vino de Espana,90.5,42.1771554,-8.4341104
+741,Anima Negra,An,2018.0,4.4,436,Mallorca,38.3,39.613432,2.880353635614984
+742,Matarromera,Ribera del Duero Prestigio,2014.0,4.4,421,Ribera del Duero,41.32,41.66575665,-3.686329463971761
+743,Bodega Numanthia,Numanthia,2004.0,4.4,414,Toro,98.0,41.5216963,-5.3939824
+744,Rafael Palacios,As Sortes Val do Bibei Godello,2018.0,4.4,412,Valdeorras,55.71,42.34834155,-6.9659982204038755
+745,Bodega de Bardos,Suprema 30 Meses,2016.0,4.4,406,Ribera del Duero,35.2,41.66575665,-3.686329463971761
+746,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2015.0,4.4,389,Rioja,73.6,42.2814642,-2.482804975070473
+747,Ausas,Interpretacion,2018.0,4.4,389,Ribera del Duero,41.0,41.66575665,-3.686329463971761
+748,Morca,Garnacha,2016.0,4.4,376,Campo de Borja,31.5,41.78654145,-1.5058322706803928
+749,Carmelo Rodero,Ribera del Duero TSM,2015.0,4.4,367,Ribera del Duero,56.75,41.66575665,-3.686329463971761
+750,Rodriguez Sanzo,Whisba Tempranillo Aged 18 Months in Whisky Barrels,2019.0,4.4,363,Toro,20.9,41.5216963,-5.3939824
+751,Lan,A Mano Rioja,2017.0,4.4,360,Rioja,30.73,42.2814642,-2.482804975070473
+752,Cruz de Alba,Finca Los Hoyales Ribera del Duero,2014.0,4.4,351,Ribera del Duero,49.9,41.66575665,-3.686329463971761
+753,Vinicola Real,200 Monges Rioja Gran Reserva,2001.0,4.4,349,Rioja,52.0,42.2814642,-2.482804975070473
+754,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2011.0,4.4,343,Rioja,90.0,42.2814642,-2.482804975070473
+755,Antidoto,La Hormiga de Antidoto,2019.0,4.4,336,Ribera del Duero,26.63,41.66575665,-3.686329463971761
+756,Abadia Retuerta,Le Domaine Blanco de Guarda,2019.0,4.4,334,Sardon de Duero,32.58,41.6085193,-4.4339323
+757,Rafael Palacios,As Sortes Val do Bibei Godello,2019.0,4.4,333,Valdeorras,46.5,42.34834155,-6.9659982204038755
+758,Bosque de Matasnos,Edicion Limitada,2015.0,4.4,328,Ribera del Duero,32.5811870756681,41.66575665,-3.686329463971761
+759,Bodegas 6o Elemento - Vino Sexto Elemento,Tinto,2017.0,4.4,319,Valencia,29.95,39.4697065,-0.3763353
+760,Altanza,Lealtanza Coleccion de Artistas Espanoles Sorolla,2010.0,4.4,316,Rioja,34.9,42.2814642,-2.482804975070473
+761,Remelluri,Granja Gran Reserva Rioja,2011.0,4.4,313,Rioja,43.9,42.2814642,-2.482804975070473
+762,Perinet,Priorat,2016.0,4.4,309,Priorato,65.0,44.8741121,10.1628956
+764,Vina Pedrosa,Perez Pascuas Gran Reserva Seleccion,2010.0,4.4,305,Ribera del Duero,210.5,41.66575665,-3.686329463971761
+765,Agusti Torello Mata,Cava Kripta Gran Reserva Brut Nature,2011.0,4.4,298,Cava,55.95,42.31658175,1.6111496867672197
+766,Costers del Siurana,Miserere,2005.0,4.4,296,Priorato,92.8716274104906,44.8741121,10.1628956
+767,Martinet,Clos Martinet,2015.0,4.4,296,Priorato,65.4,44.8741121,10.1628956
+768,Valquejigoso,V2 Tinto,2008.0,4.4,293,Madrid,45.890156,40.4167047,-3.7035825
+769,Familia Torres,Grans Muralles,2014.0,4.4,292,Conca de Barbera,304.0,41.44389565,1.1885113323042593
+770,Castillo de Cuzcurrita,Cerrado del Castillo Rioja,2015.0,4.4,269,Rioja,47.5,42.2814642,-2.482804975070473
+771,Lan,A Mano Rioja,2018.0,4.4,269,Rioja,29.9,42.2814642,-2.482804975070473
+772,Contino,Rioja Gran Reserva,2016.0,4.4,267,Rioja,40.45,42.2814642,-2.482804975070473
+773,Vinedos de Paganos,El Puntido Gran Reserva,2007.0,4.4,267,Rioja,49.65,42.2814642,-2.482804975070473
+774,Artadi,Pagos Viejos,2004.0,4.4,262,Vino de Espana,57.11,42.1771554,-8.4341104
+776,Remirez de Ganuza,Trasnocho,2010.0,4.4,258,Rioja,133.75,42.2814642,-2.482804975070473
+777,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2016.0,4.4,252,Rioja,67.9,42.2814642,-2.482804975070473
+778,Martinet,Clos Martinet,2011.0,4.4,249,Priorato,75.92,44.8741121,10.1628956
+779,Agusti Torello Mata,Cava Kripta Gran Reserva Brut Nature,2010.0,4.4,245,Cava,47.52,42.31658175,1.6111496867672197
+780,Volver,Triga,2017.0,4.4,243,Alicante,29.9,38.3436365,-0.4881708
+781,Volver,Cuvee Old Vines Unfiltered,2017.0,4.4,241,Jumilla,19.99,38.4735408,-1.3285417
+782,La Vicalanda,Gran Reserva,2010.0,4.4,239,Rioja,59.25,42.2814642,-2.482804975070473
+785,Bodegas Mas Alta,Cirerets,2018.0,4.4,233,Priorato,40.3,44.8741121,10.1628956
+786,Cillar de Silos,Dominio del Pidio,2018.0,4.4,225,Ribera del Duero,42.75,41.66575665,-3.686329463971761
+787,Contino,Vina del Olivo,2016.0,4.4,224,Rioja,149.5,42.2814642,-2.482804975070473
+788,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2012.0,4.4,222,Rioja,76.5,42.2814642,-2.482804975070473
+789,Martinet,Clos Martinet,2008.0,4.4,220,Priorato,113.2,44.8741121,10.1628956
+790,Ossian,Vinas Viejas Verdejo,2019.0,4.4,219,Castilla y Leon,26.9,41.8037172,-4.7471726
+792,Carmelo Rodero,Reserva,2017.0,4.4,217,Ribera del Duero,29.95,41.66575665,-3.686329463971761
+793,Los Aguilares,Tadeo Tinto,2014.0,4.4,215,Sierras de Malaga,33.0,36.9218381,-4.0957668
+794,Dominio de Cair,Tierras de Cair Reserva,2014.0,4.4,208,Ribera del Duero,37.0,41.66575665,-3.686329463971761
+795,Bodega Rento,Tinto,2014.0,4.4,207,Ribera del Duero,37.13,41.66575665,-3.686329463971761
+796,R. Lopez de Heredia,Gran Reserva Rosado,2011.0,4.4,206,Rioja Alta,49.95,42.4157318,-2.87947386168831
+797,Chivite,Navarra Coleccion 125 Blanco,2017.0,4.4,204,Navarra,50.9,42.61254875,-1.830787673361753
+798,Gramona,Cava Celler Batlle,2006.0,4.4,201,Cava,51.95,42.31658175,1.6111496867672197
+799,Remelluri,Rioja Blanco,2017.0,4.4,201,Rioja,49.2,42.2814642,-2.482804975070473
+800,Castano,Casa Cisca Monastrell,2015.0,4.4,200,Yecla,35.2,38.613652,-1.1157373
+801,Dominio do Bibei,Lapola,2019.0,4.4,196,Ribeira Sacra,20.74,43.3251858,-8.4398923
+802,Allende,Calvario Rioja,2008.0,4.4,195,Rioja,87.3,42.2814642,-2.482804975070473
+803,Remelluri,Granja Gran Reserva Rioja,2012.0,4.4,194,Rioja,45.95,42.2814642,-2.482804975070473
+804,Abadia Retuerta,Pago Negralada,2013.0,4.4,189,Sardon de Duero,64.99,41.6085193,-4.4339323
+805,Mas Doix,Doix,2007.0,4.4,187,Priorato,350.03,44.8741121,10.1628956
+806,Ferrer Bobet,Seleccio Especial Vinyes Velles,2013.0,4.4,185,Priorato,69.9,44.8741121,10.1628956
+807,Vall Llach,Idus,2017.0,4.4,180,Priorato,36.95,44.8741121,10.1628956
+808,Martinet,Clos Martinet,2007.0,4.4,177,Priorato,154.37,44.8741121,10.1628956
+809,Marco Abella,Clos Abella Seleccion Especial,2014.0,4.4,173,Priorato,43.85,44.8741121,10.1628956
+810,Casa Castillo,Pie Franco,2017.0,4.4,172,Jumilla,77.98,38.4735408,-1.3285417
+811,Sierra Cantabria,Amancio,2013.0,4.4,172,Rioja,91.43,42.2814642,-2.482804975070473
+812,Emilio Moro,Malleolus de Sanchomartin,2007.0,4.4,172,Ribera del Duero,195.0,41.66575665,-3.686329463971761
+813,Espectacle del Montsant,Tinto,2016.0,4.4,169,Montsant,125.84,41.1171253,1.211005
+814,Lan,Culmen Reserva Rioja,2001.0,4.4,168,Rioja,69.0,42.2814642,-2.482804975070473
+815,Javier Sanz Viticultor,Singular V Malcorta Verdejo,2020.0,4.4,168,Rueda,17.49,41.4129785,-4.9597533
+816,Recaredo,Serral del Vell Brut Nature,2014.0,4.4,166,Cava,44.41,42.31658175,1.6111496867672197
+817,Espectacle del Montsant,Tinto,2014.0,4.4,165,Montsant,149.0,41.1171253,1.211005
+818,Abadia Retuerta,Pago Negralada,2009.0,4.4,165,Sardon de Duero,73.6,41.6085193,-4.4339323
+819,Remirez de Ganuza,Trasnocho,2014.0,4.4,164,Rioja,82.75,42.2814642,-2.482804975070473
+820,Mas Doix,Doix,2013.0,4.4,164,Priorato,78.38,44.8741121,10.1628956
+821,Protos,Seleccion Finca el Grajo Viejo,2016.0,4.4,162,Ribera del Duero,59.95,41.66575665,-3.686329463971761
+822,Sierra Cantabria,Finca el Bosque,2014.0,4.4,162,Rioja,80.95,42.2814642,-2.482804975070473
+823,Artadi,La Poza de Ballesteros,2015.0,4.4,161,Vino de Espana,95.9,42.1771554,-8.4341104
+824,Tinto Pesquera,Millenium Reserva,2015.0,4.4,160,Ribera del Duero,75.0,41.66575665,-3.686329463971761
+827,Contino,Vina del Olivo,2015.0,4.4,159,Rioja,64.0,42.2814642,-2.482804975070473
+828,Sierra Cantabria,Finca el Bosque,2012.0,4.4,158,Rioja,78.9,42.2814642,-2.482804975070473
+829,Orben,Malpuesto,2018.0,4.4,158,Rioja,35.5,42.2814642,-2.482804975070473
+830,Artadi,Valdegines,2018.0,4.4,155,Vino de Espana,42.35,42.1771554,-8.4341104
+831,Jaro,Chafandin,2018.0,4.4,155,Ribera del Duero,28.95,41.66575665,-3.686329463971761
+832,Artadi,Vina El Pison,2007.0,4.4,154,Vino de Espana,495.0,42.1771554,-8.4341104
+833,Abadia Retuerta,Pago Negralada,2016.0,4.4,152,Sardon de Duero,63.95,41.6085193,-4.4339323
+834,Bodega Contador (Benjamin Romeo),La Vina de Andres Romeo Rioja,2012.0,4.4,151,Rioja,99.0,42.2814642,-2.482804975070473
+835,Vina Sastre,Pesus Ribera del Duero,2012.0,4.4,150,Ribera del Duero,379.0,41.66575665,-3.686329463971761
+836,Dominio del Aguila,Reserva,2017.0,4.4,149,Ribera del Duero,56.95,41.66575665,-3.686329463971761
+837,Vina Sastre,Regina Vides Ribera del Duero,2012.0,4.4,148,Ribera del Duero,65.34,41.66575665,-3.686329463971761
+839,Bodegas El Paraguas,Atlantico,2019.0,4.4,146,Ribeiro,18.99,42.31990645,-8.152266856014716
+840,Mustiguillo,Quincha Corral,2016.0,4.4,145,El Terrerazo,79.95,39.6222682,-1.2467301
+841,Martinet,Els Escurcons,2014.0,4.4,143,Priorato,78.49,44.8741121,10.1628956
+842,Remirez de Ganuza,Rioja Reserva,2014.0,4.4,142,Rioja,49.9,42.2814642,-2.482804975070473
+843,Vall Llach,Idus,2018.0,4.4,141,Priorato,35.5,44.8741121,10.1628956
+844,Vina Pomal,Vinos Singulares Tempranillo Blanco Reserva,2014.0,4.4,141,Rioja,34.9,42.2814642,-2.482804975070473
+845,Astrales,Christina Ribera del Duero,2016.0,4.4,142,Ribera del Duero,50.76,41.66575665,-3.686329463971761
+846,Merum Priorati,Desti,2018.0,4.4,136,Priorato,29.95,44.8741121,10.1628956
+847,Hacienda Lopez de Haro,Gran Reserva Classica Tinto,2001.0,4.4,135,Rioja,36.75,42.2814642,-2.482804975070473
+848,Bodegas Mauro,Godello Blanco,2019.0,4.4,134,Bierzo,37.6,42.65265025,-6.62318404217132
+849,Alto Moncayo,Aquilon Garnacha,2014.0,4.4,134,Campo de Borja,100.0,41.78654145,-1.5058322706803928
+852,Remelluri,Rioja Blanco,2018.0,4.4,130,Rioja,52.0,42.2814642,-2.482804975070473
+853,Pazo Senorans,Seleccion de Anada Albarino Rias Baixas,2012.0,4.4,130,Rias Baixas,34.25,42.3533841,-7.8778072
+854,Fefinanes,Albarino de Fefinanes III Ano,2017.0,4.4,128,Rias Baixas,35.4,42.3533841,-7.8778072
+855,Arzuaga,Reserva Ribera del Duero,2018.0,4.4,128,Ribera del Duero,32.15,41.66575665,-3.686329463971761
+856,Familia Torres,Perpetual,2017.0,4.4,127,Priorato,62.75,44.8741121,10.1628956
+857,Gramona,Cava Celler Batlle,2010.0,4.4,126,Cava,58.3,42.31658175,1.6111496867672197
+858,Ferrer Bobet,Seleccio Especial Vinyes Velles,2016.0,4.4,123,Priorato,58.9,44.8741121,10.1628956
+859,Merum Priorati,El Cel,2015.0,4.4,123,Priorato,59.0,44.8741121,10.1628956
+860,Gomez Cruzado,Montes Obarenes Seleccion Terroir,2016.0,4.4,122,Rioja,42.95,42.2814642,-2.482804975070473
+861,Vall Llach,Porrera Vi de Vila,2017.0,4.4,122,Priorato,43.95,44.8741121,10.1628956
+862,Resalte,Gran Ribera del Duero,2010.0,4.4,122,Ribera del Duero,41.9188925,41.66575665,-3.686329463971761
+863,Scala Dei,Heretge Priorat,2017.0,4.4,120,Priorato,91.03,44.8741121,10.1628956
+864,Figuero,Vinas Viejas,2018.0,4.4,119,Ribera del Duero,25.1,41.66575665,-3.686329463971761
+865,Artadi,La Poza de Ballesteros,2014.0,4.4,119,Vino de Espana,104.0,42.1771554,-8.4341104
+866,Artadi,El Carretil,2010.0,4.4,117,Vino de Espana,295.3,42.1771554,-8.4341104
+868,Vina Sastre,Pago de Santa Cruz Gran Reserva Ribera del Duero,2015.0,4.4,116,Ribera del Duero,71.95,41.66575665,-3.686329463971761
+869,Pinea,17,2018.0,4.4,115,Ribera del Duero,57.9,41.66575665,-3.686329463971761
+870,Vina Sastre,Pesus Ribera del Duero,2011.0,4.4,114,Ribera del Duero,465.0,41.66575665,-3.686329463971761
+871,Mas Doix,Doix,2014.0,4.4,114,Priorato,116.0,44.8741121,10.1628956
+872,Terroir Al Limit Soc. Lda,Les Tosses,2014.0,4.4,113,Priorato,158.88,44.8741121,10.1628956
+873,Martinet,Cami Pesseroles,2007.0,4.4,112,Priorato,165.85,44.8741121,10.1628956
+874,Artadi,La Poza de Ballesteros,2013.0,4.4,112,Vino de Espana,101.01,42.1771554,-8.4341104
+875,Portal del Priorat,Clos del Portal Tros de Clos,2016.0,4.4,109,Priorato,56.95,44.8741121,10.1628956
+876,Vina Sastre,Pago de Santa Cruz,2019.0,4.4,109,Ribera del Duero,48.69,41.66575665,-3.686329463971761
+877,Bodegas Mas Alta,La Basseta,2016.0,4.4,108,Priorato,56.0,44.8741121,10.1628956
+879,Nin-Ortiz,Nit de Nin Mas d'en Cacador,2017.0,4.4,106,Priorato,89.9,44.8741121,10.1628956
+880,Casa Rojo,Minami,2016.0,4.4,106,Jumilla,48.9,38.4735408,-1.3285417
+882,Alvaro Palacios,Vi de Vila Gratallops,2019.0,4.4,105,Priorato,54.5,44.8741121,10.1628956
+883,Bodegas Naluar & Acediano,Acediano,2016.0,4.4,104,Ribera del Duero,42.0,41.66575665,-3.686329463971761
+884,Gramona,Cava Celler Batlle,2009.0,4.4,102,Cava,59.75,42.31658175,1.6111496867672197
+885,Cims de Porrera,Classic,2012.0,4.4,102,Priorato,49.95,44.8741121,10.1628956
+886,Murua,Veguin de Murua Gran Reserva,2012.0,4.4,101,Rioja,36.0,42.2814642,-2.482804975070473
+887,Pago de Los Capellanes,O Luar do Sil Valdeorras Godello Sobre Lias,2020.0,4.4,101,Valdeorras,16.39,42.34834155,-6.9659982204038755
+888,Mas Doix,Doix,2015.0,4.4,100,Priorato,95.0,44.8741121,10.1628956
+889,Vinyes Domenech,Teixar,2015.0,4.4,99,Montsant,51.05,41.1171253,1.211005
+890,Sei Solo,Tinto,2018.0,4.4,99,Ribera del Duero,52.9,41.66575665,-3.686329463971761
+891,Bodegas Ximenez-Spinola,Anada Pedro Ximenez,2018.0,4.4,99,Jerez-Xeres-Sherry,17.5,36.65901315,-6.155439431926194
+892,Abadia Retuerta,Le Domaine Blanco de Guarda,2020.0,4.4,99,Sardon de Duero,33.8,41.6085193,-4.4339323
+893,Artadi,Vina El Pison,1999.0,4.4,98,Vino de Espana,419.85,42.1771554,-8.4341104
+894,Portal del Priorat,Clos del Portal Somni,2016.0,4.4,98,Priorato,33.03,44.8741121,10.1628956
+895,Terroir Al Limit Soc. Lda,Les Manyes,2015.0,4.4,98,Priorato,189.0,44.8741121,10.1628956
+896,Castillo Perelada,Emporda Aires de Garbet,2017.0,4.4,98,Emporda,39.22,42.1893929,3.077661284375413
+897,Pago de Vallegarcia,Montes de Toledo Syrah,2019.0,4.4,97,Castilla,19.5,-15.5859786,-72.3617354
+898,Finca Torremilanos,Torremilanos Coleccion Ribera del Duero,2014.0,4.4,97,Ribera del Duero,44.0,41.66575665,-3.686329463971761
+899,Vina Sastre,Regina Vides Ribera del Duero,2010.0,4.4,96,Ribera del Duero,101.1,41.66575665,-3.686329463971761
+900,Eulogio Pomares,Maceracion Con Pieles,2017.0,4.4,95,Rias Baixas,36.95,42.3533841,-7.8778072
+902,Marques de Riscal,Baron de Chirel Rioja Reserva,2003.0,4.4,95,Rioja,77.0,42.2814642,-2.482804975070473
+903,Casa Castillo,Pie Franco,2018.0,4.4,95,Jumilla,69.0,38.4735408,-1.3285417
+904,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2004.0,4.4,94,Rioja,90.0,42.2814642,-2.482804975070473
+905,Sangenis I Vaque,Clos Monlleo,2011.0,4.4,94,Priorato,50.0,44.8741121,10.1628956
+906,Allende,Calvario Rioja,2010.0,4.4,92,Rioja,125.97,42.2814642,-2.482804975070473
+908,Bodegas Mas Alta,La Solana Alta,2017.0,4.4,90,Priorato,63.46,44.8741121,10.1628956
+909,Vinas del Vero,Blecua Somontano,2004.0,4.4,88,Somontano,69.0,42.0883878,0.09940412890672314
+910,Merum Priorati,El Cel,2016.0,4.4,88,Priorato,64.0,44.8741121,10.1628956
+911,VALENCISO,Rioja Reserva 10 Anos Despues Edicion Limitada,2011.0,4.4,88,Rioja,57.9,42.2814642,-2.482804975070473
+912,Artadi,El Carretil,2014.0,4.4,86,Vino de Espana,143.51,42.1771554,-8.4341104
+913,Mas Perinet,Perinet + Plus,2004.0,4.4,85,Priorato,54.05,44.8741121,10.1628956
+914,Espectacle del Montsant,Tinto,2017.0,4.4,85,Montsant,102.0,41.1171253,1.211005
+915,Clos Mogador,Priorat,1999.0,4.4,85,Priorato,95.0,44.8741121,10.1628956
+916,Luis A. Rodriguez Vazquez,Vina de Martin Escolma Ribeiro,2016.0,4.4,85,Ribeiro,37.65,42.31990645,-8.152266856014716
+917,Artadi,Vina El Pison,2001.0,4.4,85,Vino de Espana,340.0,42.1771554,-8.4341104
+918,Carmelo Rodero,Reserva,2018.0,4.4,83,Ribera del Duero,28.9,41.66575665,-3.686329463971761
+919,Alvaro Palacios,Finca Dofi,2019.0,4.4,82,Priorato,84.55,44.8741121,10.1628956
+921,Martinet,Cami Pesseroles,2008.0,4.4,80,Priorato,152.6,44.8741121,10.1628956
+922,Vizcarra,Ribera del Duero Torralvo,2018.0,4.4,80,Ribera del Duero,32.45,41.66575665,-3.686329463971761
+923,Chozas Carrascal,El Cabernet F - Familiar,2017.0,4.4,80,Utiel-Requena,34.9,39.4880777,-1.1001643
+924,Bodegas Vilano,Premium,2018.0,4.4,79,Ribera del Duero,35.0,41.66575665,-3.686329463971761
+925,Pago de Vallegarcia,Hipperia Red Blend,2018.0,4.4,79,Castilla,24.9,-15.5859786,-72.3617354
+926,Alonso del Yerro,Maria Ribera del Duero,2016.0,4.4,78,Ribera del Duero,53.9,41.66575665,-3.686329463971761
+927,Emilio Moro,Vendimia Seleccionada,2019.0,4.4,77,Ribera del Duero,21.38,41.66575665,-3.686329463971761
+928,Artadi,Vina El Pison,2016.0,4.4,77,Vino de Espana,385.0,42.1771554,-8.4341104
+929,Clos Figueras,Clos Figueres,2017.0,4.4,75,Priorato,53.4,44.8741121,10.1628956
+930,Bodegas Monte La Reina,Castillo de Monte la Reina Cuvee Privee,2015.0,4.4,75,Toro,14.65,41.5216963,-5.3939824
+931,Alonso del Yerro,Maria Ribera del Duero,2015.0,4.4,75,Ribera del Duero,54.9,41.66575665,-3.686329463971761
+933,Ontanon,Queiron Reserva Vinedos Familiares,2011.0,4.4,74,Rioja,26.85,42.2814642,-2.482804975070473
+934,Martinet,Cami Pesseroles,2011.0,4.4,74,Priorato,126.5,44.8741121,10.1628956
+936,Ferrer Bobet,Seleccio Especial Vinyes Velles,2017.0,4.4,73,Priorato,64.35,44.8741121,10.1628956
+937,Dominio de Atauta,Llanos del Almendro Ribera del Duero,2011.0,4.4,73,Ribera del Duero,115.2,41.66575665,-3.686329463971761
+938,Alta Alella,Dolc Mataro,2018.0,4.4,72,Alella,17.95,41.4952867,2.2942758
+941,Teso La Monja,Victorino,2019.0,4.4,71,Toro,33.9,41.5216963,-5.3939824
+942,Bodegas Roda,Roda I Reserva Rioja,2017.0,4.4,71,Rioja,45.95,42.2814642,-2.482804975070473
+943,Bodega Elias Mora,Toro 2V Premium,2005.0,4.4,70,Toro,44.0,41.5216963,-5.3939824
+944,Tridente,Rejon Tempranillo,2018.0,4.4,70,Castilla y Leon,31.94,41.8037172,-4.7471726
+945,Joan Simo,Les Eres Vinyes Velles,2015.0,4.4,70,Priorato,32.49,44.8741121,10.1628956
+946,Hacienda Lopez de Haro,Gran Reserva Classica Blanco,2012.0,4.4,70,Rioja,36.75,42.2814642,-2.482804975070473
+947,Can Axartell,The Artist,2016.0,4.4,69,Mallorca,26.84,39.613432,2.880353635614984
+949,Pazo Barrantes,La Comtesse de Pazo Barrantes Albarino,2017.0,4.4,69,Rias Baixas,59.95,42.3533841,-7.8778072
+950,Sara Perez y Rene Barbier,Gratallops Partida Bellvisos,2007.0,4.4,69,Priorato,241.4,44.8741121,10.1628956
+951,Abadia Retuerta,Seleccion Especial,2018.0,4.4,68,Sardon de Duero,27.6,41.6085193,-4.4339323
+952,Abel Mendoza Monge,5V Blanco,2019.0,4.4,68,Rioja,37.98,42.2814642,-2.482804975070473
+953,Mas Llunes,Finca Butaros Vinya Centenaria,2015.0,4.4,67,Emporda,32.23,42.1893929,3.077661284375413
+954,Familia Torres,Grans Muralles,2016.0,4.4,67,Conca de Barbera,123.76,41.44389565,1.1885113323042593
+955,Losada,La Bienquerida,2018.0,4.4,66,Bierzo,34.55,42.65265025,-6.62318404217132
+956,Artadi,El Carretil,2016.0,4.4,66,Vino de Espana,155.0,42.1771554,-8.4341104
+957,Marques de Vargas,Seleccion Privada,2011.0,4.4,65,Rioja,68.0,42.2814642,-2.482804975070473
+958,Protos,Seleccion Finca el Grajo Viejo,2017.0,4.4,65,Ribera del Duero,59.9,41.66575665,-3.686329463971761
+959,Bodegas Frontaura,Aponte Winemaker's Private Collection Tempranillo,2008.0,4.4,66,Toro,112.0,41.5216963,-5.3939824
+960,Roig Parals,Cami de Cormes,2018.0,4.4,65,Emporda,14.18,42.1893929,3.077661284375413
+961,Oxer Wines,Kalamity Rioja,2017.0,4.4,65,Rioja,106.0,42.2814642,-2.482804975070473
+962,Perinet,1194,2016.0,4.4,64,Priorato,105.8121097,44.8741121,10.1628956
+963,Cepa 21,Malabrigo Ribera del Duero,2018.0,4.4,65,Ribera del Duero,31.5,41.66575665,-3.686329463971761
+965,Avgvstvs,Reserva Trajanvs,2016.0,4.4,64,Penedes,21.5,33.4742351,-117.627579
+966,Alvaro Palacios,Finca Dofi,1999.0,4.4,64,Priorato,75.0,44.8741121,10.1628956
+967,Jorge Ordonez,No. 2 Victoria,2018.0,4.4,64,Malaga,15.9,36.7213028,-4.4216366
+968,Remelluri,Granja Gran Reserva Rioja,2013.0,4.4,63,Rioja,53.9,42.2814642,-2.482804975070473
+969,Castillo Perelada,Emporda Gran Claustro,2015.0,4.4,63,Emporda,30.86,42.1893929,3.077661284375413
+970,Anima Negra,Son Negre,2010.0,4.4,63,Mallorca,235.95,39.613432,2.880353635614984
+971,Vinicola Real,200 Monges Rioja Reserva,2012.0,4.4,62,Rioja,38.5,42.2814642,-2.482804975070473
+972,Ramon Bilbao,Lalomba Finca Valhonta,2017.0,4.4,61,Rioja,56.75,42.2814642,-2.482804975070473
+973,Clos Mogador,Manyetes,2017.0,4.4,61,Priorato,59.9,44.8741121,10.1628956
+974,Vina Pedrosa,Gran Reserva,2014.0,4.4,60,Ribera del Duero,122.667917,41.66575665,-3.686329463971761
+975,Recaredo,Serral del Vell Brut Nature,2016.0,4.4,60,Cava,34.56,42.31658175,1.6111496867672197
+976,Abadia Retuerta,Pago Valdebellon,2016.0,4.4,60,Sardon de Duero,65.9,41.6085193,-4.4339323
+977,Gramona,Cava Celler Batlle,2011.0,4.4,59,Cava,59.75,42.31658175,1.6111496867672197
+978,Vina Sastre,Pesus Ribera del Duero,2003.0,4.4,59,Ribera del Duero,509.25,41.66575665,-3.686329463971761
+979,Terroir Al Limit Soc. Lda,Les Tosses,2013.0,4.4,59,Priorato,158.88,44.8741121,10.1628956
+980,Leda,Guarda de Leda Seleccion Tempranillo,2015.0,4.4,59,Castilla y Leon,37.66,41.8037172,-4.7471726
+981,Enric Soler,Nun Vinya dels Taus,2018.0,4.4,59,Penedes,62.7,33.4742351,-117.627579
+982,Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera,2016.0,4.4,58,Priorato,60.73,44.8741121,10.1628956
+983,Es Fangar,Lo Cortinelo.Lo Blanc,2017.0,4.4,58,Pla i Llevant,27.25,39.385214,-0.4479828
+984,Cal Batllet - Celler Ripoll Sans,5 Partides Gratallops Vi de La Vila,2014.0,4.4,58,Priorato,49.6,44.8741121,10.1628956
+985,Llopart,Cava Ex-Vite Gran Reserva Brut,2010.0,4.4,57,Cava,43.5,42.31658175,1.6111496867672197
+987,Portia,Summa Edicion Limitada,2015.0,4.4,56,Ribera del Duero,89.97,41.66575665,-3.686329463971761
+988,Bodegas Mas Alta,Cirerets,2019.0,4.4,56,Priorato,37.9,44.8741121,10.1628956
+989,Los Aguilares,Pago El Espino,2019.0,4.4,56,Sierras de Malaga,18.9,36.9218381,-4.0957668
+990,La Vicalanda,Gran Reserva,2015.0,4.4,55,Rioja,53.8,42.2814642,-2.482804975070473
+991,Vina Pedrosa,Perez Pascuas Gran Reserva Seleccion,2015.0,4.4,55,Ribera del Duero,55.25,41.66575665,-3.686329463971761
+992,Ostatu,Gloria Rioja,2011.0,4.4,55,Rioja Alavesa,44.9,42.54415095,-2.5454223587321856
+993,Finca Valpiedra,Petra de Valpiedra Garnacha,2017.0,4.4,55,Rioja,32.9,42.2814642,-2.482804975070473
+994,Vina Pomal,Alto de la Caseta,2015.0,4.4,54,Rioja,82.5,42.2814642,-2.482804975070473
+995,Recaredo,Serral del Vell Brut Nature,2015.0,4.4,54,Cava,33.78,42.31658175,1.6111496867672197
+996,Tridente,Rejon Tempranillo,2017.0,4.4,54,Castilla y Leon,34.9,41.8037172,-4.7471726
+997,Vall Llach,Mas de la Rosa,2016.0,4.4,53,Priorato,367.39,44.8741121,10.1628956
+998,Baigorri,Rioja B70,2014.0,4.4,52,Rioja,104.5,42.2814642,-2.482804975070473
+999,Matarromera,Gran Reserva,2014.0,4.4,52,Ribera del Duero,74.55,41.66575665,-3.686329463971761
+1000,Vivaltus,Tinto,2016.0,4.4,52,Ribera del Duero,119.0,41.66575665,-3.686329463971761
+1001,Comenge,Don Miguel,2016.0,4.4,51,Ribera del Duero,31.9239296995019,41.66575665,-3.686329463971761
+1002,Collbaix Celler El Moli,Singular Negre,2015.0,4.4,51,Pla de Bages,27.35,41.7785429,1.8904077
+1003,Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera,2017.0,4.4,51,Priorato,33.0,44.8741121,10.1628956
+1005,Pujanza,Rioja Cisma,2014.0,4.4,50,Rioja,140.0,42.2814642,-2.482804975070473
+1006,Jesus Madrazo,Seleccion Rioja,2018.0,4.4,50,Rioja,32.0,42.2814642,-2.482804975070473
+1007,Allende,Martires Rioja,2015.0,4.4,50,Rioja,91.5,42.2814642,-2.482804975070473
+1008,Llopart,Cava Original Brut (Espumos),2010.0,4.4,49,Cava,52.95,42.31658175,1.6111496867672197
+1009,Albet i Noya,Marti Reserva Penedes,2015.0,4.4,49,Penedes,35.15,33.4742351,-117.627579
+1010,La Rioja Alta,Vina Ardanza Reserva Seleccion Especial,2015.0,4.4,49,Rioja,23.0,42.2814642,-2.482804975070473
+1012,Olivier Riviere,Pozo Alto,2016.0,4.4,48,Rioja,119.95,42.2814642,-2.482804975070473
+1013,Bodegas Amaren,El Cristo de Samaniego,2017.0,4.4,47,Rioja Alavesa,42.9,42.54415095,-2.5454223587321856
+1014,Bodegas Tierra,El Belisario,2016.0,4.4,47,Rioja,39.9,42.2814642,-2.482804975070473
+1016,Clos Erasmus,Priorat,2017.0,4.4,45,Priorato,209.31,44.8741121,10.1628956
+1019,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albarino,2020.0,4.4,44,Rias Baixas,26.5,42.3533841,-7.8778072
+1020,Legaris,La Aguilera,2016.0,4.4,44,Ribera del Duero,32.5,41.66575665,-3.686329463971761
+1021,Bodega Contador (Benjamin Romeo),Pirata,2014.0,4.4,44,Rioja,194.0,42.2814642,-2.482804975070473
+1022,Vinas del Vero,Blecua Somontano,2014.0,4.4,43,Somontano,74.95,42.0883878,0.09940412890672314
+1023,Territorio Luthier,Hispania,2018.0,4.4,43,Ribera del Duero,28.9,41.66575665,-3.686329463971761
+1024,Martin Codax,Arousa,2019.0,4.4,44,Vino de Espana,18.99,42.1771554,-8.4341104
+1025,Vinedos Hermanos Hernaiz,Las Cenizas Tempranillo,2018.0,4.4,43,Rioja Alta,19.95,42.4157318,-2.87947386168831
+1026,Cims de Porrera,Solanes Priorat,2003.0,4.4,43,Priorato,38.66,44.8741121,10.1628956
+1028,Martinet,Cami Pesseroles,2017.0,4.4,42,Priorato,75.5,44.8741121,10.1628956
+1029,Freixenet,Cava Cuvee De Prestige Trepat,2019.0,4.4,43,Cava,7.89,42.31658175,1.6111496867672197
+1030,Azpilicueta,Felix Azpilicueta Coleccion Privada,2019.0,4.4,41,Rioja,18.0,42.2814642,-2.482804975070473
+1031,Gramona,Savinat Sauvignon Blanc,2019.0,4.4,41,Penedes,17.9,33.4742351,-117.627579
+1032,Veronica Salgado,Capricho Crianza,2017.0,4.4,41,Ribera del Duero,15.4438025,41.66575665,-3.686329463971761
+1033,Vinedos Hermanos Hernaiz,Finca La Emperatriz Vinedo Singular Tinto,2017.0,4.4,41,Rioja Alta,33.55,42.4157318,-2.87947386168831
+1034,Clos Galena,Galena,2017.0,4.4,41,Priorato,19.8,44.8741121,10.1628956
+1037,Bodegas Imperiales - Abadia de San Quirce,Finca Helena,2015.0,4.4,40,Ribera del Duero,59.9,41.66575665,-3.686329463971761
+1038,Marta Mate,Primordium,2012.0,4.4,40,Ribera del Duero,29.9,41.66575665,-3.686329463971761
+1039,Albet i Noya,Marti Reserva Penedes,2016.0,4.4,39,Penedes,33.8,33.4742351,-117.627579
+1040,Bodegas Mas Alta,La Solana Alta,2018.0,4.4,39,Priorato,43.5,44.8741121,10.1628956
+1041,Venta Las Vacas,La Cuartilleja Reserva,2016.0,4.4,39,Ribera del Duero,39.9,41.66575665,-3.686329463971761
+1042,Emilio Moro,Malleolus de Sanchomartin,2018.0,4.4,39,Ribera del Duero,119.35,41.66575665,-3.686329463971761
+1043,Figuero,Noble,2015.0,4.4,38,Ribera del Duero,60.0,41.66575665,-3.686329463971761
+1044,Baigorri,De Garage Rioja,2005.0,4.4,37,Rioja,40.0,42.2814642,-2.482804975070473
+1045,Pago Calzadilla,Gran Calzadilla,2010.0,4.4,37,Pago Calzadilla,34.75,40.1417164,-2.6540184
+1046,Vivanco,4 Varietales Coleccion Rioja,2017.0,4.4,37,Rioja,24.0,42.2814642,-2.482804975070473
+1048,Allende,Aurus,1998.0,4.4,37,Rioja,245.25,42.2814642,-2.482804975070473
+1050,Museum,Numerus Clausus,2012.0,4.4,37,Cigales,59.9,41.7582863,-4.6989785
+1051,Pujanza,Rioja Cisma,2012.0,4.4,37,Rioja,130.5,42.2814642,-2.482804975070473
+1052,Vinicola Real,200 Monges Rioja Seleccion Especial Reserva Blanco,2008.0,4.4,36,Rioja,61.5,42.2814642,-2.482804975070473
+1054,Castillo Perelada,Emporda Aires de Garbet,2018.0,4.4,36,Emporda,38.5,42.1893929,3.077661284375413
+1057,Farina,Campus Gothorum,2017.0,4.4,35,Toro,41.0,41.5216963,-5.3939824
+1058,Tinto Pesquera,Gran Reserva,2015.0,4.4,35,Ribera del Duero,74.5,41.66575665,-3.686329463971761
+1059,Enric Soler,Nun Vinya dels Taus,2019.0,4.4,35,Penedes,45.39,33.4742351,-117.627579
+1060,Galindo San Millan,La Pizca,2016.0,4.4,35,Toro,26.0,41.5216963,-5.3939824
+1062,Legaris,Moradillo de Roa,2017.0,4.4,35,Ribera del Duero,29.89,41.66575665,-3.686329463971761
+1063,Bodegas Casa Primicia,Cofradia,2014.0,4.4,34,Rioja,38.0,42.2814642,-2.482804975070473
+1064,Pujanza,Rioja Cisma,2009.0,4.4,34,Rioja,132.4,42.2814642,-2.482804975070473
+1065,Bodegas Celler Francisco Castillo - Clos Dominic,Vinyes Altes Porrera,2009.0,4.4,34,Priorato,69.0,44.8741121,10.1628956
+1066,Castell Miquel,Stairway To Heaven Rosado,2020.0,4.4,34,Mallorca,13.99,39.613432,2.880353635614984
+1067,Barco del Corneta,La Silleria,2017.0,4.4,34,Castilla y Leon,24.5,41.8037172,-4.7471726
+1068,Joan d'Anguera,Planella,2020.0,4.4,34,Montsant,16.25,41.1171253,1.211005
+1069,Martin Codax,Gallaecia Rias Baixes Albarino,2017.0,4.4,34,Rias Baixas,39.95,42.3533841,-7.8778072
+1071,Xaloc,Monada,2013.0,4.4,33,Mallorca,35.4,39.613432,2.880353635614984
+1072,Bodegas 6o Elemento - Vino Sexto Elemento,Tinto,2019.0,4.4,33,Valencia,20.95,39.4697065,-0.3763353
+1073,Scala Dei,Heretge Priorat,2018.0,4.4,33,Priorato,39.99,44.8741121,10.1628956
+1074,Terra Remota,Usted,2009.0,4.4,33,Emporda,159.8,42.1893929,3.077661284375413
+1075,Allende,Martires Rioja,2017.0,4.4,33,Rioja,139.63,42.2814642,-2.482804975070473
+1076,Bodegas Frontaura,Verdejo,2017.0,4.4,32,Toro,19.97,41.5216963,-5.3939824
+1077,Carlos Moro,Vina Garugele,2015.0,4.4,32,Rioja,75.8,42.2814642,-2.482804975070473
+1078,Bodegas Luis Perez,Petit Verdot,2013.0,4.4,32,Andalucia,52.5,37.3399964,-4.5811614
+1079,Ladairo,Barrica,2018.0,4.4,32,Monterrei,20.95,25.6802019,-100.315258
+1080,Conreria d'Scala Dei,Voltons,2017.0,4.4,32,Priorato,51.95,44.8741121,10.1628956
+1081,Castell d'Encus,Ekam Essencia,2015.0,4.4,32,Costers del Segre,43.44,41.502298249999996,0.8273990115524253
+1082,Traslascuestas,Valcavado de Traslascuestas,2014.0,4.4,31,Ribera del Duero,35.48,41.66575665,-3.686329463971761
+1083,Tobia,Oscar Tobia Gran Reserva Rioja,2014.0,4.4,31,Rioja,28.0,42.2814642,-2.482804975070473
+1084,Alvaro Palacios,La Baixada,2018.0,4.4,31,Priorato,239.5,44.8741121,10.1628956
+1085,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2019.0,4.4,31,Rioja,60.61,42.2814642,-2.482804975070473
+1086,Lopez Cristobal,Seleccion,2012.0,4.4,31,Ribera del Duero,35.35,41.66575665,-3.686329463971761
+1087,Codorniu,Cava El Tros Nou Pinot Noir,2009.0,4.4,30,Cava,89.9,42.31658175,1.6111496867672197
+1088,Clos Mogador,Manyetes,2018.0,4.4,30,Priorato,74.56,44.8741121,10.1628956
+1089,Sota els Angels,Tinto,2007.0,4.4,30,Emporda,33.4,42.1893929,3.077661284375413
+1090,Berceo,Los Dominios de Berceo Prefiloxerico,2015.0,4.4,29,Rioja,29.25,42.2814642,-2.482804975070473
+1093,Mas Blanch I Jove,Sao Expressiu,2012.0,4.4,28,Costers del Segre,34.5,41.502298249999996,0.8273990115524253
+1094,Carlos Serres,Onomastica Rioja Reserva,2014.0,4.4,28,Rioja,21.88,42.2814642,-2.482804975070473
+1095,La Rioja Alta,Vina Arana Gran Reserva,2015.0,4.4,28,Rioja,27.9,42.2814642,-2.482804975070473
+1096,Anayon,Carinena Parcela 15 Vinas Viejas,2017.0,4.4,28,Carinena,54.9,41.3382122,-1.2263149
+1097,David Moreno,Vobiscum,2015.0,4.4,28,Rioja,31.99,42.2814642,-2.482804975070473
+1098,Vina Pedrosa,La Navilla,2017.0,4.4,27,Ribera del Duero,24.9,41.66575665,-3.686329463971761
+1100,Bodega Numanthia,Termanthia,2000.0,4.4,27,Toro,140.0,41.5216963,-5.3939824
+1101,Gutierrez de la Vega,Casta Diva Cosecha Miel Moscatel Dulce,2018.0,4.4,27,Alicante,15.5,38.3436365,-0.4881708
+1102,Marques de Riscal,Baron de Chirel Rioja Reserva,2017.0,4.4,27,Rioja,95.0,42.2814642,-2.482804975070473
+1103,Valdelosfrailes,Pago de Las Costanas,2005.0,4.4,27,Castilla y Leon,40.2,41.8037172,-4.7471726
+1104,Remirez de Ganuza,Rioja Blanco,2019.0,4.4,27,Rioja,26.45,42.2814642,-2.482804975070473
+1105,Briego,Vendimia Seleccionada,2020.0,4.4,27,Ribera del Duero,7.9,41.66575665,-3.686329463971761
+1106,Guillem Carol - Cellers Carol Valles,Cava Gran Reserva Familiar Millenium Brut,2011.0,4.4,27,Cava,29.95,42.31658175,1.6111496867672197
+1107,Barahonda,Zona Zepa Monastrell,2015.0,4.4,26,Yecla,59.9,38.613652,-1.1157373
+1108,Abadia Retuerta,Petit Verdot,2016.0,4.4,26,Sardon de Duero,115.9,41.6085193,-4.4339323
+1109,Tobia,Alma Tobia Blanco,2016.0,4.4,26,Rioja,33.0,42.2814642,-2.482804975070473
+1111,Particular,Garnacha Vinas Centenarias,2015.0,4.4,25,Carinena,13.95,41.3382122,-1.2263149
+1112,Bodegas Frontonio,El Jardin de las Iguales Vinedo Historico Garnacha,2016.0,4.4,25,Aragon,195.99,41.3787291,-0.7639373
+1113,Bodegas Asenjo & Manso,Silvanus Edicion Limitada Ribera del Duero,2015.0,4.4,25,Ribera del Duero,46.0,41.66575665,-3.686329463971761
+1118,R. Lopez de Heredia,Vina Tondonia Reserva,2008.0,4.3,6521,Rioja,37.9,42.2814642,-2.482804975070473
+1119,Pintia,Toro,2010.0,4.3,6345,Toro,79.75,41.5216963,-5.3939824
+1120,Abadia Retuerta,Seleccion Especial,2015.0,4.3,5152,Sardon de Duero,24.95,41.6085193,-4.4339323
+1121,La Rioja Alta,Rioja Gran Reserva 904,2004.0,4.3,4994,Rioja,29.9,42.2814642,-2.482804975070473
+1122,Dominio de Pingus,PSI,2018.0,4.3,4767,Ribera del Duero,29.13,41.66575665,-3.686329463971761
+1123,Dominio de Pingus,PSI,2017.0,4.3,4457,Ribera del Duero,33.9,41.66575665,-3.686329463971761
+1124,Muga,Seleccion Especial (Reserva),2015.0,4.3,4266,Rioja,28.0,42.2814642,-2.482804975070473
+1125,Pago de Carraovejas,Tinto,2012.0,4.3,4023,Ribera del Duero,25.8,41.66575665,-3.686329463971761
+1126,Emilio Moro,Malleolus,2016.0,4.3,3997,Ribera del Duero,37.86,41.66575665,-3.686329463971761
+1127,Muga,Seleccion Especial (Reserva),2014.0,4.3,3829,Rioja,34.0,42.2814642,-2.482804975070473
+1128,Matarromera,Ribera del Duero Reserva,2014.0,4.3,3660,Ribera del Duero,33.64,41.66575665,-3.686329463971761
+1129,Matarromera,Ribera del Duero Reserva,2015.0,4.3,3620,Ribera del Duero,36.35,41.66575665,-3.686329463971761
+1130,Muga,Prado Enea Gran Reserva,2006.0,4.3,3608,Rioja,35.5,42.2814642,-2.482804975070473
+1131,Bodegas Mauro,Red,2017.0,4.3,3587,Castilla y Leon,66.75,41.8037172,-4.7471726
+1132,Arzuaga,Ribera del Duero Crianza,2018.0,4.3,3524,Ribera del Duero,19.01,41.66575665,-3.686329463971761
+1133,Hacienda Monasterio,Cosecha,2014.0,4.3,2990,Ribera del Duero,75.9,41.66575665,-3.686329463971761
+1134,Emilio Moro,Malleolus,2017.0,4.3,2936,Ribera del Duero,38.05,41.66575665,-3.686329463971761
+1135,Muga,Prado Enea Gran Reserva,2009.0,4.3,2923,Rioja,40.4,42.2814642,-2.482804975070473
+1136,Familia Torres,Mas La Plana Cabernet Sauvignon,2013.0,4.3,2911,Penedes,63.33,33.4742351,-117.627579
+1137,Aalto,Tinto,2012.0,4.3,2844,Ribera del Duero,26.9,41.66575665,-3.686329463971761
+1138,Hacienda Monasterio,Cosecha,2015.0,4.3,2783,Ribera del Duero,34.95,41.66575665,-3.686329463971761
+1139,Pago de Los Capellanes,Crianza Tinto,2018.0,4.3,2705,Ribera del Duero,24.5,41.66575665,-3.686329463971761
+1140,Pintia,Toro,2007.0,4.3,2575,Toro,93.5,41.5216963,-5.3939824
+1141,Bodega Numanthia,Numanthia,2012.0,4.3,2453,Toro,99.9,41.5216963,-5.3939824
+1142,R. Lopez de Heredia,Vina Tondonia Reserva,2009.0,4.3,2423,Rioja,35.09,42.2814642,-2.482804975070473
+1143,Benjamin de Rothschild - Vega Sicilia,Macan Clasico,2014.0,4.3,2341,Rioja,36.8,42.2814642,-2.482804975070473
+1144,Pago de Los Capellanes,Reserva Tinto,2015.0,4.3,2295,Ribera del Duero,80.35,41.66575665,-3.686329463971761
+1145,Bodega Numanthia,Numanthia,2014.0,4.3,2241,Toro,46.0,41.5216963,-5.3939824
+1146,Benjamin de Rothschild - Vega Sicilia,Macan Clasico,2015.0,4.3,2241,Rioja,50.41,42.2814642,-2.482804975070473
+1147,Pintia,Toro,2009.0,4.3,2062,Toro,150.0,41.5216963,-5.3939824
+1148,Matsu,El Viejo,2016.0,4.3,2013,Toro,33.95,41.5216963,-5.3939824
+1149,Pago de Los Capellanes,Reserva Tinto,2014.0,4.3,1924,Ribera del Duero,48.6377226796774,41.66575665,-3.686329463971761
+1150,Tomas Postigo,3er Ano Ribera del Duero Tinto,2016.0,4.3,1914,Ribera del Duero,27.29,41.66575665,-3.686329463971761
+1151,Aalto,Tinto,2016.0,4.3,1884,Ribera del Duero,65.9,41.66575665,-3.686329463971761
+1152,Bodegas San Roman,Tinto,2015.0,4.3,1846,Toro,33.66,41.5216963,-5.3939824
+1153,Bodegas San Roman,Tinto,2012.0,4.3,1824,Toro,190.0,41.5216963,-5.3939824
+1154,Familia Torres,Mas La Plana Cabernet Sauvignon,2015.0,4.3,1797,Penedes,55.0,33.4742351,-117.627579
+1155,Bodegas San Roman,Tinto,2016.0,4.3,1749,Toro,26.9,41.5216963,-5.3939824
+1156,Bodega Numanthia,Numanthia,2015.0,4.3,1743,Toro,36.9,41.5216963,-5.3939824
+1157,Bodegas Valduero,Ribera del Duero Una Cepa I,2015.0,4.3,1645,Ribera del Duero,25.95,41.66575665,-3.686329463971761
+1158,Pago de Los Capellanes,Reserva Tinto,2016.0,4.3,1638,Ribera del Duero,34.5,41.66575665,-3.686329463971761
+1159,Imperial,Rioja Gran Reserva,2012.0,4.3,1615,Rioja,47.9,42.2814642,-2.482804975070473
+1160,Alto Moncayo,Garnacha,2014.0,4.3,1544,Campo de Borja,36.94,41.78654145,-1.5058322706803928
+1161,La Rioja Alta,Rioja Gran Reserva 904,1998.0,4.3,1528,Rioja,75.0,42.2814642,-2.482804975070473
+1162,La Rioja Alta,Vina Arana Gran Reserva,2014.0,4.3,1525,Rioja,24.9,42.2814642,-2.482804975070473
+1163,Remirez de Ganuza,Rioja Reserva,2006.0,4.3,1493,Rioja,58.0,42.2814642,-2.482804975070473
+1164,La Rioja Alta,Vina Arana Gran Reserva,2012.0,4.3,1471,Rioja,32.55,42.2814642,-2.482804975070473
+1165,Bosque de Matasnos,Bosque de Matasnos Etiqueta Blanca,2018.0,4.3,1465,Ribera del Duero,26.9,41.66575665,-3.686329463971761
+1167,Marques de Vargas,Reserva Privada Rioja,2014.0,4.3,1367,Rioja,37.9,42.2814642,-2.482804975070473
+1168,Bodegas Valduero,Ribera del Duero Una Cepa I,2014.0,4.3,1362,Ribera del Duero,46.95,41.66575665,-3.686329463971761
+1169,Bodegas Roda,Roda I Reserva Rioja,2008.0,4.3,1330,Rioja,39.22,42.2814642,-2.482804975070473
+1170,Luis Canas,Reserva Seleccion de la Familia,2016.0,4.3,1282,Rioja,18.5,42.2814642,-2.482804975070473
+1172,Vinicola Real,200 Monges Rioja Reserva,2010.0,4.3,1230,Rioja,35.0,42.2814642,-2.482804975070473
+1173,Tinto Pesquera,Reserva,2016.0,4.3,1230,Ribera del Duero,26.7597646010531,41.66575665,-3.686329463971761
+1174,Belondrade,Belondrade y Lurton,2015.0,4.3,1230,Rueda,32.7,41.4129785,-4.9597533
+1175,Ossian,Vinas Viejas Verdejo,2016.0,4.3,1181,Castilla y Leon,49.0,41.8037172,-4.7471726
+1176,Teso La Monja,Victorino,2014.0,4.3,1178,Toro,38.0,41.5216963,-5.3939824
+1177,Garmon,Ribera del Duero,2016.0,4.3,1119,Ribera del Duero,33.59,41.66575665,-3.686329463971761
+1178,Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2011.0,4.3,1118,Rioja,94.95,42.2814642,-2.482804975070473
+1179,Marques de Caceres,Gaudium,2012.0,4.3,1116,Rioja,36.91,42.2814642,-2.482804975070473
+1180,Volver,Triga,2014.0,4.3,1114,Alicante,30.67,38.3436365,-0.4881708
+1181,Vinedos de Paganos,El Puntido,2014.0,4.3,1067,Rioja,86.15,42.2814642,-2.482804975070473
+1183,Luis Canas,Reserva Seleccion de la Familia,2014.0,4.3,1022,Rioja,17.07,42.2814642,-2.482804975070473
+1184,Pago de Los Capellanes,Crianza Tinto,2019.0,4.3,1011,Ribera del Duero,19.45,41.66575665,-3.686329463971761
+1185,Marques de Riscal,Rioja Gran Reserva,2013.0,4.3,995,Rioja,39.9,42.2814642,-2.482804975070473
+1186,Tresmano - Tr3smano,Vendimia,2016.0,4.3,930,Ribera del Duero,28.65,41.66575665,-3.686329463971761
+1187,Vinedos de Paganos,El Puntido,2015.0,4.3,929,Rioja,33.82,42.2814642,-2.482804975070473
+1188,Marques de Murrieta,Dalmau Rioja,2012.0,4.3,916,Rioja,67.95,42.2814642,-2.482804975070473
+1189,Marques de Murrieta,Dalmau Rioja,2013.0,4.3,912,Rioja,60.95,42.2814642,-2.482804975070473
+1190,Marques de Vargas,Gran Reserva Rioja,2011.0,4.3,901,Rioja,35.01,42.2814642,-2.482804975070473
+1191,Muga,Torre Muga,2011.0,4.3,900,Rioja,69.95,42.2814642,-2.482804975070473
+1192,Ossian,Vinas Viejas Verdejo,2018.0,4.3,885,Castilla y Leon,28.18,41.8037172,-4.7471726
+1193,Teso La Monja,Victorino,2013.0,4.3,878,Toro,34.22,41.5216963,-5.3939824
+1194,Imperial,Rioja Gran Reserva,2014.0,4.3,835,Rioja,49.75,42.2814642,-2.482804975070473
+1195,Ferrer Bobet,Priorat Vinyes Velles,2016.0,4.3,828,Priorato,33.95,44.8741121,10.1628956
+1196,La Vicalanda,Reserva,2014.0,4.3,818,Rioja,21.5,42.2814642,-2.482804975070473
+1197,Alvaro Palacios,Finca Dofi,2012.0,4.3,814,Priorato,80.0,44.8741121,10.1628956
+1198,Senorio de San Vicente,San Vicente Rioja,2014.0,4.3,811,Rioja,36.0,42.2814642,-2.482804975070473
+1199,Imperial,Rioja Reserva,2017.0,4.3,799,Rioja,25.45,42.2814642,-2.482804975070473
+1200,La Rioja Alta,Vina Ardanza Reserva,2010.0,4.3,783,Rioja,17.16,42.2814642,-2.482804975070473
+1201,Pintia,Toro,2004.0,4.3,760,Toro,116.9,41.5216963,-5.3939824
+1202,Vinicola Real,200 Monges Rioja Reserva,2009.0,4.3,760,Rioja,39.5,42.2814642,-2.482804975070473
+1203,Vinedos de Paganos,El Puntido Gran Reserva,2006.0,4.3,754,Rioja,40.0,42.2814642,-2.482804975070473
+1204,Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2012.0,4.3,749,Rioja,39.78,42.2814642,-2.482804975070473
+1205,Anima Negra,An,2017.0,4.3,740,Mallorca,39.98,39.613432,2.880353635614984
+1206,Muga,Torre Muga,2014.0,4.3,728,Rioja,69.9,42.2814642,-2.482804975070473
+1207,Senorio de San Vicente,San Vicente Rioja,2007.0,4.3,724,Rioja,77.7,42.2814642,-2.482804975070473
+1208,Clos Mogador,Priorat,2009.0,4.3,723,Priorato,95.0,44.8741121,10.1628956
+1209,Bodegas Vilano,La Baraja,2016.0,4.3,716,Ribera del Duero,24.9,41.66575665,-3.686329463971761
+1210,Bodegas San Roman,Tinto,2018.0,4.3,693,Toro,25.9,41.5216963,-5.3939824
+1211,Castillo Perelada,Finca Malaveina,2017.0,4.3,687,Emporda,22.5,42.1893929,3.077661284375413
+1212,Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2014.0,4.3,685,Rioja,50.0,42.2814642,-2.482804975070473
+1213,Remelluri,Granja Gran Reserva Rioja,2009.0,4.3,682,Rioja,57.8,42.2814642,-2.482804975070473
+1214,Marques de Riscal,Reserva XR,2016.0,4.3,676,Rioja,21.24,42.2814642,-2.482804975070473
+1215,Condado de Haza,Alenza Ribera del Duero Gran Reserva,2006.0,4.3,675,Ribera del Duero,70.0,41.66575665,-3.686329463971761
+1216,Enate,Chardonnay Fermentado en Barrica,2019.0,4.3,674,Somontano,15.75,42.0883878,0.09940412890672314
+1217,Ordonez,Vatan Tinta de Toro,2016.0,4.3,665,Toro,26.0,41.5216963,-5.3939824
+1218,Lan,A Mano Rioja,2016.0,4.3,663,Rioja,25.8208254922442,42.2814642,-2.482804975070473
+1219,Marques de Riscal,Baron de Chirel Rioja Reserva,2014.0,4.3,661,Rioja,62.95,42.2814642,-2.482804975070473
+1220,Volver,Alicante Bouschet by Tarima,2017.0,4.3,658,Alicante,17.15,38.3436365,-0.4881708
+1221,Arzuaga,Reserva Ribera del Duero,2014.0,4.3,641,Ribera del Duero,33.9,41.66575665,-3.686329463971761
+1222,Alvaro Palacios,Finca Dofi,2011.0,4.3,613,Priorato,80.0,44.8741121,10.1628956
+1223,Alvaro Palacios,Finca Dofi,2013.0,4.3,605,Priorato,80.0,44.8741121,10.1628956
+1224,Enate,Chardonnay Fermentado en Barrica,2018.0,4.3,603,Somontano,16.9,42.0883878,0.09940412890672314
+1225,Garmon,Ribera del Duero,2017.0,4.3,598,Ribera del Duero,40.92,41.66575665,-3.686329463971761
+1226,Clos Mogador,Priorat,2008.0,4.3,592,Priorato,95.0,44.8741121,10.1628956
+1228,Pazo Senorans,Seleccion de Anada Albarino Rias Baixas,2011.0,4.3,582,Rias Baixas,30.887605,42.3533841,-7.8778072
+1229,Carmelo Rodero,Ribera del Duero TSM,2019.0,4.3,577,Ribera del Duero,67.5,41.66575665,-3.686329463971761
+1230,Abadia Retuerta,Pago Valdebellon,2015.0,4.3,569,Sardon de Duero,67.45,41.6085193,-4.4339323
+1231,Figuero,Vinas Viejas,2016.0,4.3,567,Ribera del Duero,16.5,41.66575665,-3.686329463971761
+1232,Lan,A Mano Rioja,2012.0,4.3,559,Rioja,30.71,42.2814642,-2.482804975070473
+1233,Dominio de Atauta,Dominio de Atauta,2017.0,4.3,556,Ribera del Duero,25.25,41.66575665,-3.686329463971761
+1234,Protos,Gran Reserva,2014.0,4.3,553,Ribera del Duero,41.95,41.66575665,-3.686329463971761
+1235,Dominio de Cair,Tierras de Cair Reserva,2012.0,4.3,535,Ribera del Duero,38.3,41.66575665,-3.686329463971761
+1236,Carmelo Rodero,Crianza,2019.0,4.3,533,Ribera del Duero,19.95,41.66575665,-3.686329463971761
+1237,Protos,Seleccion Finca el Grajo Viejo,2014.0,4.3,530,Ribera del Duero,59.87,41.66575665,-3.686329463971761
+1238,Familia Torres,Perpetual,2016.0,4.3,530,Priorato,63.5,44.8741121,10.1628956
+1239,Clos Erasmus,Laurel,2017.0,4.3,527,Priorato,46.88,44.8741121,10.1628956
+1240,Clos Mogador,Priorat,2006.0,4.3,527,Priorato,95.0,44.8741121,10.1628956
+1241,Alvaro Palacios,Finca Dofi,2017.0,4.3,522,Priorato,99.9,44.8741121,10.1628956
+1242,Teso La Monja,Victorino,2011.0,4.3,517,Toro,47.01,41.5216963,-5.3939824
+1243,Dominio de Cair,Seleccion La Aguilera,2016.0,4.3,511,Ribera del Duero,15.9,41.66575665,-3.686329463971761
+1244,Torre de Ona,Finca Martelo,2015.0,4.3,512,Rioja,21.15,42.2814642,-2.482804975070473
+1245,Ferrer Bobet,Priorat Vinyes Velles,2011.0,4.3,501,Priorato,49.9,44.8741121,10.1628956
+1246,Remirez de Ganuza,Rioja Blanco,2018.0,4.3,495,Rioja,23.83,42.2814642,-2.482804975070473
+1248,Vinedos de Paganos,El Puntido,2016.0,4.3,474,Rioja,33.0,42.2814642,-2.482804975070473
+1249,Abadia Retuerta,Pago Negralada,2015.0,4.3,474,Sardon de Duero,67.82,41.6085193,-4.4339323
+1250,Ramon Bilbao,Mirto,2014.0,4.3,473,Rioja,48.34,42.2814642,-2.482804975070473
+1251,Muga,Torre Muga,2005.0,4.3,468,Rioja,99.9,42.2814642,-2.482804975070473
+1252,Alvaro Palacios,Vi de Vila Gratallops,2017.0,4.3,463,Priorato,54.9,44.8741121,10.1628956
+1253,Martinet,Clos Martinet,2005.0,4.3,461,Priorato,116.05,44.8741121,10.1628956
+1254,Alvaro Palacios,Vi de Vila Gratallops,2016.0,4.3,461,Priorato,48.75,44.8741121,10.1628956
+1255,Alion,Ribera del Duero,2000.0,4.3,456,Ribera del Duero,98.0,41.66575665,-3.686329463971761
+1257,Contino,Rioja Gran Reserva,2015.0,4.3,453,Rioja,40.45,42.2814642,-2.482804975070473
+1258,Bodegas Roda,Roda Reserva Rioja,2004.0,4.3,452,Rioja,81.35,42.2814642,-2.482804975070473
+1260,Ossian,Vinas Viejas Verdejo,2017.0,4.3,449,Castilla y Leon,42.0,41.8037172,-4.7471726
+1261,Monte Real,Gran Reserva,1998.0,4.3,445,Rioja,34.9,42.2814642,-2.482804975070473
+1262,Hacienda Monasterio,Reserva,2013.0,4.3,431,Ribera del Duero,53.95,41.66575665,-3.686329463971761
+1263,Remirez de Ganuza,Rioja Vina Coqueta,2008.0,4.3,429,Rioja,56.7603202298046,42.2814642,-2.482804975070473
+1264,Protos,Seleccion Finca el Grajo Viejo,2010.0,4.3,427,Ribera del Duero,62.74,41.66575665,-3.686329463971761
+1266,Pintia,Toro,2003.0,4.3,422,Toro,107.0,41.5216963,-5.3939824
+1267,Marques de Murrieta,Capellania Reserva,2016.0,4.3,422,Rioja,32.33,42.2814642,-2.482804975070473
+1268,Llanos Negros,Los Tabaqueros,2006.0,4.3,419,La Palma,21.95,28.6552318,-17.85732234254766
+1269,Finca Torremilanos,Torre Albeniz Reserva Ribera del Duero,2016.0,4.3,419,Ribera del Duero,28.85,41.66575665,-3.686329463971761
+1270,Marques de Murrieta,Castillo Ygay Gran Reserva Especial Tinto,1998.0,4.3,418,Rioja,160.0,42.2814642,-2.482804975070473
+1271,Aster,Finca El Otero,2016.0,4.3,411,Ribera del Duero,26.9,41.66575665,-3.686329463971761
+1272,Comenge,Familia Comenge Reserva,2016.0,4.3,410,Ribera del Duero,21.3,41.66575665,-3.686329463971761
+1273,Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2013.0,4.3,405,Rioja,42.0,42.2814642,-2.482804975070473
+1274,Bodegas Valduero,Tierra Alta de 2 Cotas Reserva,2014.0,4.3,407,Ribera del Duero,30.5,41.66575665,-3.686329463971761
+1276,Bodegas Aragonesas,Fagus de Coto de Hayas Garnacha,2017.0,4.3,398,Aragon,21.02,41.3787291,-0.7639373
+1277,Mustiguillo,Finca Terrerazo,2018.0,4.3,397,El Terrerazo,22.8,39.6222682,-1.2467301
+1278,Clos Erasmus,Laurel,2018.0,4.3,397,Priorato,36.57,44.8741121,10.1628956
+1279,Alvaro Palacios,Finca Dofi,2009.0,4.3,384,Priorato,85.0,44.8741121,10.1628956
+1280,Avancia,Godello,2019.0,4.3,375,Valdeorras,23.4,42.34834155,-6.9659982204038755
+1281,Clos Mogador,Priorat,2005.0,4.3,375,Priorato,110.0,44.8741121,10.1628956
+1282,Cepa 21,Malabrigo Ribera del Duero,2015.0,4.3,374,Ribera del Duero,53.5,41.66575665,-3.686329463971761
+1283,Vinedos de Paganos,El Puntido,2017.0,4.3,371,Rioja,35.95,42.2814642,-2.482804975070473
+1284,Morca,Godina Garnacha,2019.0,4.3,370,Campo de Borja,16.25,41.78654145,-1.5058322706803928
+1285,Vina Pedrosa,Perez Pascuas Gran Reserva Seleccion,2011.0,4.3,370,Ribera del Duero,498.614195,41.66575665,-3.686329463971761
+1286,Marques de Tomares,Rioja Gran Reserva,2010.0,4.3,368,Rioja,25.95,42.2814642,-2.482804975070473
+1287,Sierra Cantabria,Coleccion Privada,2017.0,4.3,366,Rioja,29.0132184621944,42.2814642,-2.482804975070473
+1288,Vall Llach,Porrera Vi de Vila,2012.0,4.3,364,Priorato,40.5,44.8741121,10.1628956
+1289,Quinta Sardonia,QS,2014.0,4.3,358,Castilla y Leon,35.85,41.8037172,-4.7471726
+1290,Comenge,Don Miguel Comenge Reserva,2011.0,4.3,355,Ribera del Duero,38.4,41.66575665,-3.686329463971761
+1291,Abadal,3.9,2017.0,4.3,345,Pla de Bages,20.65,41.7785429,1.8904077
+1292,Bodega Numanthia,Numanthia,2016.0,4.3,345,Toro,39.53,41.5216963,-5.3939824
+1293,Pago de Vallegarcia,Montes de Toledo Syrah,2018.0,4.3,344,Castilla,25.31,-15.5859786,-72.3617354
+1294,Alvaro Palacios,Vi de Vila Gratallops,2018.0,4.3,344,Priorato,53.95,44.8741121,10.1628956
+1295,Hermanos Pecina,Finca Iscorta Gran Reserva,2010.0,4.3,334,Rioja,27.0,42.2814642,-2.482804975070473
+1296,Abadia Retuerta,Le Domaine Blanco de Guarda,2016.0,4.3,327,Sardon de Duero,36.95,41.6085193,-4.4339323
+1297,Biniagual,Finca Biniagual Veran,2017.0,4.3,322,Binissalem-Mallorca,26.5,39.6002717,2.6720865
+1298,Breca,Brega Garnacha,2017.0,4.3,317,Calatayud,27.9,41.3527628,-1.6422977
+1299,Pintia,Toro,2001.0,4.3,315,Toro,189.45,41.5216963,-5.3939824
+1300,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2010.0,4.3,312,Rioja,90.0,42.2814642,-2.482804975070473
+1301,Abadia Retuerta,Le Domaine Blanco de Guarda,2018.0,4.3,309,Sardon de Duero,34.1,41.6085193,-4.4339323
+1302,Pradorey,Elite,2017.0,4.3,301,Ribera del Duero,35.51,41.66575665,-3.686329463971761
+1303,Terras Gauda,La Mar,2018.0,4.3,301,Rias Baixas,27.7,42.3533841,-7.8778072
+1304,Abadia Retuerta,Pago Garduna,2015.0,4.3,299,Castilla y Leon,75.0,41.8037172,-4.7471726
+1306,Teso La Monja,Victorino,2018.0,4.3,298,Toro,35.51,41.5216963,-5.3939824
+1307,Ramon Bilbao,Mirto,2015.0,4.3,297,Rioja,33.9,42.2814642,-2.482804975070473
+1309,Antidoto,La Hormiga de Antidoto,2018.0,4.3,293,Ribera del Duero,45.0,41.66575665,-3.686329463971761
+1310,Alvaro Palacios,Finca Dofi,2018.0,4.3,292,Priorato,84.9,44.8741121,10.1628956
+1311,Jaro,Chafandin,2015.0,4.3,290,Ribera del Duero,27.85,41.66575665,-3.686329463971761
+1312,Pago de Los Capellanes,Reserva Tinto,2018.0,4.3,287,Ribera del Duero,30.99,41.66575665,-3.686329463971761
+1313,Clos Mogador,Nelin Priorat,2016.0,4.3,290,Priorato,36.5,44.8741121,10.1628956
+1314,Bodega Tesalia,Arcos de la Frontera,2017.0,4.3,284,Andalucia,25.9,37.3399964,-4.5811614
+1315,Pazo de Rubianes,Albarino,2020.0,4.3,281,Rias Baixas,13.75,42.3533841,-7.8778072
+1316,Allende,Calvario Rioja,2006.0,4.3,279,Rioja,53.35,42.2814642,-2.482804975070473
+1317,Mas d'en Gil,Clos Fonta Priorat,2014.0,4.3,278,Priorato,54.5,44.8741121,10.1628956
+1318,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2014.0,4.3,275,Rioja,90.15,42.2814642,-2.482804975070473
+1319,Godeval,Cepas Vellas Godello,2019.0,4.3,272,Valdeorras,18.48,42.34834155,-6.9659982204038755
+1320,Contino,Vina del Olivo,2007.0,4.3,272,Rioja,92.0,42.2814642,-2.482804975070473
+1321,Dominio del Bendito,Las Sabias,2017.0,4.3,270,Toro,22.55,41.5216963,-5.3939824
+1322,Clos Galena,Galena,2016.0,4.3,264,Priorato,17.95,44.8741121,10.1628956
+1323,Alvaro Palacios,Finca Dofi,2010.0,4.3,263,Priorato,85.0,44.8741121,10.1628956
+1324,Bosque de Matasnos,Bosque de Matasnos Etiqueta Blanca,2019.0,4.3,260,Ribera del Duero,26.9,41.66575665,-3.686329463971761
+1325,Contino,Vina del Olivo,2011.0,4.3,260,Rioja,63.95,42.2814642,-2.482804975070473
+1326,Bodegas Olarra,Cerro Anon Rioja Gran Reserva,2015.0,4.3,258,Rioja,12.9,42.2814642,-2.482804975070473
+1327,Castell d'Encus,Ekam,2019.0,4.3,257,Costers del Segre,24.61,41.502298249999996,0.8273990115524253
+1328,Dominio de Atauta,Llanos del Almendro Ribera del Duero,2009.0,4.3,251,Ribera del Duero,107.74,41.66575665,-3.686329463971761
+1329,Martinet,Clos Martinet,2004.0,4.3,249,Priorato,162.5,44.8741121,10.1628956
+1330,Ordonez,Vatan Tinta de Toro,2018.0,4.3,247,Toro,33.6,41.5216963,-5.3939824
+1331,Enate,Chardonnay Fermentado en Barrica,2020.0,4.3,244,Somontano,16.9,42.0883878,0.09940412890672314
+1332,Scala Dei,Masdeu,2013.0,4.3,242,Priorato,84.9,44.8741121,10.1628956
+1333,Francisco Barona,Ribera Del Duero,2019.0,4.3,242,Ribera del Duero,30.9,41.66575665,-3.686329463971761
+1334,Dominio do Bibei,Lapola,2017.0,4.3,241,Ribeira Sacra,21.8,43.3251858,-8.4398923
+1335,Taron,Pantocrator,2010.0,4.3,241,Rioja Alta,19.9,42.4157318,-2.87947386168831
+1336,Castillo de Cuzcurrita,Senorio de Cuzcurrita Rioja,2017.0,4.3,239,Rioja,24.3677926503816,42.2814642,-2.482804975070473
+1337,Castillo Perelada,Finca Malaveina,2018.0,4.3,239,Emporda,18.88,42.1893929,3.077661284375413
+1338,Orben,Malpuesto,2017.0,4.3,239,Rioja,30.3,42.2814642,-2.482804975070473
+1339,Penafiel,Silencio de Miros Ribera Del Duero,2015.0,4.3,239,Ribera del Duero,42.35,41.66575665,-3.686329463971761
+1340,Abadia Retuerta,Pago Valdebellon,2014.0,4.3,237,Sardon de Duero,64.5,41.6085193,-4.4339323
+1341,Clos Figueras,Clos Figueres,2012.0,4.3,237,Priorato,49.61,44.8741121,10.1628956
+1343,Jorge Ordonez,No. 2 Victoria,2017.0,4.3,232,Malaga,21.4,36.7213028,-4.4216366
+1344,Ontanon,Queiron Mi Lugar,2018.0,4.3,232,Rioja,21.5,42.2814642,-2.482804975070473
+1345,Remelluri,Rioja Blanco,2016.0,4.3,227,Rioja,55.0,42.2814642,-2.482804975070473
+1346,Familia Torres,Purgatori Costers del Segre,2018.0,4.3,228,Costers del Segre,27.9,41.502298249999996,0.8273990115524253
+1347,Sonsierra,Perfume de Sonsierra,2014.0,4.3,227,Rioja Alta,28.5,42.4157318,-2.87947386168831
+1348,Jaro,Chafandin,2011.0,4.3,223,Ribera del Duero,25.65,41.66575665,-3.686329463971761
+1349,Artadi,Valdegines,2017.0,4.3,223,Vino de Espana,43.95,42.1771554,-8.4341104
+1350,Martinet,Clos Martinet,2017.0,4.3,222,Priorato,60.45,44.8741121,10.1628956
+1351,Vins Miquel Gelabert,Chardonnay Roure,2018.0,4.3,221,Pla i Llevant,30.3,39.385214,-0.4479828
+1352,Contino,Rioja Graciano,2015.0,4.3,220,Rioja,62.5,42.2814642,-2.482804975070473
+1353,Clos Figueras,Clos Figueres,2016.0,4.3,219,Priorato,57.49,44.8741121,10.1628956
+1354,Martinet,Clos Martinet,2010.0,4.3,218,Priorato,127.2,44.8741121,10.1628956
+1356,Tresmano - Tr3smano,Vendimia,2018.0,4.3,215,Ribera del Duero,34.25,41.66575665,-3.686329463971761
+1357,Bodega Tesalia,ARX Arcos de la Frontera,2018.0,4.3,215,Andalucia,15.9,37.3399964,-4.5811614
+1358,Losada,La Bienquerida,2017.0,4.3,213,Bierzo,37.35,42.65265025,-6.62318404217132
+1359,Vina Pedrosa,Perez Pascuas Gran Reserva Seleccion,2012.0,4.3,211,Ribera del Duero,259.0,41.66575665,-3.686329463971761
+1360,Chivite,Navarra Reserva Coleccion 125,2015.0,4.3,211,Navarra,20.5,42.61254875,-1.830787673361753
+1361,Bodega de Bardos,Suprema 30 Meses,2012.0,4.3,210,Ribera del Duero,24.0,41.66575665,-3.686329463971761
+1362,Alvaro Palacios,Finca Dofi,2007.0,4.3,209,Priorato,80.0,44.8741121,10.1628956
+1363,Venus la Universal,Venus,2009.0,4.3,207,Montsant,59.55,41.1171253,1.211005
+1364,Vall Llach,Porrera Vi de Vila,2016.0,4.3,205,Priorato,50.67,44.8741121,10.1628956
+1365,Bodegas Roda,Roda I Reserva Rioja,2001.0,4.3,202,Rioja,91.0,42.2814642,-2.482804975070473
+1366,Alvaro Palacios,Finca Dofi,2000.0,4.3,202,Priorato,88.0,44.8741121,10.1628956
+1367,Clos Figueras,Clos Figueres,2015.0,4.3,201,Priorato,70.89,44.8741121,10.1628956
+1368,Casa Castillo,Pie Franco,2016.0,4.3,200,Jumilla,59.9,38.4735408,-1.3285417
+1369,El Grillo y La Luna,Grillo,2012.0,4.3,200,Somontano,32.9,42.0883878,0.09940412890672314
+1370,Tridente,Prieto Picudo,2016.0,4.3,198,Castilla y Leon,21.4,41.8037172,-4.7471726
+1371,Ferrer Bobet,Seleccio Especial Vinyes Velles,2014.0,4.3,197,Priorato,64.0,44.8741121,10.1628956
+1373,Remelluri,Rioja Blanco,2014.0,4.3,196,Rioja,60.25,42.2814642,-2.482804975070473
+1374,De Moya,Sofia,2018.0,4.3,195,Valencia,15.9,39.4697065,-0.3763353
+1375,Campillo,Finca Cuesta Clara Raro Reserva,2011.0,4.3,194,Rioja,32.0,42.2814642,-2.482804975070473
+1376,Artadi,Pagos Viejos,2013.0,4.3,193,Vino de Espana,62.5,42.1771554,-8.4341104
+1377,Tomas Postigo,Fermentado En Barrica Blanco,2017.0,4.3,193,Castilla y Leon,24.5,41.8037172,-4.7471726
+1378,Martinet,Clos Martinet,2006.0,4.3,192,Priorato,110.0,44.8741121,10.1628956
+1379,Mas Doix,Doix,2012.0,4.3,191,Priorato,82.0,44.8741121,10.1628956
+1380,Abadia Retuerta,Pago Valdebellon,2010.0,4.3,191,Sardon de Duero,55.0,41.6085193,-4.4339323
+1381,Clos d'Agon,Tinto,2014.0,4.3,190,Cataluna,36.5,41.8523094,1.5745043
+1382,Abadia Retuerta,Le Domaine Blanco de Guarda,2014.0,4.3,190,Sardon de Duero,123.82,41.6085193,-4.4339323
+1383,Martinet,Clos Martinet,2013.0,4.3,189,Priorato,114.6,44.8741121,10.1628956
+1384,Artadi,Pagos Viejos,2001.0,4.3,189,Vino de Espana,130.0,42.1771554,-8.4341104
+1385,Garmon,Ribera del Duero,2018.0,4.3,188,Ribera del Duero,33.5,41.66575665,-3.686329463971761
+1386,Bodegas Valduero,Ribera Del Duero Gran Reserva,2010.0,4.3,187,Ribera del Duero,62.8,41.66575665,-3.686329463971761
+1387,Bodegas Mauro,Godello Blanco,2017.0,4.3,186,Bierzo,34.5,42.65265025,-6.62318404217132
+1388,Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2014.0,4.3,184,Ribera del Duero,92.24,41.66575665,-3.686329463971761
+1389,Pago de Vallegarcia,Hipperia Red Blend,2016.0,4.3,184,Castilla,36.111307180686,-15.5859786,-72.3617354
+1390,Clos d'Agon,Tinto,2015.0,4.3,184,Cataluna,56.92,41.8523094,1.5745043
+1391,Martinet,Clos Martinet,2012.0,4.3,178,Priorato,117.3,44.8741121,10.1628956
+1392,Jean Leon,Vinya La Scala Gran Reserva Cabernet Sauvignon,2013.0,4.3,177,Penedes,41.9,33.4742351,-117.627579
+1393,Bodegas Ateca,Atteca Armas Garnacha Old Vines,2017.0,4.3,176,Calatayud,32.9,41.3527628,-1.6422977
+1394,Enate,Syrah (Shiraz),2016.0,4.3,175,Somontano,23.5,42.0883878,0.09940412890672314
+1395,Bodega Campo Eliseo,Campo Eliseo,2009.0,4.3,175,Toro,48.5,41.5216963,-5.3939824
+1396,Leda,Vinas Viejas Tempranillo,2017.0,4.3,174,Castilla y Leon,28.38,41.8037172,-4.7471726
+1397,Contino,Rioja Graciano,2016.0,4.3,174,Rioja,64.75,42.2814642,-2.482804975070473
+1399,Do Ferreiro (Bodegas Gerardo Mendez),Cepas Vellas Rias Baixas Albarino,2019.0,4.3,172,Rias Baixas,33.95,42.3533841,-7.8778072
+1400,Vinyes Domenech,Teixar,2012.0,4.3,171,Montsant,42.25,41.1171253,1.211005
+1401,Fernandez de Pierola,Vitium Reserva,2010.0,4.3,171,Rioja,27.8,42.2814642,-2.482804975070473
+1402,De Muller,Lo Cabalo Reserva,2015.0,4.3,171,Priorato,26.9,44.8741121,10.1628956
+1403,Vina Pedrosa,Perez Pascuas Gran Reserva Seleccion,2014.0,4.3,171,Ribera del Duero,245.53,41.66575665,-3.686329463971761
+1404,Monteabellon,Finca Matambres,2016.0,4.3,170,Ribera del Duero,28.3,41.66575665,-3.686329463971761
+1405,Oxer Wines,Suzzane Rioja,2016.0,4.3,168,Rioja,37.29,42.2814642,-2.482804975070473
+1406,Pepe Mendoza Casa Agricola,Giro de Abargues,2019.0,4.3,167,Alicante,23.5,38.3436365,-0.4881708
+1407,De Moya,Sofia,2016.0,4.3,166,Valencia,18.9,39.4697065,-0.3763353
+1409,Neo,Punta Esencia,2011.0,4.3,163,Ribera del Duero,32.45,41.66575665,-3.686329463971761
+1410,Cruz de Alba,Finca Los Hoyales Ribera del Duero,2013.0,4.3,163,Ribera del Duero,41.28,41.66575665,-3.686329463971761
+1411,Castano,Casa Cisca Monastrell,2010.0,4.3,161,Yecla,33.77,38.613652,-1.1157373
+1412,Scala Dei,Pla dels Angels Rosado,2019.0,4.3,160,Priorato,23.0,44.8741121,10.1628956
+1413,Vina Pedrosa,Gran Reserva,2009.0,4.3,159,Ribera del Duero,67.0,41.66575665,-3.686329463971761
+1414,Terra d'Uro,Uro,2015.0,4.3,155,Toro,31.45,41.5216963,-5.3939824
+1415,Zarate,Tras da Vina Albarino,2018.0,4.3,155,Rias Baixas,33.67,42.3533841,-7.8778072
+1416,Agusti Torello Mata,Cava Kripta Gran Reserva Brut Nature,2006.0,4.3,155,Cava,87.39,42.31658175,1.6111496867672197
+1418,Vizcarra,Ribera del Duero Torralvo,2016.0,4.3,153,Ribera del Duero,45.48,41.66575665,-3.686329463971761
+1419,Mas d'en Gil,Clos Fonta Priorat,2007.0,4.3,153,Priorato,125.0,44.8741121,10.1628956
+1420,Vinyes Domenech,Teixar,2014.0,4.3,151,Montsant,39.5,41.1171253,1.211005
+1421,Allende,Calvario Rioja,2004.0,4.3,150,Rioja,90.0,42.2814642,-2.482804975070473
+1422,Recaredo,Serral del Vell Brut Nature,2013.0,4.3,149,Cava,44.41,42.31658175,1.6111496867672197
+1423,Noelia Bebelia,Albarino,2019.0,4.3,150,Rias Baixas,21.5,42.3533841,-7.8778072
+1424,Marti Fabra,Masia Carreras Negre,2018.0,4.3,149,Emporda,20.59,42.1893929,3.077661284375413
+1426,Palmeri Sicilia,Palmeri Navalta Garnacha,2016.0,4.2,151,Campo de Borja,28.9,41.78654145,-1.5058322706803928
+1427,Remelluri,Rioja Blanco,2015.0,4.3,146,Rioja,56.89,42.2814642,-2.482804975070473
+1428,Pradorey,Elite,2018.0,4.3,145,Ribera del Duero,30.9166666666667,41.66575665,-3.686329463971761
+1429,Ukan Winery,Tinto,2018.0,4.3,145,Rioja Alavesa,39.9,42.54415095,-2.5454223587321856
+1430,Tinto Pesquera,Reserva,2002.0,4.3,144,Ribera del Duero,65.0,41.66575665,-3.686329463971761
+1432,Mas Que Vinos,La Plazuela,2015.0,4.3,141,Castilla,44.05,-15.5859786,-72.3617354
+1433,Arzuaga,Gran Reserva Ribera del Duero,2014.0,4.3,140,Ribera del Duero,62.56,41.66575665,-3.686329463971761
+1434,Bodegas Estraunza,Solar de Estraunza Reserva,2014.0,4.3,140,Rioja,9.8840336,42.2814642,-2.482804975070473
+1435,Beronia,III a.C,2011.0,4.3,140,Rioja,46.16,42.2814642,-2.482804975070473
+1436,Valquejigoso,V2 Tinto,2007.0,4.3,140,Madrid,48.537665,40.4167047,-3.7035825
+1437,Bodega Contador (Benjamin Romeo),La Vina de Andres Romeo Rioja,2011.0,4.3,139,Rioja,97.5,42.2814642,-2.482804975070473
+1438,Telmo Rodriguez,Matallana,2014.0,4.3,138,Ribera del Duero,42.0,41.66575665,-3.686329463971761
+1439,Pujanza,Rioja Norte,2010.0,4.3,138,Rioja,75.0,42.2814642,-2.482804975070473
+1440,Bodegas Roda,Roda I Reserva Rioja,2000.0,4.3,137,Rioja,85.0,42.2814642,-2.482804975070473
+1441,Sei Solo,Tinto,2016.0,4.3,137,Ribera del Duero,52.8,41.66575665,-3.686329463971761
+1442,Bodegas Mas Alta,Artigas,2019.0,4.3,136,Priorato,20.4,44.8741121,10.1628956
+1443,Jaro,Chafandin,2017.0,4.3,136,Ribera del Duero,26.2902950466486,41.66575665,-3.686329463971761
+1444,Bodegas 6o Elemento - Vino Sexto Elemento,Tinto,2018.0,4.3,136,Valencia,19.9,39.4697065,-0.3763353
+1445,Bodegas Mauro,Godello Blanco,2015.0,4.3,135,Bierzo,92.45,42.65265025,-6.62318404217132
+1446,De Moya,Julia,2018.0,4.3,135,Valencia,17.95,39.4697065,-0.3763353
+1447,Martinet,Clos Martinet,2003.0,4.3,135,Priorato,130.5,44.8741121,10.1628956
+1449,Gomez Cruzado,Pancrudo,2019.0,4.3,134,Rioja,34.9,42.2814642,-2.482804975070473
+1450,Pittacum,Aurea,2012.0,4.3,133,Bierzo,28.5,42.65265025,-6.62318404217132
+1451,Bodega Sommos,Coleccion Syrah,2017.0,4.3,133,Somontano,25.89,42.0883878,0.09940412890672314
+1452,Celler de Capcanes,Flor de Primavera Peraj Ha'abib,2018.0,4.3,133,Montsant,27.5,41.1171253,1.211005
+1453,Losada,Altos de Losada El Cepon,2017.0,4.3,132,Bierzo,35.9,42.65265025,-6.62318404217132
+1454,Remelluri,Rioja Blanco,2013.0,4.3,131,Rioja,63.53,42.2814642,-2.482804975070473
+1455,Arinzano,Gran Vino Blanco,2014.0,4.3,131,Arinzano,112.76,42.630781,-1.9934938
+1456,Pago del Vostal,Crianza Vendimia Seleccionada,2018.0,4.3,130,Ribera del Duero,18.95,41.66575665,-3.686329463971761
+1458,Vizcarra,Ribera del Duero Torralvo,2015.0,4.3,128,Ribera del Duero,40.95,41.66575665,-3.686329463971761
+1459,Telmo Rodriguez,Matallana,2016.0,4.3,128,Ribera del Duero,39.75,41.66575665,-3.686329463971761
+1460,Bodegas Valduero,Finca Azaya Premium,2015.0,4.3,128,Castilla y Leon,23.44,41.8037172,-4.7471726
+1461,Espectacle del Montsant,Tinto,2015.0,4.3,127,Montsant,133.34,41.1171253,1.211005
+1462,Neo,Ribera del Duero Tinto,2005.0,4.3,126,Ribera del Duero,35.0,41.66575665,-3.686329463971761
+1463,Martinet,Clos Martinet,2018.0,4.3,125,Priorato,57.5,44.8741121,10.1628956
+1464,Habla,No. 20,2016.0,4.3,124,Extremadura,23.95,39.1748426,-6.1529891
+1465,Remelluri,Rioja Blanco,2011.0,4.3,123,Rioja,77.9,42.2814642,-2.482804975070473
+1466,Gomez Cruzado,Montes Obarenes Seleccion Terroir,2015.0,4.3,122,Rioja,97.35,42.2814642,-2.482804975070473
+1467,Martinet,Els Escurcons,2015.0,4.3,122,Priorato,84.95,44.8741121,10.1628956
+1468,Mas d'en Gil,Clos Fonta Priorat,2015.0,4.3,122,Priorato,53.9,44.8741121,10.1628956
+1469,Rodriguez de Vera,Tinto,2015.0,4.3,122,Almansa,12.19,38.8682065,-1.0978627
+1472,Torre de Ona,Martelo Reserva,2015.0,4.3,119,Rioja,23.43,42.2814642,-2.482804975070473
+1473,Cims de Porrera,Classic,2010.0,4.3,118,Priorato,43.24,44.8741121,10.1628956
+1474,Bodegas Naluar & Acediano,Acediano,2018.0,4.3,120,Ribera del Duero,35.0,41.66575665,-3.686329463971761
+1475,Ostatu,Gloria Rioja,2010.0,4.3,117,Rioja Alavesa,54.52,42.54415095,-2.5454223587321856
+1476,Paco & Lola,Vintage Albarino,2013.0,4.3,117,Rias Baixas,24.0,42.3533841,-7.8778072
+1478,Pago de Vallegarcia,Vallegarcia Viognier,2019.0,4.3,114,Castilla,18.5,-15.5859786,-72.3617354
+1479,Valtravieso,Finca la Atalaya Reserva,2017.0,4.3,114,Ribera del Duero,23.5,41.66575665,-3.686329463971761
+1480,Bodegas Amaren,Tempranillo Reserva,2002.0,4.3,112,Rioja,28.0,42.2814642,-2.482804975070473
+1481,Vinas del Vero,Blecua Somontano,2011.0,4.3,112,Somontano,73.9,42.0883878,0.09940412890672314
+1482,Clos Mogador,Priorat,2000.0,4.3,111,Priorato,100.0,44.8741121,10.1628956
+1483,Contino,Rioja Graciano,2017.0,4.3,111,Rioja,62.9,42.2814642,-2.482804975070473
+1484,Artadi,Grandes Anadas Rioja,1999.0,4.3,111,Rioja,265.0,42.2814642,-2.482804975070473
+1485,Costers del Priorat,Clos Cypres Vinyes Velles (Old Vines),2015.0,4.3,111,Priorato,49.0,44.8741121,10.1628956
+1486,Eulogio Pomares,Castineiro Albarino,2017.0,4.3,111,Rias Baixas,30.75,42.3533841,-7.8778072
+1488,Bodega Otazu,Altar,2008.0,4.3,109,Navarra,32.18,42.61254875,-1.830787673361753
+1490,Bodega Elias Mora,Toro Gran Elias Mora,2014.0,4.3,108,Toro,33.5,41.5216963,-5.3939824
+1491,Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2015.0,4.3,108,Ribera del Duero,92.24,41.66575665,-3.686329463971761
+1492,Arinzano,Gran Vino Blanco,2004.0,4.3,108,Arinzano,52.95,42.630781,-1.9934938
+1493,Oller del Mas,Arnau Oller Seleccio de la Familia,2016.0,4.3,108,Pla de Bages,33.15,41.7785429,1.8904077
+1494,Bodegas Roda,Roda Reserva Rioja,2018.0,4.3,108,Rioja,24.51,42.2814642,-2.482804975070473
+1495,Finca Villacreces,Nebro Ribera del Duero,2009.0,4.3,107,Ribera del Duero,135.95,41.66575665,-3.686329463971761
+1496,Pujanza,Rioja Norte,2011.0,4.3,106,Rioja,46.9,42.2814642,-2.482804975070473
+1498,Cims de Porrera,Classic,2011.0,4.3,102,Priorato,39.51,44.8741121,10.1628956
+1499,Cims de Porrera,Classic,1997.0,4.3,102,Priorato,119.95,44.8741121,10.1628956
+1501,Descendientes de J. Palacios,Las Lamas Bierzo (Corullon),2016.0,4.3,100,Bierzo,95.25,42.65265025,-6.62318404217132
+1502,Alta Alella,Orbus,2016.0,4.3,100,Alella,24.95,41.4952867,2.2942758
+1503,Losada,La Bienquerida,2015.0,4.3,100,Bierzo,36.91,42.65265025,-6.62318404217132
+1504,Terroir Al Limit Soc. Lda,Les Manyes,2014.0,4.3,99,Priorato,158.88,44.8741121,10.1628956
+1505,Alvaro Palacios,Finca Dofi,2003.0,4.3,99,Priorato,90.6,44.8741121,10.1628956
+1506,Bodegas Clunia,Malbec,2018.0,4.3,99,Castilla y Leon,24.9,41.8037172,-4.7471726
+1507,Losada,Altos de Losada,2019.0,4.3,97,Bierzo,18.35,42.65265025,-6.62318404217132
+1508,Arinzano,Gran Vino Blanco,2016.0,4.3,95,Arinzano,65.25,42.630781,-1.9934938
+1509,Campillo,Reserva Especial Rioja,2010.0,4.3,95,Rioja,23.95,42.2814642,-2.482804975070473
+1510,Allende,Aurus,2004.0,4.3,94,Rioja,148.65,42.2814642,-2.482804975070473
+1511,Llanos Negros,La Time,2000.0,4.3,94,La Palma,21.95,28.6552318,-17.85732234254766
+1512,Quinta Sardonia,QS,2017.0,4.3,93,Castilla y Leon,37.49,41.8037172,-4.7471726
+1513,Alta Alella,Dolc Mataro,2017.0,4.3,92,Alella,16.5,41.4952867,2.2942758
+1514,Ferrer Bobet,Priorat Vinyes Velles,2018.0,4.3,94,Priorato,33.95,44.8741121,10.1628956
+1515,Bodegas Ochoa,Vendimia Tardia Moscatel,2019.0,4.3,91,Navarra,10.76,42.61254875,-1.830787673361753
+1516,Luis Canas,Hiru 3 Rioja Racimos,2005.0,4.3,91,Rioja,118.0,42.2814642,-2.482804975070473
+1517,Ca l'Apotecari,Triaca,2013.0,4.3,90,Priorato,34.9,44.8741121,10.1628956
+1520,Finca Torremilanos,Cyclo,2018.0,4.3,89,Ribera del Duero,35.15,41.66575665,-3.686329463971761
+1521,Pinea,Tinto,2017.0,4.3,89,Ribera del Duero,145.0,41.66575665,-3.686329463971761
+1522,Josep Grau Viticultor,Maimo Garnatxa,2018.0,4.3,88,Montsant,26.9,41.1171253,1.211005
+1523,Gomez Cruzado,Montes Obarenes Seleccion Terroir,2017.0,4.3,88,Rioja,42.9,42.2814642,-2.482804975070473
+1525,Fos,Fos Baranda,2017.0,4.3,87,Rioja,29.9,42.2814642,-2.482804975070473
+1526,Hacienda Grimon,Finca la Oracion,2017.0,4.3,88,Rioja,20.45,42.2814642,-2.482804975070473
+1527,Pedralonga,Albarino Pedralonga,2019.0,4.3,86,Rias Baixas,15.71,42.3533841,-7.8778072
+1528,Capafons-Osso,Mas de Masos,2006.0,4.3,86,Priorato,39.99,44.8741121,10.1628956
+1529,Clos Mogador,Com Tu,2018.0,4.3,85,Montsant,34.95,41.1171253,1.211005
+1530,Can Rafols dels Caus,El Rocallis,2015.0,4.3,83,Cataluna,88.0,41.8523094,1.5745043
+1531,Conreria d'Scala Dei,Iugiter,2015.0,4.3,83,Priorato,25.5,44.8741121,10.1628956
+1532,Mas Doix,Doix,2016.0,4.3,83,Priorato,79.9,44.8741121,10.1628956
+1533,Raul Perez,Ultreia Valtuille Mencia,2019.0,4.3,83,Bierzo,45.9,42.65265025,-6.62318404217132
+1534,Dominio del Bendito,La Chispa Negra,2011.0,4.3,82,Toro,24.0,41.5216963,-5.3939824
+1535,Jose Pariente,Sauvignon Blanc,2021.0,4.3,83,Rueda,8.9,41.4129785,-4.9597533
+1536,Dominio del Aguila,Reserva,2010.0,4.3,82,Ribera del Duero,65.0,41.66575665,-3.686329463971761
+1537,Terra Remota,Clos Adrien,2013.0,4.3,82,Emporda,47.0,42.1893929,3.077661284375413
+1538,De Moya,Sofia,2017.0,4.3,82,Valencia,20.5,39.4697065,-0.3763353
+1539,Llopart,Cava Original Brut (Espumos),2008.0,4.3,81,Cava,62.9,42.31658175,1.6111496867672197
+1540,Ostatu,Laderas Rioja,2014.0,4.3,81,Rioja Alavesa,31.13,42.54415095,-2.5454223587321856
+1542,Bodegas Mas Alta,La Basseta,2014.0,4.3,80,Priorato,58.0,44.8741121,10.1628956
+1543,Can Rafols dels Caus,El Rocallis,2016.0,4.3,80,Cataluna,34.5,41.8523094,1.5745043
+1544,Aalto,Blanco de Parcela,2019.0,4.3,80,Ribera del Duero,41.9,41.66575665,-3.686329463971761
+1545,Dominio de la Vega,Finca la Beata Bobal,2014.0,4.3,80,Utiel-Requena,33.9,39.4880777,-1.1001643
+1546,Resalte,Resalte Expresion,2015.0,4.3,80,Ribera del Duero,28.5,41.66575665,-3.686329463971761
+1547,Juve & Camps,Cava Brut Milesime,2017.0,4.3,80,Cava,24.1,42.31658175,1.6111496867672197
+1548,Bosque de Matasnos,Syrah de Matasnos,2019.0,4.3,80,Vino de Espana,27.9,42.1771554,-8.4341104
+1549,Sierra Cantabria,Amancio,2016.0,4.3,80,Rioja,84.5,42.2814642,-2.482804975070473
+1550,Scala Dei,Massipa de Scala Dei Garnatxa Blanca - Xenin,2018.0,4.3,79,Priorato,36.78,44.8741121,10.1628956
+1551,Marques de Vargas,Seleccion Privada,2015.0,4.3,79,Rioja,54.5,42.2814642,-2.482804975070473
+1552,Mas de les Pereres,Nunci Negre,2013.0,4.3,79,Priorato,21.4,44.8741121,10.1628956
+1554,Guilera,Musivari Gran Reserva Brut Nature,2007.0,4.3,77,Cava,23.22,42.31658175,1.6111496867672197
+1555,Arzuaga,Amaya Arzuaga (Coleccion),2015.0,4.3,77,Ribera del Duero,51.2,41.66575665,-3.686329463971761
+1556,Astrales,Christina Ribera del Duero,2017.0,4.3,77,Ribera del Duero,38.0,41.66575665,-3.686329463971761
+1557,Bodega Contador (Benjamin Romeo),La Cueva del Contador Rioja,2018.0,4.3,77,Rioja,67.9,42.2814642,-2.482804975070473
+1558,Senorio de San Vicente,San Vicente Rioja,2018.0,4.3,77,Rioja,32.9,42.2814642,-2.482804975070473
+1561,l'Infernal Combier Fischer Gerin,Vinas Viejas Aguilera,2010.0,4.3,76,Priorato,69.0,44.8741121,10.1628956
+1563,Terroir Al Limit Soc. Lda,Les Manyes,2013.0,4.3,74,Priorato,348.85,44.8741121,10.1628956
+1564,Scala Dei,Pla dels Angels Rosado,2020.0,4.3,74,Priorato,23.95,44.8741121,10.1628956
+1565,Jorge Piernas,Juan Piernas Finca El Paso Malo Monastrell,2017.0,4.3,74,Murcia,27.9,37.9923795,-1.1305431
+1566,Pedralonga,Albarino Pedralonga,2020.0,4.3,74,Rias Baixas,15.0,42.3533841,-7.8778072
+1567,Contino,Vina del Olivo,2004.0,4.3,74,Rioja,155.0,42.2814642,-2.482804975070473
+1568,Terroir Al Limit Soc. Lda,Pedra de Guix,2017.0,4.3,73,Priorato,57.9,44.8741121,10.1628956
+1569,Vinyes Domenech,Vinyes Velles de Samso,2016.0,4.3,73,Montsant,36.93,41.1171253,1.211005
+1570,Territorio Luthier,Hispania,2015.0,4.3,73,Ribera del Duero,52.0,41.66575665,-3.686329463971761
+1571,Abel Mendoza Monge,Malvasia,2017.0,4.3,72,Rioja,31.5,42.2814642,-2.482804975070473
+1572,Clos Erasmus,Priorat,2006.0,4.3,72,Priorato,654.31,44.8741121,10.1628956
+1575,Avgvstvs,Antigues Reserves,2000.0,4.3,72,Penedes,27.45,33.4742351,-117.627579
+1576,Vina Sastre,Regina Vides Ribera del Duero,2018.0,4.3,71,Ribera del Duero,69.9,41.66575665,-3.686329463971761
+1577,Marques de Riscal,Baron de Chirel Verdejo Vinas Centenarias,2018.0,4.3,71,Castilla y Leon,40.5,41.8037172,-4.7471726
+1578,Pago Calzadilla,Gran Calzadilla,2009.0,4.3,70,Pago Calzadilla,39.95,40.1417164,-2.6540184
+1579,Vina Pomal,Alto de la Caseta,2008.0,4.3,70,Rioja,55.45,42.2814642,-2.482804975070473
+1580,Martinet,Clos Martinet,2002.0,4.3,70,Priorato,177.45,44.8741121,10.1628956
+1581,Marti Fabra,Masia Carreras Negre,2019.0,4.3,69,Emporda,11.91,42.1893929,3.077661284375413
+1582,Sangenis I Vaque,Clos Monlleo,2007.0,4.3,68,Priorato,54.95,44.8741121,10.1628956
+1583,Ferrer Bobet,Priorat,2018.0,4.3,68,Priorato,25.88,44.8741121,10.1628956
+1584,Figuero,Milagros de Figuero,2016.0,4.3,68,Ribera del Duero,34.85,41.66575665,-3.686329463971761
+1586,Pujanza,Rioja Norte,2006.0,4.3,67,Rioja,75.0,42.2814642,-2.482804975070473
+1588,Espelt,Coma Bruna,2017.0,4.3,67,Emporda,22.8,42.1893929,3.077661284375413
+1591,Abel Mendoza Monge,Grano a Grano Tempranillo,2016.0,4.3,65,Rioja,120.13,42.2814642,-2.482804975070473
+1592,Conreria d'Scala Dei,Voltons,2015.0,4.3,64,Priorato,47.0,44.8741121,10.1628956
+1593,Scala Dei,Masdeu,2014.0,4.3,64,Priorato,84.9,44.8741121,10.1628956
+1594,Real de Asua,Tinto,2016.0,4.3,64,Rioja,78.95,42.2814642,-2.482804975070473
+1595,Bodegas Vilano,Crianza,2019.0,4.3,64,Ribera del Duero,9.99,41.66575665,-3.686329463971761
+1596,Vinyes dels Aspres,S'Alou,2018.0,4.3,64,Emporda,31.5,42.1893929,3.077661284375413
+1597,Altos de Rioja,Altos R Pigeage,2016.0,4.3,63,Rioja,29.95,42.2814642,-2.482804975070473
+1598,Scala Dei,Massipa de Scala Dei Garnatxa Blanca - Xenin,2019.0,4.3,62,Priorato,36.95,44.8741121,10.1628956
+1599,Valserrano,Finca Monteviejo,2017.0,4.3,62,Rioja,32.0,42.2814642,-2.482804975070473
+1600,Marques de Tomares,Rioja Gran Reserva,2014.0,4.3,62,Rioja,25.95,42.2814642,-2.482804975070473
+1601,Shaya,Habis,2018.0,4.3,62,Rueda,21.5,41.4129785,-4.9597533
+1602,Finca Rio Negro,5o Ano,2014.0,4.3,62,La Mancha,23.3863295,28.1030168,-107.7577853
+1603,Allende,Gaminde,2016.0,4.3,62,Rioja,43.8,42.2814642,-2.482804975070473
+1604,Enric Soler,Nun Vinya dels Taus,2017.0,4.3,62,Penedes,123.75,33.4742351,-117.627579
+1605,Martinet,Els Escurcons,2018.0,4.3,61,Priorato,75.5,44.8741121,10.1628956
+1606,Bodegas Ximenez-Spinola,Varietal Fermentacion Lenta,2019.0,4.3,61,Jerez-Xeres-Sherry,29.9,36.65901315,-6.155439431926194
+1607,Loxera,El Cordero y las Virgenes,2016.0,4.3,60,Valencia,24.0,39.4697065,-0.3763353
+1608,Mas d'en Gil,Clos Fonta Priorat,2001.0,4.3,60,Priorato,150.0,44.8741121,10.1628956
+1609,Jose Pariente,Finca Las Comas Verdejo,2016.0,4.3,60,Rueda,29.4,41.4129785,-4.9597533
+1610,Alvaro Palacios,Finca Dofi,1997.0,4.3,60,Priorato,170.0,44.8741121,10.1628956
+1611,Artadi,La Poza de Ballesteros,2016.0,4.3,60,Vino de Espana,93.26,42.1771554,-8.4341104
+1612,Dominio de Es,Vinas Viejas de Soria Ribera Del Duero,2019.0,4.3,59,Ribera del Duero,75.95,41.66575665,-3.686329463971761
+1613,Dominio Fournier,Reserva,2014.0,4.3,59,Ribera del Duero,23.77,41.66575665,-3.686329463971761
+1615,Benjamin de Rothschild - Vega Sicilia,Macan Clasico,2018.0,4.3,57,Rioja,42.5,42.2814642,-2.482804975070473
+1616,Marques de Murrieta,Dalmau Rioja,2002.0,4.3,57,Rioja,75.0,42.2814642,-2.482804975070473
+1617,Valderiz,Tomas Esteban,2010.0,4.3,57,Ribera del Duero,68.99,41.66575665,-3.686329463971761
+1618,Tridente,Prieto Picudo,2018.0,4.3,57,Castilla y Leon,21.95,41.8037172,-4.7471726
+1619,Neton,Garnacha Tintorera,2017.0,4.3,57,Castilla y Leon,13.237545,41.8037172,-4.7471726
+1620,Finca Torremilanos,Penalba Lopez Blanco,2019.0,4.3,57,Castilla y Leon,13.65,41.8037172,-4.7471726
+1621,Enate,Cabernet,2012.0,4.3,57,Somontano,23.5,42.0883878,0.09940412890672314
+1622,Pradorey,El Cuentista,2018.0,4.3,57,Ribera del Duero,17.9,41.66575665,-3.686329463971761
+1623,Vall Llach,Porrera Vi de Vila,2018.0,4.3,56,Priorato,49.95,44.8741121,10.1628956
+1624,Terroir Al Limit Soc. Lda,Les Manyes,2011.0,4.3,56,Priorato,348.85,44.8741121,10.1628956
+1625,Bodega Aida i Luis,Tahulla Moscatel Blanco Seco,2018.0,4.3,56,Alicante,11.95,38.3436365,-0.4881708
+1626,Valderiz,Juegabolos,2017.0,4.3,56,Ribera del Duero,28.6,41.66575665,-3.686329463971761
+1627,Abadal,3.9,2018.0,4.3,56,Pla de Bages,21.3,41.7785429,1.8904077
+1628,Raul Perez,Sketch,2019.0,4.3,56,Rias Baixas,44.95,42.3533841,-7.8778072
+1629,Portal del Priorat,Clos del Portal Somni,2008.0,4.3,55,Priorato,36.3,44.8741121,10.1628956
+1630,Baigorri,De Garage Rioja,2017.0,4.3,55,Rioja,32.0,42.2814642,-2.482804975070473
+1631,Cartoixa de Montsalvat,Montsalvat,2007.0,4.3,54,Priorato,39.712635,44.8741121,10.1628956
+1632,Clos Galena,Galena,2018.0,4.3,54,Priorato,17.9,44.8741121,10.1628956
+1633,Bodega Ribas,Sio Negre,2019.0,4.3,53,Mallorca,39.9,39.613432,2.880353635614984
+1634,Allende,Aurus,2001.0,4.3,53,Rioja,140.0,42.2814642,-2.482804975070473
+1635,Enate,Chardonnay Uno,2012.0,4.3,53,Somontano,249.95,42.0883878,0.09940412890672314
+1636,El Lagar de Isilla,Vendimia Seleccionada,2015.0,4.3,53,Ribera del Duero,28.83,41.66575665,-3.686329463971761
+1637,Finca Villacreces,Nebro Ribera del Duero,2013.0,4.3,53,Ribera del Duero,196.29,41.66575665,-3.686329463971761
+1638,Bodega Otazu,Pago de Otazu Chardonnay Con Crianza,2018.0,4.3,53,Otazu,28.4,42.8317497,-2.6275294
+1639,Jose Pariente,Verdejo Fermentado en Barrica,2020.0,4.3,53,Rueda,14.5,41.4129785,-4.9597533
+1641,Toro Albala,Don PX Pedro Ximenez,1999.0,4.3,52,Montilla-Moriles,36.9,36.7286168,-4.3001727
+1642,Cervoles,Vinyes Altes de Les Garrigues Vi Blanc,2019.0,4.3,52,Costers del Segre,25.8,41.502298249999996,0.8273990115524253
+1643,Anibal de Otero,Vina Centenaria Mencia,2014.0,4.3,52,Bierzo,38.0,42.65265025,-6.62318404217132
+1644,Familia Torres,Grans Muralles,2017.0,4.3,52,Conca de Barbera,137.75,41.44389565,1.1885113323042593
+1645,Costers del Siurana,Clos de L'Obac,2009.0,4.3,51,Priorato,79.9,44.8741121,10.1628956
+1646,Bodegas San Roman,Malvasia,2017.0,4.3,51,Castilla,41.5,-15.5859786,-72.3617354
+1647,Finca Rio Negro,Cerro del Lobo Syrah,2018.0,4.3,51,Castilla,24.5,-15.5859786,-72.3617354
+1648,Cervoles,Estrats,2012.0,4.3,51,Costers del Segre,68.55,41.502298249999996,0.8273990115524253
+1649,Scala Dei,Masdeu,2016.0,4.3,51,Priorato,81.35,44.8741121,10.1628956
+1650,Vina Sastre,Regina Vides Ribera del Duero,2001.0,4.3,50,Ribera del Duero,121.5,41.66575665,-3.686329463971761
+1651,Vizcarra,Celia,2014.0,4.3,50,Ribera del Duero,79.98,41.66575665,-3.686329463971761
+1652,Marques de Caceres,Gaudium,1998.0,4.3,50,Rioja,60.0,42.2814642,-2.482804975070473
+1653,Barahonda,Summum Monastrell,2019.0,4.3,50,Yecla,13.99,38.613652,-1.1157373
+1654,Mas Doix,Doix,2002.0,4.3,49,Priorato,195.52,44.8741121,10.1628956
+1655,Altos del Enebro,Finca La Herradura,2014.0,4.3,49,Ribera del Duero,68.0,41.66575665,-3.686329463971761
+1656,Pago de Larrainzar,Reserva Especial,2014.0,4.3,49,Navarra,16.9,42.61254875,-1.830787673361753
+1657,Albamar,Alma de Mar Albarino,2019.0,4.3,49,Rias Baixas,27.5,42.3533841,-7.8778072
+1659,Pujanza,Rioja Anadas Frias,2016.0,4.3,49,Rioja,75.0,42.2814642,-2.482804975070473
+1660,Finca Rio Negro,5o Ano,2016.0,4.3,49,La Mancha,23.9,28.1030168,-107.7577853
+1661,Oxer Wines,Suzzane Rioja,2019.0,4.3,48,Rioja,34.9,42.2814642,-2.482804975070473
+1663,Dominio de Atauta,Llanos del Almendro Ribera del Duero,2010.0,4.3,48,Ribera del Duero,95.0,41.66575665,-3.686329463971761
+1664,Can Bas,Monreal,2015.0,4.3,48,Penedes,44.1,33.4742351,-117.627579
+1665,Atlantida,Blanco,2019.0,4.3,48,Cadiz,17.7,36.5297438,-6.2928976
+1666,Atlan & Artisan,8 Vents Mallorca,2019.0,4.3,47,Mallorca,18.9,39.613432,2.880353635614984
+1667,Venus la Universal,Venus,2017.0,4.3,47,Montsant,35.35,41.1171253,1.211005
+1669,Olivardots,Vd'O 1 Samso - Pissarra,2012.0,4.3,46,Emporda,34.95,42.1893929,3.077661284375413
+1670,Terroir Al Limit Soc. Lda,Les Manyes,2012.0,4.3,46,Priorato,348.85,44.8741121,10.1628956
+1671,Lar de Paula,Tempranillo Reserva,2012.0,4.3,46,Rioja,14.9,42.2814642,-2.482804975070473
+1672,Venta Las Vacas,La Cuartilleja Reserva,2015.0,4.3,46,Ribera del Duero,39.7,41.66575665,-3.686329463971761
+1673,Juve & Camps,Cava Gran Reserva La Capella Brut,2010.0,4.3,46,Cava,75.5,42.31658175,1.6111496867672197
+1674,Bodega Contador (Benjamin Romeo),Coleccion No. 3 Cosecha,2014.0,4.3,45,Rioja,189.9,42.2814642,-2.482804975070473
+1675,Luis Canas,Rioja Gran Reserva,2016.0,4.3,45,Rioja,21.01,42.2814642,-2.482804975070473
+1676,La Val,Albarino Sobre Lias,2015.0,4.3,45,Rias Baixas,23.9,42.3533841,-7.8778072
+1677,Tres Piedras,Nobbis,2019.0,4.3,45,Ribera del Duero,12.8,41.66575665,-3.686329463971761
+1678,Raul Perez,Rara Avis Prieto Picudo,2013.0,4.3,45,Castilla y Leon,39.95,41.8037172,-4.7471726
+1679,Javi Revert,Sensal,2020.0,4.3,45,Valencia,22.35,39.4697065,-0.3763353
+1680,Bodega Campo Eliseo,Campo Eliseo Blanco,2018.0,4.3,45,Rueda,27.25,41.4129785,-4.9597533
+1681,Alta Alella,Blanc de Neu,2016.0,4.3,45,Alella,16.99,41.4952867,2.2942758
+1683,Terras Gauda,La Mar,2019.0,4.3,45,Rias Baixas,21.5,42.3533841,-7.8778072
+1684,Descendientes de J. Palacios,Las Lamas Bierzo (Corullon),2017.0,4.3,44,Bierzo,106.92,42.65265025,-6.62318404217132
+1685,Lambuena,Vinas Viejas,2014.0,4.3,44,Ribera del Duero,37.065126,41.66575665,-3.686329463971761
+1686,Tarsus,T3rno Seleccion de 3 Parcelas Ribera del Duero,2017.0,4.3,44,Ribera del Duero,38.5,41.66575665,-3.686329463971761
+1687,Bodegas Luis Perez,Fino La Barajuela,2016.0,4.3,44,Andalucia,69.95,37.3399964,-4.5811614
+1688,Marco Abella,Clos Abella Seleccion Especial,2016.0,4.3,44,Priorato,43.5,44.8741121,10.1628956
+1689,Vivanco,Parcelas de Maturana Tinta Coleccion Rioja,2017.0,4.3,44,Rioja,36.5,42.2814642,-2.482804975070473
+1690,Familia Torres,Reserva Real,1998.0,4.3,43,Penedes,213.5,33.4742351,-117.627579
+1691,Attis,Attis Embaixador Albarino,2018.0,4.3,43,Rias Baixas,21.89,42.3533841,-7.8778072
+1692,Miguel Merino,Vitola Reserva,2016.0,4.3,42,Rioja,21.9,42.2814642,-2.482804975070473
+1693,San Cobate,San Cucufate Monasterio,2017.0,4.3,42,Ribera del Duero,33.0,41.66575665,-3.686329463971761
+1694,Pazo Senorans,Tras Los Muros Albarino,2017.0,4.3,42,Rias Baixas,38.0,42.3533841,-7.8778072
+1695,Avancia,Godello,2020.0,4.3,42,Valdeorras,24.77,42.34834155,-6.9659982204038755
+1696,Carlos Moro,CM Tinto,2017.0,4.3,42,Rioja,17.75,42.2814642,-2.482804975070473
+1697,Bodegas Frontonio,La Loma & Los Santos Garnacha Blanca - Macabeo,2018.0,4.3,41,Valdejalon,40.9,41.5381269,-1.3088343589307092
+1698,Vinicola Real,200 Monges Rioja Gran Reserva,2005.0,4.3,40,Rioja,52.5,42.2814642,-2.482804975070473
+1699,Terra Remota,Clos Adrien,2016.0,4.3,40,Emporda,48.91,42.1893929,3.077661284375413
+1700,Cal Batllet - Celler Ripoll Sans,Gratallops Escanya-Vella,2018.0,4.3,40,Priorato,27.1,44.8741121,10.1628956
+1701,Ramon Bilbao,Lalomba Finca Ladero,2016.0,4.3,40,Rioja,58.25,42.2814642,-2.482804975070473
+1703,Jimenez-Landi,El Reventon Cebreros,2016.0,4.3,40,Castilla y Leon,67.95,41.8037172,-4.7471726
+1705,Chivite,Navarra Vendimia Tardia Coleccion 125,2018.0,4.3,39,Navarra,25.95,42.61254875,-1.830787673361753
+1706,Espectacle del Montsant,Tinto,2018.0,4.3,39,Montsant,119.0,41.1171253,1.211005
+1707,Gallina de Piel,Manar dos Seixas,2019.0,4.3,38,Ribeiro,13.5,42.31990645,-8.152266856014716
+1708,Vinicola Real,200 Monges Edicion Exclusiva Blanco Reserva,2010.0,4.3,38,Rioja,51.45,42.2814642,-2.482804975070473
+1709,Cartoixa de Montsalvat,Montsalvat,2005.0,4.3,38,Priorato,56.27,44.8741121,10.1628956
+1710,Arid,Eolic Sauvignon Blanc,2016.0,4.3,38,Penedes,11.65,33.4742351,-117.627579
+1711,Carlos Moro,Finca Valmediano Tinta de Toro 16 Meses Barrica,2012.0,4.3,38,Toro,32.9,41.5216963,-5.3939824
+1712,Jimenez-Landi,Cantos del Diablo,2018.0,4.3,38,Mentrida,197.0,40.2379032,-4.1945535
+1713,Bodegas Reyes,Teofilo Reyes Crianza,2019.0,4.3,38,Ribera del Duero,14.71,41.66575665,-3.686329463971761
+1714,Gutierrez de la Vega,Recondita Armonia Monastrell Dulce,2018.0,4.3,38,Alicante,16.45,38.3436365,-0.4881708
+1715,Hugas de Batlle,Falguera,2009.0,4.3,38,Emporda,53.55,42.1893929,3.077661284375413
+1716,Atlan & Artisan,Epistem No. 3,2016.0,4.3,38,Yecla,18.9,38.613652,-1.1157373
+1717,Telmo Rodriguez,Molino Real,2015.0,4.3,38,Malaga,53.3,36.7213028,-4.4216366
+1718,Bodegas Arrocal,Angel Ribera del Duero,2015.0,4.3,37,Ribera del Duero,31.9,41.66575665,-3.686329463971761
+1719,Buil & Gine,Pleret,2012.0,4.3,37,Priorato,55.5,44.8741121,10.1628956
+1720,Luis A. Rodriguez Vazquez,A Torna dos Pasas Escolma Ribeiro,2016.0,4.3,37,Ribeiro,40.75,42.31990645,-8.152266856014716
+1721,Castell del Remei,Costers Del Segre 1780,2017.0,4.3,37,Costers del Segre,22.9,41.502298249999996,0.8273990115524253
+1722,Vizcarra,Ines,2010.0,4.3,37,Ribera del Duero,76.87,41.66575665,-3.686329463971761
+1723,Vizcarra,Ines,2014.0,4.3,37,Ribera del Duero,79.98,41.66575665,-3.686329463971761
+1724,Valdubon,Honoris,2005.0,4.3,37,Ribera del Duero,35.0,41.66575665,-3.686329463971761
+1725,Emilio Moro,La Revelia Godello,2019.0,4.3,37,Bierzo,21.65,42.65265025,-6.62318404217132
+1726,Altanza,Club Rioja Reserva,2012.0,4.3,36,Rioja,20.95,42.2814642,-2.482804975070473
+1727,Bodegas Y Vinedos Alilian,Camino del Abuelo Vinas Viejas,2013.0,4.3,36,Ribera del Duero,243.8,41.66575665,-3.686329463971761
+1728,Artadi,La Morera de San Lazaro,2016.0,4.3,36,Vino de Espana,80.0,42.1771554,-8.4341104
+1729,Real de Asua,Tinto,2000.0,4.3,36,Rioja,60.4,42.2814642,-2.482804975070473
+1730,Artadi,Quintanilla,2016.0,4.3,35,Vino de Espana,65.9,42.1771554,-8.4341104
+1731,Taron,Reserva,2014.0,4.3,35,Rioja Alta,10.2,42.4157318,-2.87947386168831
+1732,Sebio,Salvaxe,2018.0,4.3,35,Ribeiro,26.75,42.31990645,-8.152266856014716
+1733,R. Lopez de Heredia,Vina Tondonia Reserva,2014.0,4.3,35,Rioja,47.95,42.2814642,-2.482804975070473
+1734,Gramona,Vi De Glass Gewurztraminer,2017.0,4.3,35,Cataluna,18.58,41.8523094,1.5745043
+1735,Goyo Garcia Viadero,Finca Los Quemados,2016.0,4.3,35,Ribera del Duero,27.7,41.66575665,-3.686329463971761
+1736,Bodegas Reyes,Teofilo Reyes Crianza,2018.0,4.3,35,Ribera del Duero,11.94,41.66575665,-3.686329463971761
+1738,Santiago Ruiz,Albarino (O Rosal),2021.0,4.3,35,Rias Baixas,13.45,42.3533841,-7.8778072
+1739,Terroir Al Limit Soc. Lda,Les Manyes,2017.0,4.3,35,Priorato,180.0,44.8741121,10.1628956
+1740,Pujanza,Rioja,2005.0,4.3,34,Rioja,29.0,42.2814642,-2.482804975070473
+1741,Mauro Estevez,Vino de Autor Ribeiro Blanco,2020.0,4.3,34,Ribeiro,15.9,42.31990645,-8.152266856014716
+1743,Mas Bertran,Argila Reserva 3 Anys Brut Nature,2013.0,4.3,34,Penedes,21.6,33.4742351,-117.627579
+1744,Bodegas Gama,Octogenarius,2014.0,4.3,34,Rioja,46.5,42.2814642,-2.482804975070473
+1745,Edetaria,Finca La Pedrissa,2015.0,4.3,34,Terra Alta,37.9,41.027352300000004,0.4105997375190444
+1746,Hacienda Zorita Natural Reserve,Magister,2017.0,4.3,35,Arribes,35.5,43.0671007,0.0917661
+1747,Valtravieso,Ribera del Duero Vendimia Seleccionada VT,2018.0,4.3,34,Ribera del Duero,27.9,41.66575665,-3.686329463971761
+1748,Ton Rimbau,Porcellanic VI Xarel-lo Sur Lie,2011.0,4.3,33,Penedes,110.47,33.4742351,-117.627579
+1749,Can Xanet,Sibila,2017.0,4.3,33,Mallorca,32.46,39.613432,2.880353635614984
+1750,Castillo Perelada,Emporda Reserva Especial Don Miguel Mateu,2015.0,4.3,33,Emporda,15.56,42.1893929,3.077661284375413
+1751,A Coroa,200 Cestos Godello,2020.0,4.3,33,Valdeorras,23.7,42.34834155,-6.9659982204038755
+1752,Sebio,Heaven & Hell,2017.0,4.3,32,Galicia,18.5,42.61946,-7.863112
+1753,Celler de Capcanes,Cabrida Montsant,2018.0,4.3,32,Montsant,36.85,41.1171253,1.211005
+1754,Alonso & Pedrajo,Suane Blanco,2017.0,4.3,32,Rioja,23.9,42.2814642,-2.482804975070473
+1755,Bodegas Amaren,Garnacha,2014.0,4.3,32,Rioja,38.0,42.2814642,-2.482804975070473
+1756,Jimenez-Landi,Cantos del Diablo,2017.0,4.3,33,Mentrida,101.01,40.2379032,-4.1945535
+1757,Bodegas Ochoa,Vendimia Tardia Moscatel,2020.0,4.3,32,Navarra,13.75,42.61254875,-1.830787673361753
+1758,Mandia Vell,Pinot Noir,2017.0,4.3,31,Mallorca,29.38,39.613432,2.880353635614984
+1759,Bodega Juan Carlos Sancha,Cerro La Isa Blanco,2018.0,4.3,31,Rioja,44.9,42.2814642,-2.482804975070473
+1760,Valdecuevas,Cuvee Verdejo,2018.0,4.3,31,Rueda,12.0,41.4129785,-4.9597533
+1761,Algueira,Anadelia,2015.0,4.3,31,Ribeira Sacra,38.5,43.3251858,-8.4398923
+1762,Sebio,Salvaxe,2017.0,4.3,31,Ribeiro,28.35,42.31990645,-8.152266856014716
+1763,Telmo Rodriguez,Tabuerniga,2018.0,4.3,31,Rioja,65.22,42.2814642,-2.482804975070473
+1764,Mocen,Seleccion Especial Verdejo,2021.0,4.3,32,Rueda,6.26,41.4129785,-4.9597533
+1765,Estones,Coster d'en Fornos,2017.0,4.3,31,Montsant,40.55,41.1171253,1.211005
+1766,Bodega Tameran,Malvasia Volcanica,2020.0,4.3,31,Gran Canaria,31.9,27.9580004,-15.6062305376665
+1767,Inurrieta,Laderas de Inurrieta,2017.0,4.3,30,Navarra,26.1,42.61254875,-1.830787673361753
+1768,Telmo Rodriguez,El Velado Tinto,2017.0,4.3,30,Rioja,73.95,42.2814642,-2.482804975070473
+1769,Trus,Pico de Luyas,2018.0,4.3,30,Ribera del Duero,48.9,41.66575665,-3.686329463971761
+1770,Flor de Chasna,Blanco Afrutado,2020.0,4.3,30,Abona,11.99,11.9315754,-15.558446799999999
+1771,Lagar de Sabariz,A Pita Cega,2015.0,4.3,30,Galicia,44.8,42.61946,-7.863112
+1772,Mestres,Mas Via Gran Reserva Brut,2002.0,4.3,29,Cava,76.17,42.31658175,1.6111496867672197
+1774,Campillo,Finca Cuesta Clara Raro Reserva,2016.0,4.3,29,Rioja,39.5,42.2814642,-2.482804975070473
+1775,Naia,Naiades,2018.0,4.3,29,Rueda,19.03,41.4129785,-4.9597533
+1779,Navajas,Mirador de Navajas Reserva Rioja,2011.0,4.3,29,Rioja,28.7550102072719,42.2814642,-2.482804975070473
+1782,Allende,Aurus,2011.0,4.3,29,Rioja,211.92,42.2814642,-2.482804975070473
+1783,Bodega Juan Carlos Sancha,Cerro La Isa Garnacha,2018.0,4.3,28,Rioja,43.9,42.2814642,-2.482804975070473
+1784,Vinyes del Terrer,Nus del Terrer,2016.0,4.3,28,Tarragona,25.9,41.1172364,1.2546057
+1785,Cepas Familiares,Nivel,2018.0,4.3,28,Ribera del Duero,35.0,41.66575665,-3.686329463971761
+1787,Dominio de Loalva,Seleccion Especial,2016.0,4.3,28,Ribera del Duero,32.0,41.66575665,-3.686329463971761
+1788,El Regajal,Galia Clos Santuy,2017.0,4.3,28,Castilla y Leon,74.9,41.8037172,-4.7471726
+1789,Ysios,Seleccion,2016.0,4.3,28,Rioja,30.0,42.2814642,-2.482804975070473
+1790,Antidoto,Le Rose,2018.0,4.3,28,Ribera del Duero,49.0,41.66575665,-3.686329463971761
+1791,Zifar,Pago de las Sabinas,2016.0,4.3,28,Ribera del Duero,39.55,41.66575665,-3.686329463971761
+1794,Volver,Alicante Bouschet by Tarima,2018.0,4.3,27,Alicante,14.9,38.3436365,-0.4881708
+1795,Marques de Riscal,Rioja Gran Reserva,2016.0,4.3,27,Rioja,46.45,42.2814642,-2.482804975070473
+1796,Rodriguez de Vera,Tinto,2017.0,4.3,27,Almansa,15.45,38.8682065,-1.0978627
+1797,Bordalas Garcia,Gueta-Lupia,2011.0,4.3,27,Priorato,31.75,44.8741121,10.1628956
+1798,Sierra Cantabria,Amancio,2002.0,4.3,27,Rioja,110.0,42.2814642,-2.482804975070473
+1799,Bodega Tameran,Marmajuelo,2020.0,4.3,27,Gran Canaria,29.75,27.9580004,-15.6062305376665
+1801,Rimarts,Cava Reserva Especial Chardonnay Brut Nature,2016.0,4.3,27,Cava,18.5,42.31658175,1.6111496867672197
+1802,Pinna Fidelis,Ribera del Duero Vendimia Seleccionada,2016.0,4.3,26,Ribera del Duero,19.8563175,41.66575665,-3.686329463971761
+1803,Habla,No. 23,2017.0,4.3,26,Extremadura,23.1,39.1748426,-6.1529891
+1804,Jimenez-Landi,Las Iruelas El Tiemblo,2018.0,4.3,26,Castilla y Leon,97.07,41.8037172,-4.7471726
+1805,Loess,Tinto,2019.0,4.3,26,Ribera del Duero,8.57,41.66575665,-3.686329463971761
+1806,Jimenez-Landi,Cantos del Diablo,2016.0,4.3,26,Mentrida,67.95,40.2379032,-4.1945535
+1807,Javier Sanz Viticultor,V Dulce de Invierno,2018.0,4.3,26,Castilla y Leon,17.74,41.8037172,-4.7471726
+1808,Dominio de Anza,Diego Magana,2020.0,4.3,26,Rioja,37.9,42.2814642,-2.482804975070473
+1809,Bodegas Amaren,Graciano,2012.0,4.3,26,Rioja,68.0,42.2814642,-2.482804975070473
+1810,Gomez Cruzado,Cerro Las Cuevas Seleccion Terroir,2019.0,4.3,26,Rioja,39.89,42.2814642,-2.482804975070473
+1811,Hacienda Solano,Pena Lobera,2018.0,4.3,25,Ribera del Duero,68.9,41.66575665,-3.686329463971761
+1812,Altos de Rioja,Altos R Pigeage Graciano,2016.0,4.3,25,Rioja,35.0,42.2814642,-2.482804975070473
+1813,Samsara,Ronda,2015.0,4.3,25,Sierras de Malaga,32.5,36.9218381,-4.0957668
+1814,Ordonez,Nisia Las Suertes Verdejo Old Vines,2020.0,4.3,25,Rueda,16.9,41.4129785,-4.9597533
+1815,Josep Grau Viticultor,Territori,2019.0,4.3,25,Montsant,23.6,41.1171253,1.211005
+1816,Cuentavinas,Alomado,2018.0,4.3,25,Rioja,46.95,42.2814642,-2.482804975070473
+1817,Bodegas Gama,Octogenarius,2015.0,4.3,25,Rioja,36.9,42.2814642,-2.482804975070473
+1818,Miguel Merino,Gran Reserva,2000.0,4.3,25,Rioja,48.81,42.2814642,-2.482804975070473
+1819,Los Aguilares,Pinot Noir,2020.0,4.3,25,Sierras de Malaga,33.5,36.9218381,-4.0957668
+1820,Nin-Ortiz,Selma de Nin Blanco,2017.0,4.3,25,Cataluna,56.95,41.8523094,1.5745043
+1821,Zifar,Senda de Los Olivos Roble,2020.0,4.3,25,Ribera del Duero,8.9,41.66575665,-3.686329463971761
+1828,Tinto Pesquera,Reserva,2012.0,4.2,6567,Ribera del Duero,27.0,41.66575665,-3.686329463971761
+1829,La Rioja Alta,Vina Ardanza Reserva,2008.0,4.2,6532,Rioja,33.0,42.2814642,-2.482804975070473
+1830,El Coto,Coto de Imaz Rioja Gran Reserva,2012.0,4.2,6256,Rioja,16.14,42.2814642,-2.482804975070473
+1831,Dominio de Pingus,PSI,2016.0,4.2,6163,Ribera del Duero,37.95,41.66575665,-3.686329463971761
+1832,La Rioja Alta,Vina Alberdi Reserva,2015.0,4.2,5802,Rioja,17.02,42.2814642,-2.482804975070473
+1833,Abadia Retuerta,Seleccion Especial,2014.0,4.2,5178,Sardon de Duero,49.85,41.6085193,-4.4339323
+1834,Mar de Frades,Rias Baixas Albarino Atlantico,2019.0,4.2,4610,Rias Baixas,14.95,42.3533841,-7.8778072
+1835,Matarromera,Crianza,2016.0,4.2,4127,Ribera del Duero,9.76,41.66575665,-3.686329463971761
+1836,Arzuaga,Ribera del Duero Crianza,2016.0,4.2,4091,Ribera del Duero,19.16,41.66575665,-3.686329463971761
+1837,La Rioja Alta,Vina Alberdi Reserva,2016.0,4.2,3825,Rioja,15.8,42.2814642,-2.482804975070473
+1838,Imperial,Rioja Reserva,2015.0,4.2,3788,Rioja,19.8333333333333,42.2814642,-2.482804975070473
+1839,Protos,27 Ribera del Duero,2016.0,4.2,3725,Ribera del Duero,21.0,41.66575665,-3.686329463971761
+1840,Terras Gauda,Terras Gauda O Rosal,2020.0,4.2,3648,Rias Baixas,12.29,42.3533841,-7.8778072
+1841,Protos,27 Ribera del Duero,2017.0,4.2,3545,Ribera del Duero,23.75,41.66575665,-3.686329463971761
+1842,Remelluri,Rioja Reserva,2012.0,4.2,3453,Rioja,15.83,42.2814642,-2.482804975070473
+1843,Arzuaga,Ribera del Duero Crianza,2017.0,4.2,3354,Ribera del Duero,15.45,41.66575665,-3.686329463971761
+1844,Familia Torres,Salmos,2016.0,4.2,3225,Priorato,24.85,44.8741121,10.1628956
+1845,Pago de Los Capellanes,Crianza Tinto,2017.0,4.2,3224,Ribera del Duero,20.95,41.66575665,-3.686329463971761
+1846,Marques de Riscal,Rioja Gran Reserva,2007.0,4.2,3101,Rioja,28.43,42.2814642,-2.482804975070473
+1847,R. Lopez de Heredia,Vina Bosconia Reserva,2008.0,4.2,2901,Rioja Alta,22.58,42.4157318,-2.87947386168831
+1848,Bodegas Mauro,Red,2011.0,4.2,2820,Castilla y Leon,58.26,41.8037172,-4.7471726
+1849,R. Lopez de Heredia,Vina Bosconia Reserva,2007.0,4.2,2820,Rioja Alta,20.95,42.4157318,-2.87947386168831
+1850,Familia Torres,Mas La Plana Cabernet Sauvignon,2010.0,4.2,2788,Penedes,48.4,33.4742351,-117.627579
+1851,Rafael Palacios,Louro Godello,2019.0,4.2,2685,Valdeorras,19.7,42.34834155,-6.9659982204038755
+1852,Imperial,Rioja Reserva,2016.0,4.2,2676,Rioja,24.75,42.2814642,-2.482804975070473
+1853,Bodegas Roda,Roda Reserva Rioja,2015.0,4.2,2478,Rioja,55.47,42.2814642,-2.482804975070473
+1854,Bodegas Roda,Roda Reserva Rioja,2012.0,4.2,2375,Rioja,28.4,42.2814642,-2.482804975070473
+1855,Imperial,Rioja Reserva,2014.0,4.2,2364,Rioja,27.6,42.2814642,-2.482804975070473
+1856,Juan Gil,Jumilla Blue Label,2015.0,4.2,2271,Jumilla,24.76,38.4735408,-1.3285417
+1857,Juan Gil,Jumilla Blue Label,2018.0,4.2,2234,Jumilla,24.6,38.4735408,-1.3285417
+1858,Juan Gil,Jumilla Blue Label,2017.0,4.2,2135,Jumilla,22.5,38.4735408,-1.3285417
+1860,Carmelo Rodero,Crianza,2017.0,4.2,2050,Ribera del Duero,19.99,41.66575665,-3.686329463971761
+1861,Atalaya,La Atalaya del Camino,2017.0,4.2,2022,Almansa,11.8,38.8682065,-1.0978627
+1862,Protos,27 Ribera del Duero,2018.0,4.2,1981,Ribera del Duero,23.74,41.66575665,-3.686329463971761
+1863,Bodegas Roda,Roda Reserva Rioja,2013.0,4.2,1931,Rioja,30.35,42.2814642,-2.482804975070473
+1864,Protos,Gran Reserva,2012.0,4.2,1921,Ribera del Duero,38.84,41.66575665,-3.686329463971761
+1865,Remelluri,Rioja Reserva,2013.0,4.2,1768,Rioja,21.5,42.2814642,-2.482804975070473
+1866,Tinto Pesquera,Reserva,2015.0,4.2,1688,Ribera del Duero,29.95,41.66575665,-3.686329463971761
+1867,Marques de Riscal,Rioja 150 Aniversario,2010.0,4.2,1686,Rioja,59.0,42.2814642,-2.482804975070473
+1868,Pintia,Toro,2006.0,4.2,1665,Toro,98.9,41.5216963,-5.3939824
+1869,Bodegas Roda,Roda Reserva Rioja,2014.0,4.2,1645,Rioja,59.9,42.2814642,-2.482804975070473
+1870,Alto Moncayo,Veraton Garnacha,2014.0,4.2,1627,Campo de Borja,19.94,41.78654145,-1.5058322706803928
+1871,R. Lopez de Heredia,Vina Bosconia Reserva,2009.0,4.2,1611,Rioja Alta,23.52,42.4157318,-2.87947386168831
+1872,Casa Rojo,Alexander vs. The Ham Factory,2016.0,4.2,1573,Ribera del Duero,33.3733333333333,41.66575665,-3.686329463971761
+1873,Dominio de Pingus,PSI,2019.0,4.2,1355,Ribera del Duero,34.5,41.66575665,-3.686329463971761
+1874,Alto Moncayo,Veraton Garnacha,2018.0,4.2,1343,Campo de Borja,21.6,41.78654145,-1.5058322706803928
+1875,La Rioja Alta,Vina Alberdi Crianza,2015.0,4.2,1341,Rioja,11.2,42.2814642,-2.482804975070473
+1876,Huerta de Albala,Taberner Tierra de Cadiz,2014.0,4.2,1337,Cadiz,32.0010770950795,36.5297438,-6.2928976
+1877,Marques de Riscal,Rioja Gran Reserva,2011.0,4.2,1319,Rioja,39.5,42.2814642,-2.482804975070473
+1878,Garmon,Ribera del Duero,2015.0,4.2,1308,Ribera del Duero,33.59,41.66575665,-3.686329463971761
+1879,Marques de Murrieta,Capellania Reserva,2015.0,4.2,1301,Rioja,29.15,42.2814642,-2.482804975070473
+1880,Aster,Finca El Otero,2014.0,4.2,1267,Ribera del Duero,28.75,41.66575665,-3.686329463971761
+1881,Matarromera,Crianza,2017.0,4.2,1209,Ribera del Duero,16.88,41.66575665,-3.686329463971761
+1882,Gramona,Gessami,2019.0,4.2,1164,Penedes,9.95,33.4742351,-117.627579
+1883,Dominio de Atauta,Dominio de Atauta,2016.0,4.2,1159,Ribera del Duero,25.71,41.66575665,-3.686329463971761
+1885,Huerta de Albala,Taberner Tierra de Cadiz,2015.0,4.2,1125,Cadiz,17.04,36.5297438,-6.2928976
+1886,Montecastro,Ribera del Duero Red,2015.0,4.2,1095,Ribera del Duero,18.9,41.66575665,-3.686329463971761
+1887,Bosque de Matasnos,Bosque de Matasnos Etiqueta Blanca,2017.0,4.2,1093,Ribera del Duero,55.75,41.66575665,-3.686329463971761
+1888,Garmon,Ribera del Duero,2014.0,4.2,1086,Ribera del Duero,37.9,41.66575665,-3.686329463971761
+1889,Bodegas La Horra,Corimbo I,2014.0,4.2,1078,Ribera del Duero,39.0,41.66575665,-3.686329463971761
+1890,Carmelo Rodero,Crianza,2018.0,4.2,1070,Ribera del Duero,16.49,41.66575665,-3.686329463971761
+1892,Atalaya,La Atalaya del Camino,2019.0,4.2,1048,Almansa,11.66,38.8682065,-1.0978627
+1893,R. Lopez de Heredia,Vina Tondonia Reserva Blanco,2005.0,4.2,1043,Rioja Alta,26.9,42.4157318,-2.87947386168831
+1894,Protos,Reserva 5 Ano,2015.0,4.2,1040,Ribera del Duero,22.95,41.66575665,-3.686329463971761
+1895,Emilio Moro,Malleolus,2014.0,4.2,1030,Ribera del Duero,31.95,41.66575665,-3.686329463971761
+1897,Alvaro Palacios,Les Terrasses Velles Vinyes Priorat,2017.0,4.2,1016,Priorato,85.9,44.8741121,10.1628956
+1898,Familia Torres,Salmos,2017.0,4.2,1008,Priorato,20.99,44.8741121,10.1628956
+1899,Bodega Numanthia,Numanthia,2013.0,4.2,998,Toro,51.19,41.5216963,-5.3939824
+1900,Alvaro Palacios,Les Terrasses Laderas de Pizarra,2016.0,4.2,970,Priorato,32.25,44.8741121,10.1628956
+1901,Merum Priorati,Inici,2017.0,4.2,969,Priorato,39.0,44.8741121,10.1628956
+1902,Familia Torres,Mas La Plana Cabernet Sauvignon,2016.0,4.2,964,Penedes,56.26,33.4742351,-117.627579
+1903,Bodegas La Horra,Corimbo I,2011.0,4.2,918,Ribera del Duero,23.4,41.66575665,-3.686329463971761
+1904,Castillo Perelada,5 Finques (Fincas) Reserva,2017.0,4.2,918,Emporda,11.35,42.1893929,3.077661284375413
+1905,Bodegas La Horra,Corimbo I,2013.0,4.2,915,Ribera del Duero,37.5,41.66575665,-3.686329463971761
+1906,Quinta Sardonia,QS,2010.0,4.2,900,Castilla y Leon,40.76,41.8037172,-4.7471726
+1907,Martinet,Martinet Bru (Garnatxa - Syrah),2019.0,4.2,897,Priorato,21.9,44.8741121,10.1628956
+1908,La Rioja Alta,Vina Ardanza Reserva,2000.0,4.2,883,Rioja,161.0,42.2814642,-2.482804975070473
+1909,Vinedos de Paganos,El Puntido,2013.0,4.2,879,Rioja,34.41,42.2814642,-2.482804975070473
+1910,Emilio Moro,Ribera del Duero,2019.0,4.2,876,Ribera del Duero,16.95,41.66575665,-3.686329463971761
+1911,Alvaro Palacios,Finca Dofi,2015.0,4.2,865,Priorato,52.5,44.8741121,10.1628956
+1912,Protos,Reserva 5 Ano,2014.0,4.2,855,Ribera del Duero,19.53,41.66575665,-3.686329463971761
+1913,Bodegas Valduero,Ribera Del Duero Reserva,2012.0,4.2,852,Ribera del Duero,30.0,41.66575665,-3.686329463971761
+1914,Baluarte,Muscat,2020.0,4.2,842,Navarra,5.5,42.61254875,-1.830787673361753
+1915,Marques de Riscal,Rioja Gran Reserva,2014.0,4.2,840,Rioja,35.63,42.2814642,-2.482804975070473
+1916,Bodegas Roda,Roda Reserva Rioja,2017.0,4.2,834,Rioja,25.5,42.2814642,-2.482804975070473
+1917,Bodegas Amaren,Angeles de Amaren Tempranillo - Graciano,2015.0,4.2,832,Rioja,19.38,42.2814642,-2.482804975070473
+1918,Marques de Murrieta,Reserva Rioja (Finca Ygay),2017.0,4.2,811,Rioja,20.9,42.2814642,-2.482804975070473
+1919,Arzuaga,Ribera del Duero Crianza,2019.0,4.2,806,Ribera del Duero,18.5,41.66575665,-3.686329463971761
+1920,Marques de Riscal,Reserva XR,2015.0,4.2,778,Rioja,23.0,42.2814642,-2.482804975070473
+1921,Familia Torres,Purgatori Costers del Segre,2016.0,4.2,778,Costers del Segre,38.37,41.502298249999996,0.8273990115524253
+1922,Familia Torres,Purgatori Costers del Segre,2017.0,4.2,777,Costers del Segre,25.5,41.502298249999996,0.8273990115524253
+1923,Ramon Bilbao,Mirto,2012.0,4.2,776,Rioja,35.0,42.2814642,-2.482804975070473
+1924,Ossian,Vinas Viejas Verdejo,2015.0,4.2,769,Castilla y Leon,30.0,41.8037172,-4.7471726
+1925,Hispano Suizas,Bassus Pinot Noir,2017.0,4.2,753,Utiel-Requena,18.95,39.4880777,-1.1001643
+1926,Murviedro,Sericis Cepas Viejas Monastrell,2017.0,4.2,745,Valencia,8.95,39.4697065,-0.3763353
+1927,Castillo Perelada,Finca Malaveina,2016.0,4.2,740,Emporda,25.35,42.1893929,3.077661284375413
+1928,Montecastro,Ribera del Duero Red,2018.0,4.2,733,Ribera del Duero,18.5,41.66575665,-3.686329463971761
+1929,Contino,Rioja Gran Reserva,2008.0,4.2,732,Rioja,36.0,42.2814642,-2.482804975070473
+1930,Contino,Rioja Gran Reserva,2009.0,4.2,731,Rioja,85.8,42.2814642,-2.482804975070473
+1931,Hispano Suizas,Bassus Pinot Noir,2018.0,4.2,721,Utiel-Requena,19.25,39.4880777,-1.1001643
+1932,Quinta Sardonia,QS,2007.0,4.2,707,Castilla y Leon,37.5,41.8037172,-4.7471726
+1933,VALENCISO,Rioja Reserva,2014.0,4.2,696,Rioja,19.4,42.2814642,-2.482804975070473
+1934,Gramona,Gessami,2020.0,4.2,692,Penedes,11.2,33.4742351,-117.627579
+1935,Remirez de Ganuza,Rioja Reserva Fincas de Ganuza,2014.0,4.2,684,Rioja,29.5,42.2814642,-2.482804975070473
+1936,Barahonda,Summum Monastrell,2017.0,4.2,682,Yecla,15.95,38.613652,-1.1157373
+1937,Losada,Altos de Losada,2017.0,4.2,676,Bierzo,18.4,42.65265025,-6.62318404217132
+1938,Alvaro Palacios,Finca Dofi,2014.0,4.2,671,Priorato,59.95,44.8741121,10.1628956
+1939,El Coto,Coto de Imaz Rioja Gran Reserva,2015.0,4.2,668,Rioja,15.88,42.2814642,-2.482804975070473
+1940,Matsu,El Viejo,2012.0,4.2,668,Toro,26.95,41.5216963,-5.3939824
+1941,Recaredo,Corpinnat Terrers Brut Nature,2017.0,4.2,667,Cava,25.0,42.31658175,1.6111496867672197
+1943,Alvaro Palacios,Vi de Vila Gratallops,2015.0,4.2,648,Priorato,60.0,44.8741121,10.1628956
+1944,Alvaro Palacios,Vi de Vila Gratallops,2014.0,4.2,647,Priorato,55.0,44.8741121,10.1628956
+1945,Marques de Murrieta,Gran Reserva Rioja (Finca Ygay),2010.0,4.2,645,Rioja,86.95,42.2814642,-2.482804975070473
+1946,Tobia,Oscar Tobia Reserva Rioja,2015.0,4.2,633,Rioja,20.0,42.2814642,-2.482804975070473
+1947,Marques de Caceres,Rioja Satinela Blanco Semidulce,2020.0,4.2,630,Rioja,6.99,42.2814642,-2.482804975070473
+1948,Vina Pedrosa,Reserva,2012.0,4.2,628,Ribera del Duero,29.93,41.66575665,-3.686329463971761
+1949,Castillo Perelada,Finca Malaveina,2012.0,4.2,627,Emporda,17.84,42.1893929,3.077661284375413
+1950,Contino,Rioja Gran Reserva,2014.0,4.2,624,Rioja,34.5,42.2814642,-2.482804975070473
+1951,Bodegas Mauro,Red,2008.0,4.2,622,Castilla y Leon,55.0,41.8037172,-4.7471726
+1952,Portal del Priorat,Clos del Portal Negre de Negres,2017.0,4.2,612,Priorato,21.85,44.8741121,10.1628956
+1953,Recaredo,Corpinnat Terrers Brut Nature,2016.0,4.2,611,Cava,21.8,42.31658175,1.6111496867672197
+1954,Torre de Ona,Martelo Reserva,2014.0,4.2,600,Rioja,20.5,42.2814642,-2.482804975070473
+1955,Tinto Pesquera,Crianza,2019.0,4.2,599,Ribera del Duero,17.25,41.66575665,-3.686329463971761
+1956,Dehesa de Los Canonigos,Solideo,2015.0,4.2,592,Ribera del Duero,35.09,41.66575665,-3.686329463971761
+1957,Sei Solo,Preludio,2017.0,4.2,591,Ribera del Duero,24.9,41.66575665,-3.686329463971761
+1958,Diez Caballero,Reserva Tempranillo,2011.0,4.2,587,Rioja,20.4532878069468,42.2814642,-2.482804975070473
+1959,Mas d'en Gil,Coma Vella Priorat,2014.0,4.2,576,Priorato,24.8,44.8741121,10.1628956
+1960,Chozas Carrascal,Las Ocho (8) Tinto,2017.0,4.2,570,Utiel-Requena,16.767557,39.4880777,-1.1001643
+1961,Vegalfaro,Pago de los Balagueses Syrah,2017.0,4.2,559,Utiel-Requena,17.7,39.4880777,-1.1001643
+1962,Lopez Cristobal,Bagus Ribera del Duero,2012.0,4.2,559,Ribera del Duero,54.0,41.66575665,-3.686329463971761
+1963,Clos Galena,Formiga de Vellut,2018.0,4.2,558,Priorato,16.2,44.8741121,10.1628956
+1964,Bodegas Valduero,Tierra Alta En 2 Maderas,2017.0,4.2,557,Ribera del Duero,19.9,41.66575665,-3.686329463971761
+1965,Los Aguilares,Pago El Espino,2017.0,4.2,555,Sierras de Malaga,25.35,36.9218381,-4.0957668
+1966,VALENCISO,Rioja Blanco,2018.0,4.2,540,Rioja,17.75,42.2814642,-2.482804975070473
+1967,Dehesa de Los Canonigos,Crianza,2018.0,4.2,528,Ribera del Duero,18.9,41.66575665,-3.686329463971761
+1968,Palacios Remondo,Propiedad  Rioja,2017.0,4.2,527,Rioja,25.9,42.2814642,-2.482804975070473
+1969,Dehesa de Los Canonigos,Crianza,2017.0,4.2,520,Ribera del Duero,18.25,41.66575665,-3.686329463971761
+1970,Bodegas Faustino,Reserva Especial Icon Edition,2014.0,4.2,519,Rioja,23.89,42.2814642,-2.482804975070473
+1972,Matsu,El Viejo,2017.0,4.2,518,Toro,33.9,41.5216963,-5.3939824
+1973,Lan,Vina Lanciano Reserva,2015.0,4.2,514,Rioja,14.6,42.2814642,-2.482804975070473
+1974,Anima Negra,An,2016.0,4.2,513,Mallorca,139.9,39.613432,2.880353635614984
+1975,Bodegas Mas Alta,Artigas,2017.0,4.2,505,Priorato,20.9,44.8741121,10.1628956
+1976,Vinicola Real,200 Monges Rioja Reserva,2005.0,4.2,499,Rioja,48.0,42.2814642,-2.482804975070473
+1977,Contino,Rioja Gran Reserva,2011.0,4.2,490,Rioja,39.5,42.2814642,-2.482804975070473
+1978,Sei Solo,Preludio,2018.0,4.2,488,Ribera del Duero,24.5,41.66575665,-3.686329463971761
+1980,Tridente,Rejon Tempranillo,2012.0,4.2,485,Castilla y Leon,36.97,41.8037172,-4.7471726
+1981,Emilio Moro,La Felisa,2018.0,4.2,483,Ribera del Duero,26.3,41.66575665,-3.686329463971761
+1982,Emilio Moro,La Revelia Godello,2018.0,4.2,484,Bierzo,21.95,42.65265025,-6.62318404217132
+1983,Valderiz,Tinto,2018.0,4.2,481,Ribera del Duero,21.5,41.66575665,-3.686329463971761
+1984,Lan,A Mano Rioja,2009.0,4.2,480,Rioja,28.95,42.2814642,-2.482804975070473
+1985,Familia Torres,Milmanda,2015.0,4.2,473,Conca de Barbera,126.2,41.44389565,1.1885113323042593
+1986,Terras Gauda,Terras Gauda O Rosal,2021.0,4.2,466,Rias Baixas,11.9,42.3533841,-7.8778072
+1987,Pazo Senorans,Seleccion de Anada Albarino Rias Baixas,2008.0,4.2,459,Rias Baixas,37.9,42.3533841,-7.8778072
+1988,Muga,Seleccion Especial (Reserva),2004.0,4.2,447,Rioja,65.0,42.2814642,-2.482804975070473
+1989,Bohorquez,Reserva,2009.0,4.2,442,Ribera del Duero,21.65,41.66575665,-3.686329463971761
+1990,Abadal,3.9,2016.0,4.2,441,Pla de Bages,22.95,41.7785429,1.8904077
+1991,Mar de Frades,Rias Baixas Albarino Atlantico,2021.0,4.2,439,Rias Baixas,14.8,42.3533841,-7.8778072
+1992,Adega Familiar Eladio Pineiro,Envidiacochina (Tete de Cuvee),2019.0,4.2,438,Rias Baixas,18.46,42.3533841,-7.8778072
+1993,Pradorey,Adaro,2017.0,4.2,436,Ribera del Duero,16.45,41.66575665,-3.686329463971761
+1994,Montecastro,Ribera del Duero Red,2017.0,4.2,433,Ribera del Duero,16.9,41.66575665,-3.686329463971761
+1996,Portal del Priorat,Clos del Portal Negre de Negres,2018.0,4.2,429,Priorato,21.7,44.8741121,10.1628956
+1997,Castillo Perelada,Monastrell - Syrah Finca Espolla,2016.0,4.2,424,Emporda,13.95,42.1893929,3.077661284375413
+1998,Castano,Casa Cisca Monastrell,2011.0,4.2,423,Yecla,32.0,38.613652,-1.1157373
+1999,Remirez de Ganuza,Rioja Blanco,2017.0,4.2,421,Rioja,29.15,42.2814642,-2.482804975070473
+2000,La Vicalanda,Reserva,2015.0,4.2,420,Rioja,17.5,42.2814642,-2.482804975070473
+2001,Enrique Mendoza,Santa Rosa,2017.0,4.2,420,Alicante,18.9,38.3436365,-0.4881708
+2002,Clos Pons,Roc Nu,2011.0,4.2,420,Costers del Segre,23.95,41.502298249999996,0.8273990115524253
+2003,Sierra Cantabria,Coleccion Privada,2012.0,4.2,420,Rioja,28.3,42.2814642,-2.482804975070473
+2004,Imperial,Rioja Reserva,2004.0,4.2,417,Rioja,45.0,42.2814642,-2.482804975070473
+2005,Losada,Altos de Losada,2018.0,4.2,415,Bierzo,17.9,42.65265025,-6.62318404217132
+2006,Mar de Frades,Rias Baixas Albarino Finca Valinas,2015.0,4.2,414,Rias Baixas,16.78,42.3533841,-7.8778072
+2007,La Rioja Alta,Vina Alberdi Crianza,2018.0,4.2,410,Rioja,13.58,42.2814642,-2.482804975070473
+2008,Bodegas La Horra,Corimbo I,2015.0,4.2,412,Ribera del Duero,37.9,41.66575665,-3.686329463971761
+2009,Vina Pedrosa,Gran Reserva,2011.0,4.2,410,Ribera del Duero,51.35,41.66575665,-3.686329463971761
+2010,Campillo,Gran Reserva Rioja,2012.0,4.2,410,Rioja,22.99,42.2814642,-2.482804975070473
+2011,Ramon do Casar,Treixadura,2020.0,4.2,407,Ribeiro,11.95,42.31990645,-8.152266856014716
+2013,Portal del Priorat,Clos del Portal Somni,2014.0,4.2,404,Priorato,77.36,44.8741121,10.1628956
+2014,Binigrau,Nounat,2020.0,4.2,404,Mallorca,19.9,39.613432,2.880353635614984
+2015,Ramon Bilbao,Mirto,2011.0,4.2,402,Rioja,28.53,42.2814642,-2.482804975070473
+2016,Matsu,El Viejo,2019.0,4.2,400,Toro,27.89,41.5216963,-5.3939824
+2017,Artadi,Valdegines,2016.0,4.2,398,Vino de Espana,48.96,42.1771554,-8.4341104
+2018,Contino,Rioja Graciano,2011.0,4.2,395,Rioja,61.94,42.2814642,-2.482804975070473
+2019,Contino,Reserva,2016.0,4.2,392,Rioja,19.98,42.2814642,-2.482804975070473
+2020,Conreria d'Scala Dei,Les Brugueres,2018.0,4.2,390,Priorato,16.76,44.8741121,10.1628956
+2021,Mustiguillo,Finca Terrerazo,2017.0,4.2,390,El Terrerazo,24.45,39.6222682,-1.2467301
+2022,Matarromera,Gran Reserva,2011.0,4.2,389,Ribera del Duero,64.5,41.66575665,-3.686329463971761
+2023,Sei Solo,Preludio,2016.0,4.2,388,Ribera del Duero,31.63,41.66575665,-3.686329463971761
+2024,Vinedos de Paganos,El Puntido,2005.0,4.2,384,Rioja,73.0,42.2814642,-2.482804975070473
+2025,La Vicalanda,Reserva,2015.0,4.2,420,Rioja,17.5,42.2814642,-2.482804975070473
+2026,Enrique Mendoza,Santa Rosa,2017.0,4.2,420,Alicante,18.9,38.3436365,-0.4881708
+2027,Clos Pons,Roc Nu,2011.0,4.2,420,Costers del Segre,23.95,41.502298249999996,0.8273990115524253
+2028,Sierra Cantabria,Coleccion Privada,2012.0,4.2,420,Rioja,28.3,42.2814642,-2.482804975070473
+2029,Imperial,Rioja Reserva,2004.0,4.2,417,Rioja,45.0,42.2814642,-2.482804975070473
+2030,Losada,Altos de Losada,2018.0,4.2,415,Bierzo,17.9,42.65265025,-6.62318404217132
+2031,Mar de Frades,Rias Baixas Albarino Finca Valinas,2015.0,4.2,414,Rias Baixas,16.78,42.3533841,-7.8778072
+2032,La Rioja Alta,Vina Alberdi Crianza,2018.0,4.2,410,Rioja,13.58,42.2814642,-2.482804975070473
+2033,Bodegas La Horra,Corimbo I,2015.0,4.2,412,Ribera del Duero,37.9,41.66575665,-3.686329463971761
+2034,Vina Pedrosa,Gran Reserva,2011.0,4.2,410,Ribera del Duero,51.35,41.66575665,-3.686329463971761
+2035,Campillo,Gran Reserva Rioja,2012.0,4.2,410,Rioja,22.99,42.2814642,-2.482804975070473
+2038,Portal del Priorat,Clos del Portal Somni,2014.0,4.2,404,Priorato,77.36,44.8741121,10.1628956
+2040,Ramon Bilbao,Mirto,2011.0,4.2,402,Rioja,28.53,42.2814642,-2.482804975070473
+2041,Matsu,El Viejo,2019.0,4.2,400,Toro,27.89,41.5216963,-5.3939824
+2042,Artadi,Valdegines,2016.0,4.2,398,Vino de Espana,48.96,42.1771554,-8.4341104
+2043,Contino,Rioja Graciano,2011.0,4.2,395,Rioja,61.94,42.2814642,-2.482804975070473
+2044,Contino,Reserva,2016.0,4.2,392,Rioja,19.98,42.2814642,-2.482804975070473
+2045,Conreria d'Scala Dei,Les Brugueres,2018.0,4.2,390,Priorato,16.76,44.8741121,10.1628956
+2046,Mustiguillo,Finca Terrerazo,2017.0,4.2,390,El Terrerazo,24.45,39.6222682,-1.2467301
+2047,Matarromera,Gran Reserva,2011.0,4.2,389,Ribera del Duero,64.5,41.66575665,-3.686329463971761
+2048,Sei Solo,Preludio,2016.0,4.2,388,Ribera del Duero,31.63,41.66575665,-3.686329463971761
+2049,Vinedos de Paganos,El Puntido,2005.0,4.2,384,Rioja,73.0,42.2814642,-2.482804975070473
+6100,Remirez de Ganuza,Rioja Blanco,2017.0,4.2,421,Rioja,29.15,42.2814642,-2.482804975070473
